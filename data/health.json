@@ -425,8 +425,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/cti/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:cybereason": {
-    "consecutive_failures": 8,
-    "last_attempt_at": "2026-10-22T00:31:18Z",
+    "consecutive_failures": 9,
+    "last_attempt_at": "2026-10-25T04:50:02Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/cybereason/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
   "greenhouse:debtbook": {
@@ -805,8 +805,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/quantumworkplace?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
   },
   "lever:regal": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-10-24T11:09:40Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-10-25T04:50:02Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/regal?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:regalvoice": {
@@ -1444,11 +1444,6 @@
     "last_attempt_at": "2026-10-23T05:32:30Z",
     "last_error": "malformed-response"
   },
-  "workday:acg:careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-10-24T21:00:27Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://acg.wd1.myworkdayjobs.com/wday/cxs/acg/Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
-  },
   "workday:activision:blizzard_external_careers": {
     "consecutive_failures": 29,
     "last_attempt_at": "2026-10-24T04:45:43Z",
@@ -1479,35 +1474,25 @@
     "last_attempt_at": "2026-10-24T04:45:43Z",
     "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://amplify.wd1.myworkdayjobs.com/wday/cxs/amplify/Amplify_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
   },
-  "workday:axiscapital:axiscareers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-10-24T21:00:27Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://axiscapital.wd1.myworkdayjobs.com/wday/cxs/axiscapital/axiscareers/jobs'\nFor more information check: https://developer.mozilla.or"
+  "workday:archildrens:external_career_site": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-10-25T04:50:02Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://archildrens.wd1.myworkdayjobs.com/wday/cxs/archildrens/external_career_site/jobs'\nFor more information check: https://developer.m"
+  },
+  "workday:avnet:external": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-10-25T04:50:02Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://avnet.wd1.myworkdayjobs.com/wday/cxs/avnet/external/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
   },
   "workday:azenta:azentajobs": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-10-24T23:24:36Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://azenta.wd1.myworkdayjobs.com/wday/cxs/azenta/AzentaJobs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
-  "workday:baird:careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-10-24T21:00:27Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://baird.wd1.myworkdayjobs.com/wday/cxs/baird/careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
-  },
   "workday:basspro:careers": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-10-24T23:24:36Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://basspro.wd1.myworkdayjobs.com/wday/cxs/basspro/careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
-  },
-  "workday:becu:external": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-10-24T23:24:36Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://becu.wd1.myworkdayjobs.com/wday/cxs/becu/External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
-  },
-  "workday:belk:careers-collegecampus": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-24T23:24:36Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://belk.wd1.myworkdayjobs.com/wday/cxs/belk/careers-collegecampus/jobs'\nFor more information check: https://developer.mozilla.org/en"
   },
   "workday:bhs:careers": {
     "consecutive_failures": 9,
@@ -1548,6 +1533,11 @@
     "consecutive_failures": 29,
     "last_attempt_at": "2026-10-24T04:45:43Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://chop.wd5.myworkdayjobs.com/wday/cxs/chop/choppreboardonly/jobs'\nFor more information check: https://developer.mozilla.org/en-U"
+  },
+  "workday:cineplex:cineplex": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-10-25T04:50:02Z",
+    "last_error": "malformed-response"
   },
   "workday:cliftonlarsonallen:cla": {
     "consecutive_failures": 29,
@@ -1783,11 +1773,6 @@
     "consecutive_failures": 29,
     "last_attempt_at": "2026-10-24T04:45:43Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://sallie-mae.wd5.myworkdayjobs.com/wday/cxs/sallie-mae/Careers/jobs'\nFor more information check: https://developer.mozilla.org/e"
-  },
-  "workday:schnucks:schnuckscareers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-24T23:24:36Z",
-    "last_error": "malformed-response"
   },
   "workday:schreiberfoods:schreiber_careers": {
     "consecutive_failures": 29,
