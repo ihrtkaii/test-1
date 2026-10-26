@@ -1,34 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "ashby:skydio:ec82eb16-a5b4-46e7-827a-326b33d7d2cb",
-      "smartrecruiters:AbbVie:3743990016414086",
-      "workday:analogdevices:/job/US-MA-Boston/DevOps-Co-Op_R267690",
-      "workday:bah:/job/Lexington-MA/University---2027-Summer-Games-Systems-Engineer-Intern---Lexington--MA_R0252273",
-      "workday:bah:/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278",
-      "workday:bah:/job/Albuquerque-NM/University---2027-Summer-Games--Systems-Engineer-Intern---Albuquerque--NM_R0252337",
-      "workday:bah:/job/Detroit-MI/University---2027-Summer-Games--Systems-Engineer-Intern---Royal-Oaks--MI_R0252341",
-      "workday:highmarkhealth:/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Epic-Systems-Analyst---Epic-AI-enGen-Undergraduate-Internship_J289801",
-      "workday:manh:/job/Atlanta-GA/Cloud-Intern_16992",
-      "workday:motorolasolutions:/job/Chicago-IL/COEE-Presales-System-Engineer--2027-Internship-_R68359",
-      "workday:motorolasolutions:/job/Waltham-MA/Presales-Systems-Engineering---Summer-2027-Internship_R69779",
-      "workday:motorolasolutions:/job/Allen-TX-TX139/Presales-Systems-Engineer---Summer-2027-Internship_R69875",
-      "workday:motorolasolutions:/job/Brentwood-TN/Presales-Systems-Engineer---Summer-2027_R70006"
-    ],
-    "telegram": [
-      "ashby:skydio:ec82eb16-a5b4-46e7-827a-326b33d7d2cb",
-      "smartrecruiters:AbbVie:3743990016414086",
-      "workday:analogdevices:/job/US-MA-Boston/DevOps-Co-Op_R267690",
-      "workday:bah:/job/Lexington-MA/University---2027-Summer-Games-Systems-Engineer-Intern---Lexington--MA_R0252273",
-      "workday:bah:/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278",
-      "workday:bah:/job/Albuquerque-NM/University---2027-Summer-Games--Systems-Engineer-Intern---Albuquerque--NM_R0252337",
-      "workday:bah:/job/Detroit-MI/University---2027-Summer-Games--Systems-Engineer-Intern---Royal-Oaks--MI_R0252341",
-      "workday:highmarkhealth:/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Epic-Systems-Analyst---Epic-AI-enGen-Undergraduate-Internship_J289801",
-      "workday:manh:/job/Atlanta-GA/Cloud-Intern_16992",
-      "workday:motorolasolutions:/job/Chicago-IL/COEE-Presales-System-Engineer--2027-Internship-_R68359",
-      "workday:motorolasolutions:/job/Waltham-MA/Presales-Systems-Engineering---Summer-2027-Internship_R69779",
-      "workday:motorolasolutions:/job/Allen-TX-TX139/Presales-Systems-Engineer---Summer-2027-Internship_R69875",
-      "workday:motorolasolutions:/job/Brentwood-TN/Presales-Systems-Engineer---Summer-2027_R70006"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
