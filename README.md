@@ -8,7 +8,7 @@
 
 ### 616 open roles (497 listed below) · 58 new this week
 
-4,837 employers tracked · data as of Oct 26, 2026 at 04:52 UTC
+4,837 employers tracked · data as of Oct 26, 2026 at 13:13 UTC
 
 _458 have a cycle the employer stated · 158 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -108,7 +108,7 @@ This tracks security and networking internships specifically, because the major 
 | CACI | Cyber Analyst Intern - Summer 2027 | Security (general) | Ashburn, VA, US | Linux | Oct 06, 2026 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Cyber-Analyst-Intern---Summer-2027_333161) |
 | Dmainc | Cybersecurity Intern - Summer 2027 | Security (general) | Fort Wayne, IN | No skills listed | Oct 06, 2026 | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Cybersecurity-Intern---Summer-2027_REQ742) |
 | Midland States Bank | Intern - Security Analyst | Security (general) | St. Louis, MO | No skills listed | Oct 05, 2026 | [Apply](https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/St-Louis-MO/Intern---Security-Analyst_JR1473) |
-| Expedia Group | Security Engineering Intern - 2027 - Seattle | Security (general) | Washington - Seattle Campus | Python, Java, C++, C# | Oct 05, 2026 | [Apply](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Security-Engineering-Intern---2027---Seattle_R-110310-1) |
+| Expedia Group | Security Engineering Intern - 2027 - Seattle | Security (general) | Washington - Seattle Campus | Python, Java, C++, C# | Oct 05, 2026 | [Apply](https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Security-Engineering-Intern---2027---Seattle_R-110310) |
 | CACI | Network / Cybersecurity Intern - Summer 2027 _(2 openings)_ | Security (general) | High Point, NC, US | No skills listed | Oct 02, 2026 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/High-Point-NC-US/Network---Cybersecurity-Intern---Summer-2027_333001) [#2](https://caci.wd1.myworkdayjobs.com/external/job/High-Point-NC-US/Network---Cybersecurity-Intern---Summer-2027_333034-1) |
 | CACI | Cyber Security Intern - Summer 2027 🇺🇸 | Security (general) | Springfield, VA, US | No skills listed | Oct 02, 2026 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046) |
 | Vanguard | College to Corporate IT Internship-Risk & Security Engineer (PA) | Security (general) | Malvern, PA | No skills listed | Oct 02, 2026 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784) |
@@ -678,7 +678,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,759 of 5,132 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 907.8s · 658 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,694 of 5,132 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 1376.8s · 642 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
