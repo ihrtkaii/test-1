@@ -1163,10 +1163,11 @@
     "Summer 2027": {
      "first_posted": "2026-10-20",
      "role_ids": [
+      "workday:highmarkhealth:/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Cyber-Risk-Management-Analyst-Undergraduate-Intern_J286841",
       "workday:highmarkhealth:/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Risk-and-Compliance-Management-Undergraduate-Intern_J287733",
       "workday:highmarkhealth:/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Epic-Systems-Analyst---Epic-AI-enGen-Undergraduate-Internship_J289801"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1244,9 +1245,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-31",
      "role_ids": [
+      "greenhouse:hpiq:6114741004",
       "greenhouse:hpiq:6116398004"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2082,6 +2084,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-Op---Summer-Fall-Systems-Engineer---Onsite_01871438",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Secure-System-Engineering-Intern--Summer-2027-_01869964",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-Intern---Summer-2027--Onsite-_01864173",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/XMLNAME-2027-Summer-Intern--Systems-Engineering---Onsite_01881739",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Platform-System-Engineering-Co-op--2027----Onsite_01871078",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/RSE----Systems-Engineering-Intern-2027--Onsite-_01866779",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/RSE---Systems-Engineering-Intern-2027--Onsite-_01867325",
@@ -2103,7 +2106,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Engineering-Intern--Summer-2027----Onsite_01871091"
      ],
-     "count": 31
+     "count": 32
     }
    }
   },
@@ -2171,6 +2174,7 @@
       "workday:snc:/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540",
       "workday:snc:/job/Hagerstown-MD/Systems-Security-Engineering-Intern--Summer-2027-_R0030783",
       "workday:snc:/job/Lone-Tree-CO/IT-Support-Technician-Intern--Summer-2027-_R0030762",
+      "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027_R0031084",
       "workday:snc:/job/Lone-Tree-CO/Systems-Engineer-Intern--Summer-2027-_R0031176",
       "workday:snc:/job/Lone-Tree-CO/Systems-Engineering-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031097",
       "workday:snc:/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0030750",
@@ -2178,7 +2182,7 @@
       "workday:snc:/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0031180",
       "workday:snc:/job/Plano-TX/Systems-Engineering-Intern--Summer-2027-_R0030752"
      ],
-     "count": 11
+     "count": 12
     },
     "Fall 2026": {
      "first_posted": "2026-09-23",
@@ -2600,5 +2604,5 @@
    }
   }
  },
- "updated_at": "2026-10-27T00:38:47Z"
+ "updated_at": "2026-10-27T05:47:58Z"
 }
