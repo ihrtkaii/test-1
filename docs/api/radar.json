@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-27T18:12:30Z",
- "data_as_of": "2026-10-27T18:12:30Z",
- "rendered_at": "2026-10-27T18:12:31Z",
+ "generated_at": "2026-10-27T22:25:52Z",
+ "data_as_of": "2026-10-27T22:25:52Z",
+ "rendered_at": "2026-10-27T22:25:53Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/test-1",
  "companies": [
@@ -1659,6 +1659,25 @@
    }
   },
   {
+   "company": "Protective Life",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": -41,
+   "status": "open",
+   "url": "https://jobs.lever.co/protective/32a8a257-c5d4-4b77-bf0b-d08dbb93b752",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-16"
+   }
+  },
+  {
    "company": "GM financial",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -1789,25 +1808,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-18"
-   }
-  },
-  {
-   "company": "Protective Life",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-21",
-   "days_until": -36,
-   "status": "open",
-   "url": "https://jobs.lever.co/protective/32a8a257-c5d4-4b77-bf0b-d08dbb93b752",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-21"
    }
   },
   {
@@ -2467,7 +2467,7 @@
    "expected": "2026-10-09",
    "days_until": -18,
    "status": "open",
-   "url": "https://jobs.lever.co/cfsenergy/a05832ae-41df-4e2d-ab86-dd3e2c4877d4",
+   "url": "https://jobs.lever.co/cfsenergy/32e62a79-eff5-4a58-83fd-51a60eb57707",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2837,6 +2837,25 @@
    }
   },
   {
+   "company": "Great American Insurance Company",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-27",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Cloud-Data-Platform-Intern---Summer-2027_R9795",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-27"
+   }
+  },
+  {
    "company": "Visa",
    "last_cycle_posted": "",
    "posted_on": "2026-10-27",
@@ -2847,7 +2866,7 @@
    "expected": "2026-10-27",
    "days_until": 0,
    "status": "open",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Network-and-Security-Engineering-Intern---2027--Highlands-Ranch--CO_REF089779W-1",
+   "url": "https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/US---Ashburn-VA/Network-and-Security-Engineering-Intern---2027--Ashburn--VA_REF089778W-2",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3330,5 +3349,5 @@
    }
   }
  ],
- "count": 175
+ "count": 176
 }

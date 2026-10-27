@@ -1,6 +1,24 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "amazon:amazon:10590368",
+      "lever:filevine:47d66dab-ae72-4256-90d3-8d9e82904370",
+      "lever:protective:0e76f3a3-6d77-4bca-88d8-f37092a94dc1",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008448",
+      "workday:gaig:/job/Cincinnati-OH-USA/Cloud-Data-Platform-Intern---Summer-2027_R9795",
+      "workday:leidos:/job/Pearl-Harbor-HI/Cybersecurity-Analyst-Intern_R-00195607",
+      "workday:leidos:/job/6314-RemoteTeleworker-US/SharePoint---Systems-Engineering-Intern_R-00195538",
+      "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2027-Systems-Engineering-Intern---Aurora-CO_R10257892"
+    ],
+    "telegram": [
+      "amazon:amazon:10590368",
+      "lever:filevine:47d66dab-ae72-4256-90d3-8d9e82904370",
+      "lever:protective:0e76f3a3-6d77-4bca-88d8-f37092a94dc1",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008448",
+      "workday:gaig:/job/Cincinnati-OH-USA/Cloud-Data-Platform-Intern---Summer-2027_R9795",
+      "workday:leidos:/job/Pearl-Harbor-HI/Cybersecurity-Analyst-Intern_R-00195607",
+      "workday:leidos:/job/6314-RemoteTeleworker-US/SharePoint---Systems-Engineering-Intern_R-00195538",
+      "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2027-Systems-Engineering-Intern---Aurora-CO_R10257892"
+    ]
   }
 }

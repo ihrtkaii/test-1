@@ -220,9 +220,10 @@
       "amazon:amazon:10517649",
       "amazon:amazon:10557133",
       "amazon:amazon:10585774",
-      "amazon:amazon:10585775"
+      "amazon:amazon:10585775",
+      "amazon:amazon:10590368"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -1135,6 +1136,18 @@
     }
    }
   },
+  "great american insurance": {
+   "name": "Great American Insurance Company",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-27",
+     "role_ids": [
+      "workday:gaig:/job/Cincinnati-OH-USA/Cloud-Data-Platform-Intern---Summer-2027_R9795"
+     ],
+     "count": 1
+    }
+   }
+  },
   "hd supply": {
    "name": "HD Supply",
    "cycles": {
@@ -1461,12 +1474,14 @@
      "role_ids": [
       "workday:leidos:/job/6314-RemoteTeleworker-US/Cloud-Engineering-Intern_R-00194668",
       "workday:leidos:/job/6314-RemoteTeleworker-US/SharePoint---Systems-Engineering-Intern_R-00190982",
+      "workday:leidos:/job/6314-RemoteTeleworker-US/SharePoint---Systems-Engineering-Intern_R-00195538",
       "workday:leidos:/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00190671",
       "workday:leidos:/job/Arlington-VA/Systems-Engineer-Intern_R-00193940",
       "workday:leidos:/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764",
       "workday:leidos:/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663",
       "workday:leidos:/job/Odenton-MD/Systems-Engineering-Intern_R-00190647",
       "workday:leidos:/job/Pearl-Harbor-HI/Cybersecurity-Analyst-Intern_R-00190665",
+      "workday:leidos:/job/Pearl-Harbor-HI/Cybersecurity-Analyst-Intern_R-00195607",
       "workday:leidos:/job/Shiloh-IL/Cybersecurity-Analyst-Intern_R-00190667",
       "workday:leidos:/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00190662-1",
       "workday:leidos:/job/Shiloh-IL/Network-Impact-Assessment--NIA--Intern_R-00190652-1",
@@ -1475,7 +1490,7 @@
       "workday:leidos:/job/Tampa-FL/Network-Operations-Intern_R-00190651",
       "workday:leidos:/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669"
      ],
-     "count": 15
+     "count": 17
     }
    }
   },
@@ -1808,6 +1823,7 @@
       "workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Systems-Engineer-Intern---Redondo-Beach-CA_R10249113",
       "workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1",
       "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2027-Systems-Engineering-Intern---Aurora-CO_R10256237",
+      "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2027-Systems-Engineering-Intern---Aurora-CO_R10257892",
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
       "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027--Systems-Engineer-Intern---Colorado-Springs-CO_R10249777",
       "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Systems-Engineering-Intern---Colorado-Springs-CO_R10256088",
@@ -1835,7 +1851,7 @@
       "workday:ngc:/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Engineer-Intern---Chantilly-VA_R10255633",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423"
      ],
-     "count": 34
+     "count": 35
     },
     "Fall 2026": {
      "first_posted": "2026-08-31",
@@ -1968,11 +1984,12 @@
    "name": "Protective Life",
    "cycles": {
     "Summer 2027": {
-     "first_posted": "2026-09-21",
+     "first_posted": "2026-09-16",
      "role_ids": [
+      "lever:protective:0e76f3a3-6d77-4bca-88d8-f37092a94dc1",
       "lever:protective:32a8a257-c5d4-4b77-bf0b-d08dbb93b752"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2264,9 +2281,10 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008180",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008210",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008240",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008446"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008446",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008448"
      ],
-     "count": 20
+     "count": 21
     },
     "Fall 2026": {
      "first_posted": "2026-09-02",
@@ -2623,5 +2641,5 @@
    }
   }
  },
- "updated_at": "2026-10-27T18:12:30Z"
+ "updated_at": "2026-10-27T22:25:52Z"
 }
