@@ -1,18 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com:3022588",
-      "ashby:aurora-operations-inc:058e3b3a-dd13-4736-84a8-b19d5de2c9f5",
-      "ashby:aurora-operations-inc:da4c8e2e-0571-4503-94d9-234da86f83b0",
-      "workday:bah:/job/Dayton-OH/University---2027-Summer-Games--Systems-Engineer-Intern---Dayton--OH_R0252342",
-      "greenhouse:lilasciences:4462594009"
-    ],
-    "telegram": [
-      "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com:3022588",
-      "ashby:aurora-operations-inc:058e3b3a-dd13-4736-84a8-b19d5de2c9f5",
-      "ashby:aurora-operations-inc:da4c8e2e-0571-4503-94d9-234da86f83b0",
-      "workday:bah:/job/Dayton-OH/University---2027-Summer-Games--Systems-Engineer-Intern---Dayton--OH_R0252342",
-      "greenhouse:lilasciences:4462594009"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
