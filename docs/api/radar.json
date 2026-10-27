@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-27T05:47:58Z",
- "data_as_of": "2026-10-27T05:47:58Z",
- "rendered_at": "2026-10-27T05:47:58Z",
+ "generated_at": "2026-10-27T12:18:34Z",
+ "data_as_of": "2026-10-27T12:18:34Z",
+ "rendered_at": "2026-10-27T12:18:35Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/test-1",
  "companies": [
@@ -852,7 +852,7 @@
    "expected": "2026-08-31",
    "days_until": -57,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/hpiq/jobs/6116398004",
+   "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114741004",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2695,7 +2695,7 @@
    "expected": "2026-10-20",
    "days_until": -7,
    "status": "open",
-   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Risk-and-Compliance-Management-Undergraduate-Intern_J287733",
+   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Cyber-Risk-Management-Analyst-Undergraduate-Intern_J286841",
    "note": "",
    "provenance": {
     "type": "engine-observed",
