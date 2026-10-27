@@ -85,6 +85,18 @@
     }
    }
   },
+  "adt": {
+   "name": "ADT",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-26",
+     "role_ids": [
+      "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com:3022588"
+     ],
+     "count": 1
+    }
+   }
+  },
   "advanced space": {
    "name": "Advanced Space",
    "cycles": {
@@ -371,6 +383,19 @@
     }
    }
   },
+  "aurora innovation": {
+   "name": "Aurora Innovation",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-24",
+     "role_ids": [
+      "ashby:aurora-operations-inc:058e3b3a-dd13-4736-84a8-b19d5de2c9f5",
+      "ashby:aurora-operations-inc:da4c8e2e-0571-4503-94d9-234da86f83b0"
+     ],
+     "count": 2
+    }
+   }
+  },
   "auto owners insurance": {
    "name": "Auto-Owners Insurance",
    "cycles": {
@@ -489,6 +514,7 @@
       "workday:bah:/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369",
       "workday:bah:/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368",
       "workday:bah:/job/Colorado-Springs-CO/University--2027-Summer-Games-Cybersecurity-Intern_R0248131",
+      "workday:bah:/job/Dayton-OH/University---2027-Summer-Games--Systems-Engineer-Intern---Dayton--OH_R0252342",
       "workday:bah:/job/Detroit-MI/University---2027-Summer-Games--Systems-Engineer-Intern---Royal-Oaks--MI_R0252341",
       "workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047",
       "workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0248366",
@@ -514,7 +540,7 @@
       "workday:bah:/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---San-Diego--CA_R0248365",
       "workday:bah:/job/San-Diego-CA/University--2027-Summer-Games-Cyber-Security-Intern_R0248043"
      ],
-     "count": 36
+     "count": 37
     }
    }
   },
@@ -2574,5 +2600,5 @@
    }
   }
  },
- "updated_at": "2026-10-26T20:44:49Z"
+ "updated_at": "2026-10-27T00:38:47Z"
 }
