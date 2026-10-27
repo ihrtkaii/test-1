@@ -1,6 +1,30 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:edxn.fa.us2.oraclecloud.com:26173",
+      "lever:cfsenergy:cbf90690-2518-4c81-ace4-530e3b158545",
+      "lever:cfsenergy:32e62a79-eff5-4a58-83fd-51a60eb57707",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008446",
+      "workday:bah:/job/Annapolis-Junction-MD/Systems-Administrator---Summer-Intern_R0252406",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Nuclear-Surety-Systems-Engineering-Intern--Roy-UT_R10257831",
+      "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Systems-Engineering-Intern---Colorado-Springs-CO_R10257809",
+      "workday:snc:/job/Lone-Tree-CO/IT-Service-Desk-Intern--Summer-2027-_R0031251",
+      "workday:snc:/job/Sparks-NV/Cybersecurity-Analyst-Intern_R0031269",
+      "workday:visa:/job/US---Denver-CO/Network-and-Security-Engineering-Intern---2027--Highlands-Ranch--CO_REF089779W-1",
+      "workday:visa:/job/US---Ashburn-VA/Network-and-Security-Engineering-Intern---2027--Ashburn--VA_REF089778W-2"
+    ],
+    "telegram": [
+      "oracle:edxn.fa.us2.oraclecloud.com:26173",
+      "lever:cfsenergy:cbf90690-2518-4c81-ace4-530e3b158545",
+      "lever:cfsenergy:32e62a79-eff5-4a58-83fd-51a60eb57707",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008446",
+      "workday:bah:/job/Annapolis-Junction-MD/Systems-Administrator---Summer-Intern_R0252406",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Nuclear-Surety-Systems-Engineering-Intern--Roy-UT_R10257831",
+      "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Systems-Engineering-Intern---Colorado-Springs-CO_R10257809",
+      "workday:snc:/job/Lone-Tree-CO/IT-Service-Desk-Intern--Summer-2027-_R0031251",
+      "workday:snc:/job/Sparks-NV/Cybersecurity-Analyst-Intern_R0031269",
+      "workday:visa:/job/US---Denver-CO/Network-and-Security-Engineering-Intern---2027--Highlands-Ranch--CO_REF089779W-1",
+      "workday:visa:/job/US---Ashburn-VA/Network-and-Security-Engineering-Intern---2027--Ashburn--VA_REF089778W-2"
+    ]
   }
 }

@@ -770,9 +770,11 @@
     "Summer 2027": {
      "first_posted": "2026-10-09",
      "role_ids": [
-      "lever:cfsenergy:a05832ae-41df-4e2d-ab86-dd3e2c4877d4"
+      "lever:cfsenergy:32e62a79-eff5-4a58-83fd-51a60eb57707",
+      "lever:cfsenergy:a05832ae-41df-4e2d-ab86-dd3e2c4877d4",
+      "lever:cfsenergy:cbf90690-2518-4c81-ace4-530e3b158545"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -1809,6 +1811,7 @@
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
       "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027--Systems-Engineer-Intern---Colorado-Springs-CO_R10249777",
       "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Systems-Engineering-Intern---Colorado-Springs-CO_R10256088",
+      "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Systems-Engineering-Intern---Colorado-Springs-CO_R10257809",
       "workday:ngc:/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering---Nuclear-Survivability-Ionizing-Radiation_R10251198",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434",
@@ -1826,12 +1829,13 @@
       "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037",
       "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Nuclear-Surety-Systems-Engineering-Intern--Roy-UT_R10257831",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Engineering-Intern--Roy-UT_R10248475",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Systems-Security-Engineering-Intern---Roy-UT_R10249815",
       "workday:ngc:/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Engineer-Intern---Chantilly-VA_R10255633",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423"
      ],
-     "count": 32
+     "count": 34
     },
     "Fall 2026": {
      "first_posted": "2026-08-31",
@@ -2173,6 +2177,7 @@
       "workday:snc:/job/Hagerstown-MD/Systems-Engineering-Intern--Summer-2027-_R0030753",
       "workday:snc:/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540",
       "workday:snc:/job/Hagerstown-MD/Systems-Security-Engineering-Intern--Summer-2027-_R0030783",
+      "workday:snc:/job/Lone-Tree-CO/IT-Service-Desk-Intern--Summer-2027-_R0031251",
       "workday:snc:/job/Lone-Tree-CO/IT-Support-Technician-Intern--Summer-2027-_R0030762",
       "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027_R0031084",
       "workday:snc:/job/Lone-Tree-CO/Systems-Engineer-Intern--Summer-2027-_R0031176",
@@ -2182,7 +2187,7 @@
       "workday:snc:/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0031180",
       "workday:snc:/job/Plano-TX/Systems-Engineering-Intern--Summer-2027-_R0030752"
      ],
-     "count": 12
+     "count": 13
     },
     "Fall 2026": {
      "first_posted": "2026-09-23",
@@ -2258,9 +2263,10 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008089",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008180",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008210",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008240"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008240",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008446"
      ],
-     "count": 19
+     "count": 20
     },
     "Fall 2026": {
      "first_posted": "2026-09-02",
@@ -2472,6 +2478,19 @@
     }
    }
   },
+  "visa": {
+   "name": "Visa",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-27",
+     "role_ids": [
+      "workday:visa:/job/US---Ashburn-VA/Network-and-Security-Engineering-Intern---2027--Ashburn--VA_REF089778W-2",
+      "workday:visa:/job/US---Denver-CO/Network-and-Security-Engineering-Intern---2027--Highlands-Ranch--CO_REF089779W-1"
+     ],
+     "count": 2
+    }
+   }
+  },
   "watts water": {
    "name": "Watts Water",
    "cycles": {
@@ -2604,5 +2623,5 @@
    }
   }
  },
- "updated_at": "2026-10-27T12:18:34Z"
+ "updated_at": "2026-10-27T18:12:30Z"
 }
