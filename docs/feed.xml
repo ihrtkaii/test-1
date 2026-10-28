@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-10-28T05:47:01Z</updated>
+  <updated>2026-10-28T13:02:20Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:allegion:/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1</id>
+    <title>Allegion: Summer Intern - Software Systems Engineering</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1"/>
+    <updated>2026-10-28T13:02:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Golden, CO · $25–$26/hr · AWS, Azure</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:avav:/job/Albuquerque-NM/Systems-Engineering-Intern---Space-Technologies_9250</id>
     <title>Avav: Systems Engineering Intern - Space Technologies 🇺🇸</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-16T21:17:25Z</updated>
     <category term="Summer 2027"/>
     <summary>2 openings · Summer 2027 · Systems &amp; Cloud Infra · United States-Colorado-Colorado Springs · $24.25–$30.5/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/Systems-Engineering-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031097</id>
-    <title>Sierra Nevada Corporation: Systems Engineering Intern - Summer 2027 (For SNC Summer 2026 Interns Only) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Engineering-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031097"/>
-    <updated>2026-10-16T21:17:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Lone Tree, CO · MATLAB · sponsorship: citizens-only</summary>
   </entry>
 </feed>
