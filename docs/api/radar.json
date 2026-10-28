@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-28T13:02:20Z",
- "data_as_of": "2026-10-28T13:02:20Z",
- "rendered_at": "2026-10-28T13:02:20Z",
+ "generated_at": "2026-10-28T20:31:22Z",
+ "data_as_of": "2026-10-28T20:31:22Z",
+ "rendered_at": "2026-10-28T20:31:22Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/test-1",
  "companies": [
@@ -339,7 +339,7 @@
    "expected": "2026-08-19",
    "days_until": -70,
    "status": "open",
-   "url": "https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Austin-Texas/Summer-2027---IT-Audit-Intern--Austin-_JR104221",
+   "url": "https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Denver-Colorado/Summer-2027-IT-Audit-Intern_JR104282",
    "note": "",
    "provenance": {
     "type": "engine-observed",

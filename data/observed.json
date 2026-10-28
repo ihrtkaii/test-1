@@ -1720,9 +1720,11 @@
     "Summer 2027": {
      "first_posted": "2026-10-01",
      "role_ids": [
-      "workday:moog:/job/Buffalo-NY/Intern--Systems-Engineering_R-26-20392"
+      "workday:moog:/job/Buffalo-NY/Intern--Systems-Engineering_R-26-20392",
+      "workday:moog:/job/Buffalo-NY/Intern--Systems-Engineering_R-26-20918",
+      "workday:moog:/job/Buffalo-NY/Intern--Systems-Engineering_R-26-20920"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -2191,6 +2193,7 @@
      "first_posted": "2026-09-03",
      "role_ids": [
       "workday:snc:/job/Dayton-OH/Systems-Engineer-Intern--Summer-2027-_R0030749",
+      "workday:snc:/job/Hagerstown-MD/Network-Engineer-Intern--Summer-2027-_R0031232",
       "workday:snc:/job/Hagerstown-MD/Systems-Engineering-Intern--Summer-2027-_R0030753",
       "workday:snc:/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540",
       "workday:snc:/job/Hagerstown-MD/Systems-Security-Engineering-Intern--Summer-2027-_R0030783",
@@ -2204,7 +2207,7 @@
       "workday:snc:/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0031180",
       "workday:snc:/job/Plano-TX/Systems-Engineering-Intern--Summer-2027-_R0030752"
      ],
-     "count": 13
+     "count": 14
     },
     "Fall 2026": {
      "first_posted": "2026-09-23",
@@ -2641,5 +2644,5 @@
    }
   }
  },
- "updated_at": "2026-10-28T13:02:20Z"
+ "updated_at": "2026-10-28T20:31:22Z"
 }

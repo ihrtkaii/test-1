@@ -1,6 +1,24 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "ashby:webfx:420a5199-10ba-487c-88c5-49d254971068",
+      "workday:bcbsri:/job/Providence-RI/Intern---Business-Systems-Analyst_JR100477",
+      "smartrecruiters:Intuitive:744000158334809",
+      "workday:leidos:/job/Denver-CO/Energy---Infrastructure-Consulting-Summer-Intern_R-00195653-1",
+      "workday:leidos:/job/Framingham-MA/Energy---Infrastructure-Consulting-Summer-Intern_R-00195678",
+      "workday:moog:/job/Buffalo-NY/Intern--Systems-Engineering_R-26-20920",
+      "workday:moog:/job/Buffalo-NY/Intern--Systems-Engineering_R-26-20918",
+      "workday:snc:/job/Hagerstown-MD/Network-Engineer-Intern--Summer-2027-_R0031232"
+    ],
+    "telegram": [
+      "ashby:webfx:420a5199-10ba-487c-88c5-49d254971068",
+      "workday:bcbsri:/job/Providence-RI/Intern---Business-Systems-Analyst_JR100477",
+      "smartrecruiters:Intuitive:744000158334809",
+      "workday:leidos:/job/Denver-CO/Energy---Infrastructure-Consulting-Summer-Intern_R-00195653-1",
+      "workday:leidos:/job/Framingham-MA/Energy---Infrastructure-Consulting-Summer-Intern_R-00195678",
+      "workday:moog:/job/Buffalo-NY/Intern--Systems-Engineering_R-26-20920",
+      "workday:moog:/job/Buffalo-NY/Intern--Systems-Engineering_R-26-20918",
+      "workday:snc:/job/Hagerstown-MD/Network-Engineer-Intern--Summer-2027-_R0031232"
+    ]
   }
 }
