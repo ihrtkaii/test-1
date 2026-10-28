@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-10-27T22:25:52Z</updated>
+  <updated>2026-10-28T05:47:01Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:hp:/job/San-Francisco-California-United-States-of-America/Cloud-Engineering-Intern_UNI4799-1</id>
-    <title>Hewlett Packard (HP): Cloud Engineering Intern - HP IQ</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Cloud-Engineering-Intern_UNI4799-1"/>
-    <updated>2026-10-27T22:25:52Z</updated>
-    <category term="Fall 2027"/>
-    <summary>Fall 2027 · Cloud Platform · San Francisco, California, United States of America · $45–$51/hr · Spring · status: closed</summary>
+    <id>urn:intern-engine:workday:avav:/job/Albuquerque-NM/Systems-Engineering-Intern---Space-Technologies_9250</id>
+    <title>Avav: Systems Engineering Intern - Space Technologies 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Albuquerque-NM/Systems-Engineering-Intern---Space-Technologies_9250"/>
+    <updated>2026-10-28T05:47:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Albuquerque, NM · Python · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10590368</id>
@@ -54,6 +54,14 @@
     <updated>2026-10-27T22:25:52Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Cloud Platform · Cincinnati, OH (USA) · Python, SQL, Git, Snowflake · H-1B track record: ~35 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/San-Francisco-California-United-States-of-America/Cloud-Engineering-Intern_UNI4799-1</id>
+    <title>Hewlett Packard (HP): Cloud Engineering Intern - HP IQ</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Cloud-Engineering-Intern_UNI4799-1"/>
+    <updated>2026-10-27T22:25:52Z</updated>
+    <category term="Fall 2027"/>
+    <summary>Fall 2027 · Cloud Platform · San Francisco, California, United States of America · $45–$51/hr · Spring · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:cfsenergy:32e62a79-eff5-4a58-83fd-51a60eb57707</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-16T21:17:25Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Lone Tree, CO · MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:cfsenergy:a05832ae-41df-4e2d-ab86-dd3e2c4877d4</id>
-    <title>Commonwealth Fusion Systems: Intern - Nuclear/Systems Engineer - Summer 2027</title>
-    <link href="https://jobs.lever.co/cfsenergy/a05832ae-41df-4e2d-ab86-dd3e2c4877d4"/>
-    <updated>2026-10-16T16:54:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Devens, MA · 25–38 USD/hr · Python, C++</summary>
   </entry>
 </feed>
