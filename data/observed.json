@@ -126,9 +126,10 @@
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Network-Systems-Grad-Intern_R016836",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Graduate-Intern_R016527",
-      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Undergraduate-Intern_R016530"
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Undergraduate-Intern_R016530",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Space-Communications-and-Network-Systems-Undergrad-Intern_R017064"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -987,6 +988,18 @@
       "workday:fifththird:/job/Cincinnati-OH/XMLNAME-2027-IT-Audit-Intern_R70611"
      ],
      "count": 3
+    }
+   }
+  },
+  "figma": {
+   "name": "Figma",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-28",
+     "role_ids": [
+      "greenhouse:figma:6238015004"
+     ],
+     "count": 1
     }
    }
   },
@@ -2644,5 +2657,5 @@
    }
   }
  },
- "updated_at": "2026-10-28T20:31:22Z"
+ "updated_at": "2026-10-29T01:10:47Z"
 }

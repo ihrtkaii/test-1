@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-10-28T20:31:22Z</updated>
+  <updated>2026-10-29T01:10:47Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:figma:6238015004</id>
+    <title>Figma: PhD Intern, Security Engineer (2027)</title>
+    <link href="https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004"/>
+    <updated>2026-10-29T01:10:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · San Francisco, CA • New York, NY · AWS, Linux, Git · H-1B track record: ~39 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Space-Communications-and-Network-Systems-Undergrad-Intern_R017064</id>
+    <title>The Aerospace Corporation: 2027 Space Communications and Network Systems Undergrad Intern 🇺🇸</title>
+    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Space-Communications-and-Network-Systems-Undergrad-Intern_R017064"/>
+    <updated>2026-10-29T01:10:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · El Segundo, CA · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:webfx:420a5199-10ba-487c-88c5-49d254971068</id>
     <title>WebFX: IT Support Internship</title>
@@ -16,20 +32,20 @@
     <summary>Not stated · IT Support / Ops · Harrisburg, PA · $17–$18/hr · HTML/CSS</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:bcbsri:/job/Providence-RI/Intern---Business-Systems-Analyst_JR100477</id>
-    <title>Blue Cross and Blue Shield of Rhode Island: Intern - Business Systems Analyst</title>
-    <link href="https://bcbsri.wd1.myworkdayjobs.com/BCBSRICareers/job/Providence-RI/Intern---Business-Systems-Analyst_JR100477"/>
-    <updated>2026-10-28T20:31:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Providence, RI · SQL, Azure</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:Intuitive:744000158334809</id>
     <title>Intuitive Surgical: System Engineer Intern</title>
     <link href="https://jobs.smartrecruiters.com/Intuitive/744000158334809"/>
     <updated>2026-10-28T20:31:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Systems &amp; Cloud Infra · Blacksburg, VA, United States · MATLAB · H-1B track record: ~14 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bcbsri:/job/Providence-RI/Intern---Business-Systems-Analyst_JR100477</id>
+    <title>Blue Cross and Blue Shield of Rhode Island: Intern - Business Systems Analyst</title>
+    <link href="https://bcbsri.wd1.myworkdayjobs.com/BCBSRICareers/job/Providence-RI/Intern---Business-Systems-Analyst_JR100477"/>
+    <updated>2026-10-28T20:31:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Providence, RI · SQL, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:leidos:/job/Denver-CO/Energy---Infrastructure-Consulting-Summer-Intern_R-00195653-1</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-19T20:50:46Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Network / Telecom · Pittsburgh, PA, United States · Python, PyTorch · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:generac:/job/USA---CO-Fort-Collins/Micro-Grid-Systems-Engineering-Summer-Intern_JR17432</id>
-    <title>Generac: Micro-Grid Systems Engineering Summer Intern</title>
-    <link href="https://generac.wd5.myworkdayjobs.com/external/job/USA---CO-Fort-Collins/Micro-Grid-Systems-Engineering-Summer-Intern_JR17432"/>
-    <updated>2026-10-19T20:50:46Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · USA - CO Fort Collins</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gfs:/job/Wyoming-Michigan/Store-Administrative-Support-Internship_R-57416</id>
-    <title>Gordon Food Service: Retail IT Support Internship</title>
-    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Store-Administrative-Support-Internship_R-57416"/>
-    <updated>2026-10-19T20:50:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · IT Support / Ops · Wyoming, Michigan · Linux · H-1B track record: ~21 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
