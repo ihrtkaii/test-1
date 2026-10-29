@@ -1,6 +1,24 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "ashby:base-power:8397f115-7806-4911-a12b-6231852c3443",
+      "workday:boseallaboutme:/job/US-MI---Bloomfield-Hills/Acoustic-Systems-Engineering-Co-op_R29347",
+      "greenhouse:centerforstrategicandinternationalstudiesinc:4437922009",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Summer-Enterprise-IT-Internship_RQ230918",
+      "greenhouse:nyisocoops:5236035007",
+      "greenhouse:nyisocoops:5236045007",
+      "greenhouse:quberesearchandtechnologies:8777760002",
+      "greenhouse:stratolaunch:5466978008"
+    ],
+    "telegram": [
+      "ashby:base-power:8397f115-7806-4911-a12b-6231852c3443",
+      "workday:boseallaboutme:/job/US-MI---Bloomfield-Hills/Acoustic-Systems-Engineering-Co-op_R29347",
+      "greenhouse:centerforstrategicandinternationalstudiesinc:4437922009",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Summer-Enterprise-IT-Internship_RQ230918",
+      "greenhouse:nyisocoops:5236035007",
+      "greenhouse:nyisocoops:5236045007",
+      "greenhouse:quberesearchandtechnologies:8777760002",
+      "greenhouse:stratolaunch:5466978008"
+    ]
   }
 }

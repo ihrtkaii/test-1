@@ -1074,9 +1074,10 @@
      "role_ids": [
       "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2",
       "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Summer-Enterprise-IT-Internship_RQ230918",
       "workday:gdit:/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Agencies--Cybersecurity-_RQ230273"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2021,6 +2022,18 @@
     }
    }
   },
+  "qube research technologies": {
+   "name": "Qube Research & Technologies",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "greenhouse:quberesearchandtechnologies:8777760002"
+     ],
+     "count": 1
+    }
+   }
+  },
   "rf smart": {
    "name": "RF-SMART",
    "cycles": {
@@ -2309,6 +2322,18 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1007850"
      ],
      "count": 2
+    }
+   }
+  },
+  "stratolaunch": {
+   "name": "Stratolaunch",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-29",
+     "role_ids": [
+      "greenhouse:stratolaunch:5466978008"
+     ],
+     "count": 1
     }
    }
   },
@@ -2657,5 +2682,5 @@
    }
   }
  },
- "updated_at": "2026-10-29T10:10:20Z"
+ "updated_at": "2026-10-29T18:46:02Z"
 }

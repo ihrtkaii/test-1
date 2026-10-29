@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-29T10:10:20Z",
- "data_as_of": "2026-10-29T10:10:20Z",
- "rendered_at": "2026-10-29T10:10:21Z",
+ "generated_at": "2026-10-29T18:46:02Z",
+ "data_as_of": "2026-10-29T18:46:02Z",
+ "rendered_at": "2026-10-29T18:46:02Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/test-1",
  "companies": [
@@ -1271,6 +1271,25 @@
    "days_until": -51,
    "status": "open",
    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Security-Resiliency-Center---Intern_R413882",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
+   "company": "Qube Research & Technologies",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -51,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2856,6 +2875,25 @@
    }
   },
   {
+   "company": "Stratolaunch",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-29",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5466978008",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-29"
+   }
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -3368,5 +3406,5 @@
    }
   }
  ],
- "count": 177
+ "count": 179
 }
