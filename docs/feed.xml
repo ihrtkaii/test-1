@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-10-29T01:10:47Z</updated>
+  <updated>2026-10-29T10:10:20Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-2</id>
+    <title>Hewlett Packard (HP): Software Product Security Intern - HP IQ</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-2"/>
+    <updated>2026-10-29T10:10:20Z</updated>
+    <category term="Fall 2027"/>
+    <summary>Fall 2027 · AppSec / Product Sec · San Francisco, California, United States of America · $40–$50/hr · Python, Java, C++ · status: closed</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:figma:6238015004</id>
     <title>Figma: PhD Intern, Security Engineer (2027)</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-19T20:50:46Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Systems &amp; Cloud Infra · New York, NY, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000156323136</id>
-    <title>Bosch: AI Research Intern: Wireless Foundation Models</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000156323136"/>
-    <updated>2026-10-19T20:50:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Network / Telecom · Pittsburgh, PA, United States · Python, PyTorch · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

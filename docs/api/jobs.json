@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-29T01:10:47Z",
- "data_as_of": "2026-10-29T01:10:47Z",
- "rendered_at": "2026-10-29T01:10:48Z",
+ "generated_at": "2026-10-29T10:10:20Z",
+ "data_as_of": "2026-10-29T10:10:20Z",
+ "rendered_at": "2026-10-29T10:10:21Z",
  "source": "https://github.com/ihrtkaii/test-1",
  "h1b_window": "FY2022–2023",
- "count": 655,
+ "count": 653,
  "jobs": [
   {
    "id": "greenhouse:figma:6238015004",
@@ -5787,27 +5787,6 @@
    "remote": false
   },
   {
-   "id": "workday:nike:/job/Beaverton-Oregon/NIKE--Inc-Innovation-Underfoot-Systems-Engineer-Graduate-Internship_R-94431",
-   "company": "Nike",
-   "title": "NIKE, Inc. Innovation Underfoot Systems Engineer Graduate Internship",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Systems & Cloud Infra",
-   "location": "Beaverton, Oregon",
-   "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Innovation-Underfoot-Systems-Engineer-Graduate-Internship_R-94431",
-   "posted_at": "2026-09-29T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-29T22:29:11Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 484,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "oracle:hdhl.fa.us6.oraclecloud.com:1008077",
    "company": "Stantec",
    "title": "Structural Engineering Intern/Co-op – Infrastructure (Summer 2027)",
@@ -9168,29 +9147,6 @@
    ],
    "source": "smartrecruiters",
    "h1b_approvals": 15,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "smartrecruiters:KnobelsdorffEnterprises:744000148832985",
-   "company": "Knobelsdorff Enterprises",
-   "title": "IT Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "IT Support / Ops",
-   "location": "Goodhue, MN, United States",
-   "url": "https://jobs.smartrecruiters.com/KnobelsdorffEnterprises/744000148832985",
-   "posted_at": "2026-09-10T17:17:22.651Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-11T16:40:09Z",
-   "sponsorship": "unknown",
-   "salary": "$20–$25/hr",
-   "skills": [
-    "Azure"
-   ],
-   "source": "smartrecruiters",
-   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },
