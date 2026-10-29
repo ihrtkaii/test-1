@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "ashby:allen-control-systems:9945f76d-6d03-45f0-b431-fc69d31f5476",
-      "greenhouse:figma:6238015004",
-      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Space-Communications-and-Network-Systems-Undergrad-Intern_R017064"
-    ],
-    "telegram": [
-      "ashby:allen-control-systems:9945f76d-6d03-45f0-b431-fc69d31f5476",
-      "greenhouse:figma:6238015004",
-      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Space-Communications-and-Network-Systems-Undergrad-Intern_R017064"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
