@@ -1,6 +1,16 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "amazon:amazon:10593054",
+      "workday:hcsc:/job/IL---Chicago/Early-Careers---Cybersecurity-Operations-Intern_R0059508",
+      "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Systems-Engineering-Intern---Boulder-CO_R10258456-1",
+      "workday:snc:/job/Lone-Tree-CO/Program-Finance-Systems-Analyst-Intern--Summer-2027-_R0031193"
+    ],
+    "telegram": [
+      "amazon:amazon:10593054",
+      "workday:hcsc:/job/IL---Chicago/Early-Careers---Cybersecurity-Operations-Intern_R0059508",
+      "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Systems-Engineering-Intern---Boulder-CO_R10258456-1",
+      "workday:snc:/job/Lone-Tree-CO/Program-Finance-Systems-Analyst-Intern--Summer-2027-_R0031193"
+    ]
   }
 }

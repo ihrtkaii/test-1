@@ -222,9 +222,10 @@
       "amazon:amazon:10557133",
       "amazon:amazon:10585774",
       "amazon:amazon:10585775",
-      "amazon:amazon:10590368"
+      "amazon:amazon:10590368",
+      "amazon:amazon:10593054"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -1841,6 +1842,7 @@
       "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2027-Systems-Engineering-Intern---Aurora-CO_R10256237",
       "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2027-Systems-Engineering-Intern---Aurora-CO_R10257892",
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
+      "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Systems-Engineering-Intern---Boulder-CO_R10258456-1",
       "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027--Systems-Engineer-Intern---Colorado-Springs-CO_R10249777",
       "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Systems-Engineering-Intern---Colorado-Springs-CO_R10256088",
       "workday:ngc:/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Systems-Engineering-Intern---Colorado-Springs-CO_R10257809",
@@ -1867,7 +1869,7 @@
       "workday:ngc:/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Engineer-Intern---Chantilly-VA_R10255633",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423"
      ],
-     "count": 35
+     "count": 36
     },
     "Fall 2026": {
      "first_posted": "2026-08-31",
@@ -2226,6 +2228,7 @@
       "workday:snc:/job/Lone-Tree-CO/IT-Service-Desk-Intern--Summer-2027-_R0031251",
       "workday:snc:/job/Lone-Tree-CO/IT-Support-Technician-Intern--Summer-2027-_R0030762",
       "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027_R0031084",
+      "workday:snc:/job/Lone-Tree-CO/Program-Finance-Systems-Analyst-Intern--Summer-2027-_R0031193",
       "workday:snc:/job/Lone-Tree-CO/Systems-Engineer-Intern--Summer-2027-_R0031176",
       "workday:snc:/job/Lone-Tree-CO/Systems-Engineering-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031097",
       "workday:snc:/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0030750",
@@ -2233,7 +2236,7 @@
       "workday:snc:/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0031180",
       "workday:snc:/job/Plano-TX/Systems-Engineering-Intern--Summer-2027-_R0030752"
      ],
-     "count": 14
+     "count": 15
     },
     "Fall 2026": {
      "first_posted": "2026-09-23",
@@ -2682,5 +2685,5 @@
    }
   }
  },
- "updated_at": "2026-10-29T18:46:02Z"
+ "updated_at": "2026-10-29T23:17:15Z"
 }

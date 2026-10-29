@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-10-29T18:46:02Z</updated>
+  <updated>2026-10-29T23:17:15Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:internrecruiting:8310712</id>
+    <title>Internrecruiting: Cloud Engineer Co-op</title>
+    <link href="https://job-boards.greenhouse.io/internrecruiting/jobs/8310712"/>
+    <updated>2026-10-29T23:17:15Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Cloud Platform · Wakefield, MA (Hybrid) · SQL, AWS, Azure, Terraform · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10593054</id>
+    <title>Amazon: Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast</title>
+    <link href="https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast"/>
+    <updated>2026-10-29T23:17:15Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Austin, Texas, USA · AWS · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hcsc:/job/IL---Chicago/Early-Careers---Cybersecurity-Operations-Intern_R0059508</id>
+    <title>HCSC: Early Careers - Cybersecurity Operations Intern 🛂</title>
+    <link href="https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Cybersecurity-Operations-Intern_R0059508"/>
+    <updated>2026-10-29T23:17:15Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · IL - Chicago · Python · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Systems-Engineering-Intern---Boulder-CO_R10258456-1</id>
+    <title>Northrop Grumman: 2027 Systems Engineering Intern - Boulder CO 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Systems-Engineering-Intern---Boulder-CO_R10258456-1"/>
+    <updated>2026-10-29T23:17:15Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-Colorado-Boulder · $21.5–$39/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/Program-Finance-Systems-Analyst-Intern--Summer-2027-_R0031193</id>
+    <title>Sierra Nevada Corporation: Program Finance Systems Analyst Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Program-Finance-Systems-Analyst-Intern--Summer-2027-_R0031193"/>
+    <updated>2026-10-29T23:17:15Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Lone Tree, CO · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:base-power:8397f115-7806-4911-a12b-6231852c3443</id>
     <title>Base Power: Power Systems Engineering Intern</title>
@@ -16,28 +56,12 @@
     <summary>Not stated · Systems &amp; Cloud Infra · Austin, TX · Python, Pandas</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:boseallaboutme:/job/US-MI---Bloomfield-Hills/Acoustic-Systems-Engineering-Co-op_R29347</id>
-    <title>Bose: Acoustic Systems Engineering Co-op</title>
-    <link href="https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MI---Bloomfield-Hills/Acoustic-Systems-Engineering-Co-op_R29347"/>
-    <updated>2026-10-29T18:46:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · US, MI - Bloomfield Hills · $29–$37.25/hr · MATLAB · H-1B track record: ~61 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:centerforstrategicandinternationalstudiesinc:4437922009</id>
     <title>Center for Strategic and International Studies: Intern - Energy Security and Climate Change Program</title>
     <link href="https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4437922009"/>
     <updated>2026-10-29T18:46:02Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security (general) · Washington, D.C. · $18.4/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Summer-Enterprise-IT-Internship_RQ230918</id>
-    <title>General Dynamics Information Technology: GDIT Summer Internship Program – Summer 2027 Summer Enterprise IT Internship 🇺🇸</title>
-    <link href="https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Summer-Enterprise-IT-Internship_RQ230918"/>
-    <updated>2026-10-29T18:46:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Other · USA LA Bossier City · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:nyisocoops:5236035007</id>
@@ -70,6 +94,22 @@
     <updated>2026-10-29T18:46:02Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · Mojave, California, United States · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:boseallaboutme:/job/US-MI---Bloomfield-Hills/Acoustic-Systems-Engineering-Co-op_R29347</id>
+    <title>Bose: Acoustic Systems Engineering Co-op</title>
+    <link href="https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MI---Bloomfield-Hills/Acoustic-Systems-Engineering-Co-op_R29347"/>
+    <updated>2026-10-29T18:46:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · US, MI - Bloomfield Hills · $29–$37.25/hr · MATLAB · H-1B track record: ~61 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Summer-Enterprise-IT-Internship_RQ230918</id>
+    <title>General Dynamics Information Technology: GDIT Summer Internship Program – Summer 2027 Summer Enterprise IT Internship 🇺🇸</title>
+    <link href="https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Summer-Enterprise-IT-Internship_RQ230918"/>
+    <updated>2026-10-29T18:46:02Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Other · USA LA Bossier City · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hp:/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-2</id>
@@ -766,45 +806,5 @@
     <updated>2026-10-20T21:51:24Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · AppSec / Product Sec · Sunnyvale, California - HQ · $37 per hour · Python, C++, Ruby · sponsorship: no-sponsorship · H-1B track record: ~25 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:skydio:1ac972b1-8094-4765-8869-63e1c4d50dea</id>
-    <title>Skydio: Wireless Hardware Engineer Intern - Summer 2027</title>
-    <link href="https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea"/>
-    <updated>2026-10-20T21:51:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · San Mateo, California, United States · $47/hr · Python · H-1B track record: ~26 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:highmarkhealth:/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Risk-and-Compliance-Management-Undergraduate-Intern_J287733</id>
-    <title>Highmark Health: Summer 2027 Risk and Compliance Management Undergraduate Intern 🛂</title>
-    <link href="https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Risk-and-Compliance-Management-Undergraduate-Intern_J287733"/>
-    <updated>2026-10-20T21:51:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · GRC / Risk · Pittsburgh PA, 15222, FAP, 5th Avenue Place · sponsorship: no-sponsorship · H-1B track record: ~92 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:motorolasolutions:/job/Massachusetts-Remote-Work/Presale-Systems-Engineer---Summer-2027-Internship_R69640</id>
-    <title>Motorola: Presale Systems Engineer - Summer 2027 Internship 🛂</title>
-    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Massachusetts-Remote-Work/Presale-Systems-Engineer---Summer-2027-Internship_R69640"/>
-    <updated>2026-10-20T21:51:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Massachusetts Remote Work, More... · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hcsc:/job/IL---Chicago/Early-Careers---Governance--Risk---Compliance--GRC--Intern_R0059509</id>
-    <title>HCSC: Early Careers - Governance, Risk &amp; Compliance (GRC) Intern 🛂</title>
-    <link href="https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Governance--Risk---Compliance--GRC--Intern_R0059509"/>
-    <updated>2026-10-20T17:14:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · GRC / Risk · IL - Chicago · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:archgroup:/job/Greensboro-NC-United-States-of-America/Security-Operations-Intern_R26_1016</id>
-    <title>Arch Capital Group: Security Operations Intern</title>
-    <link href="https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Security-Operations-Intern_R26_1016"/>
-    <updated>2026-10-20T05:28:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · SOC / Detection · Greensboro, NC United States of America · $26/hr</summary>
   </entry>
 </feed>
