@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/ihrtkaii/test-1/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/ihrtkaii/test-1/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fihrtkaii.github.io%2Ftest-1%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://ihrtkaii.github.io/test-1/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%203%20hours-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://ihrtkaii.github.io/test-1/feed.xml)
 
-### 661 open roles (508 listed below) · 74 new this week
+### 659 open roles (506 listed below) · 74 new this week
 
-4,938 employers tracked · data as of Oct 30, 2026 at 05:56 UTC
+4,938 employers tracked · data as of Oct 30, 2026 at 13:03 UTC
 
-_491 have a cycle the employer stated · 170 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_491 have a cycle the employer stated · 168 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://ihrtkaii.github.io/test-1/)** · **[📡 RSS](https://ihrtkaii.github.io/test-1/feed.xml)** · **[⚙️ JSON API](https://ihrtkaii.github.io/test-1/api/jobs.json)**
 
@@ -241,6 +241,7 @@ These postings never name a cycle, not in the title and not in the posting text,
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Great American Insurance Company ✓ | IT Intern - Summer 2027 🆕 | IT Support / Ops | Cincinnati, OH (USA) | SQL, Snowflake | Oct 30, 2026 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Intern---Summer-2027_R9816-1) |
 | Amazon ✓ | Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast 🆕 | Systems & Cloud Infra | Austin, Texas, USA | AWS | Oct 29, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast) |
 | Great American Insurance Company ✓ | DevOps Developer Intern - Summer 2027 🆕 | Systems & Cloud Infra | Cincinnati, OH (USA) | Python, Java, Kotlin | Oct 29, 2026 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826) |
 | Northrop Grumman | 2027 Systems Engineering Intern - Boulder CO 🇺🇸 🆕 | Systems & Cloud Infra | United States-Colorado-Boulder | No skills listed | Oct 29, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Systems-Engineering-Intern---Boulder-CO_R10258456-1) |
@@ -449,7 +450,6 @@ These postings never name a cycle, not in the title and not in the posting text,
 | Leidos ✓ 🆁 | SharePoint & Systems Engineering Intern 🇺🇸 _(2 openings)_ | Systems & Cloud Infra | 6314 Remote/Teleworker US | No skills listed | Aug 31, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/SharePoint---Systems-Engineering-Intern_R-00190982) [#2](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/SharePoint---Systems-Engineering-Intern_R-00195538) |
 | Oshkosh | Digital Technology Intern - Systems Analyst (Summer 2027) | Systems & Cloud Infra | Dodge Center, Minnesota, United States | No skills listed | Aug 31, 2026 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Digital-Technology-Intern---Systems-Analyst--Summer-2027-_R49791) |
 | Vanguard | College to Corporate IT Internship - Risk & Security - Engineer | Security (general) | Dallas/Ft. Worth, TX | No skills listed | Aug 31, 2026 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Risk---Security---Engineer_181851) |
-| Brookfield Properties | IT Intern (Summer Internship 6/7/2027 - 8/13/2027) | IT Support / Ops | Chicago, Illinois | No skills listed | Aug 30, 2026 | [Apply](https://brookfield.wd5.myworkdayjobs.com/brookfieldproperties/job/Chicago-Illinois/IT-Intern--Summer-Internship-6-7-2027---8-13-2027-_R2052380-1) |
 | Equifax ✓ | Site Reliability Engineer Intern | Systems & Cloud Infra | USA - Missouri - St. Louis - Lackland | Python, Java, GCP | Aug 30, 2026 | [Apply](https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer-Intern_J00178674) |
 | Amazon ✓ | Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027 | Cloud Platform | Austin, Texas, USA | Python, Verilog | Aug 27, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027) |
 | Leidos ✓ | Systems Engineering Intern 🇺🇸 | Systems & Cloud Infra | Odenton, MD | Python, Java, C++, Bash | Aug 26, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Systems-Engineering-Intern_R-00190647) |
@@ -470,7 +470,7 @@ These postings never name a cycle, not in the title and not in the posting text,
 | Hitachi Energy | Intern - Data Center Optimization | Systems & Cloud Infra | Santa Clara, California, United States | Python, PyTorch, TensorFlow, scikit-learn | Aug 18, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Intern---Data-Center-Optimization_R0142174) |
 | Motorola | R&D Intern - Wireless Systems Engineer - 2026 🇺🇸 | Network / Telecom | Los Angeles, CA | MATLAB | Mar 30, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376) |
 
-### Recently posted — cycle not stated  (111 roles)
+### Recently posted — cycle not stated  (109 roles)
 
 These postings never name a cycle, not in the title and not in the posting text, so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -483,12 +483,11 @@ These postings never name a cycle, not in the title and not in the posting text,
 | Blue Cross and Blue Shield of Rhode Island | Intern - Business Systems Analyst 🆕 | Systems & Cloud Infra | Providence, RI | SQL, Azure | Oct 28, 2026 | [Apply](https://bcbsri.wd1.myworkdayjobs.com/BCBSRICareers/job/Providence-RI/Intern---Business-Systems-Analyst_JR100477) |
 | Leidos ✓ | Energy & Infrastructure Consulting Summer Intern 🆕 | Systems & Cloud Infra | Denver, CO | No skills listed | Oct 28, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Denver-CO/Energy---Infrastructure-Consulting-Summer-Intern_R-00195653-1) |
 | Leidos ✓ | Energy & Infrastructure Consulting Summer Intern 🆕 | Systems & Cloud Infra | Framingham, MA | No skills listed | Oct 28, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Framingham-MA/Energy---Infrastructure-Consulting-Summer-Intern_R-00195678) |
-| Allegion | Summer Intern - Software Systems Engineering 🆕 | Systems & Cloud Infra | Golden, CO | AWS, Azure | Oct 28, 2026 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1) |
+| Allegion | Summer Intern - Software Systems Engineering | Systems & Cloud Infra | Golden, CO | AWS, Azure | Oct 28, 2026 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1) |
 | Avav | Systems Engineering Intern - Space Technologies 🇺🇸 | Systems & Cloud Infra | Albuquerque, NM | Python | Oct 27, 2026 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Albuquerque-NM/Systems-Engineering-Intern---Space-Technologies_9250) |
 | Booz Allen | Systems Administrator - Summer Intern 🇺🇸 | Systems & Cloud Infra | Annapolis Junction, MD | No skills listed | Oct 27, 2026 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/Systems-Administrator---Summer-Intern_R0252406) |
 | Lila Sciences | Co-Op, Automated Systems Engineer | Systems & Cloud Infra | Cambridge, MA USA | Python | Oct 26, 2026 | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4462594009) |
 | Analog Devices ✓ | DevOps Co-Op | Systems & Cloud Infra | US, MA, Boston | Python, C++, Rust, TypeScript | Oct 26, 2026 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/DevOps-Co-Op_R267690) |
-| Manhattan Associates ✓ | Cloud Intern | Cloud Platform | Atlanta, GA | SQL, AWS, GCP, Azure | Oct 26, 2026 | [Apply](https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/Cloud-Intern_16992) |
 | Centene 🆁 | Network Operations Process Improvement Undergraduate Summer Intern | Network / Telecom | Remote-NC | SQL | Oct 23, 2026 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-NC/Network-Operations-Process-Improvement-Undergraduate-Summer-Intern_1667787) |
 | Olsson | Student Internship - Network and Server Infrastructure | Network / Telecom | Lincoln, NE | No skills listed | Oct 23, 2026 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5462183008) |
 | Arch Capital Group | Loss Management IT Intern | IT Support / Ops | Greensboro, NC United States of America | No skills listed | Oct 22, 2026 | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Loss-Management-IT-Intern_R26_1138) |
@@ -533,7 +532,6 @@ These postings never name a cycle, not in the title and not in the posting text,
 | RTX | Avionics Test Engineering -Systems Engineer Intern (Onsite) 🇺🇸 | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd… | MATLAB | Oct 03, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518) |
 | Generac | Micro-Grid Systems Engineering Co-Op | Systems & Cloud Infra | USA - CO Fort Collins | No skills listed | Oct 02, 2026 | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/USA---CO-Fort-Collins/Micro-Grid-Systems-Engineering-Co-Op---Summer-Intern_JR17249) |
 | Tranetechnologies | Systems Engineer Intern | Systems & Cloud Infra | St Paul, Minnesota | No skills listed | Sep 30, 2026 | [Apply](https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/St-Paul-Minnesota/Systems-Engineer-Intern_JR-16745) |
-| KLA ✓ | Mechatronics/Systems Engineering Internship | Systems & Cloud Infra | Milpitas, CA | No skills listed | Sep 30, 2026 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1) |
 | Nokia | Optical System Engineer Co-Op | Network / Telecom | United States | No skills listed | Sep 30, 2026 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40648) |
 | RTX | Systems Engineering Co-op - Boeing Platforms Displays (Summer/Fall) 🛂 | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE… | No skills listed | Sep 30, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineering-Co-op---Boeing-Platforms-Displays--Summer-Fall-_01871761) |
 | Leidos ✓ 🆁 | Data Center Design Intern 🇺🇸 | Systems & Cloud Infra | 6314 Remote/Teleworker US | No skills listed | Sep 28, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Center-Design-Intern_R-00193261) |
@@ -641,12 +639,13 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 _179 companies on the [full radar](https://ihrtkaii.github.io/test-1/#radar). **179** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong>: 32 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong>: 33 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters. That's our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Brookfield Properties | IT Intern (Summer Internship 6/7/2027 - 8/13/2027) | Summer 2027 | 2026-10-30 | gone from feed |
 | Saab | Systems Engineering Co-Op (Spring - Summer 2027) | Summer 2027 | 2026-10-30 | gone from feed |
 | Saab | Systems Engineering Co-Op (Summer 2027) | Summer 2027 | 2026-10-30 | gone from feed |
 | Aurora Innovation | Data & ML Platform Engineering Intern | Summer 2027 | 2026-10-29 | gone from feed |
@@ -697,7 +696,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,747 of 5,249 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1075.8s · 611 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,848 of 5,249 registered boards returned successfully across 12 ATS platforms (95% of boards attempted, 92% of the full registry) · completed in 1124.2s · 664 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 

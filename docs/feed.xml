@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-10-30T05:56:31Z</updated>
+  <updated>2026-10-30T13:03:18Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:gaig:/job/Cincinnati-OH-USA/IT-Intern---Summer-2027_R9816-1</id>
+    <title>Great American Insurance Company: IT Intern - Summer 2027</title>
+    <link href="https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Intern---Summer-2027_R9816-1"/>
+    <updated>2026-10-30T13:03:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · Cincinnati, OH (USA) · SQL, Snowflake · H-1B track record: ~35 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158620079</id>
     <title>Bosch: IT Systems Engineering Intern (19 hours per week)</title>
@@ -475,9 +483,9 @@
     <id>urn:intern-engine:workday:manh:/job/Atlanta-GA/Cloud-Intern_16992</id>
     <title>Manhattan Associates: Cloud Intern</title>
     <link href="https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/Cloud-Intern_16992"/>
-    <updated>2026-10-26T20:44:49Z</updated>
+    <updated>2026-10-30T13:03:17Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Cloud Platform · Atlanta, GA · SQL, AWS, GCP, Azure · H-1B track record: ~153 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Cloud Platform · Atlanta, GA · SQL, AWS, GCP, Azure · status: closed · H-1B track record: ~153 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:motorolasolutions:/job/Allen-TX-TX139/Presales-Systems-Engineer---Summer-2027-Internship_R69875</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-21T00:24:02Z</updated>
     <category term="Not stated"/>
     <summary>2 openings · Not stated · IT Support / Ops · Irving, TX</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:trustage:/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155</id>
-    <title>TruStage: Information Technology - Development and Infrastructure Internship (hybrid)</title>
-    <link href="https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155"/>
-    <updated>2026-10-21T00:24:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Wisconsin - Remote · C#, JavaScript, React, Angular, .NET</summary>
   </entry>
 </feed>

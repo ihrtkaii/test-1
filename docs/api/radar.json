@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-30T05:56:31Z",
- "data_as_of": "2026-10-30T05:56:31Z",
- "rendered_at": "2026-10-30T05:56:31Z",
+ "generated_at": "2026-10-30T13:03:18Z",
+ "data_as_of": "2026-10-30T13:03:18Z",
+ "rendered_at": "2026-10-30T13:03:18Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/test-1",
  "companies": [
@@ -706,25 +706,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-28"
-   }
-  },
-  {
-   "company": "Brookfield Properties",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-30",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-30",
-   "days_until": -61,
-   "status": "open",
-   "url": "https://brookfield.wd5.myworkdayjobs.com/brookfieldproperties/job/Chicago-Illinois/IT-Intern--Summer-Internship-6-7-2027---8-13-2027-_R2052380-1",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-30"
    }
   },
   {
@@ -3023,6 +3004,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-27"
+   }
+  },
+  {
+   "company": "Brookfield Properties",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-30",
+   "days_until": -61,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-30"
    }
   },
   {
