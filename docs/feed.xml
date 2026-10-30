@@ -5,15 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-10-29T23:17:15Z</updated>
+  <updated>2026-10-30T05:56:31Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
   <entry>
-    <id>urn:intern-engine:greenhouse:internrecruiting:8310712</id>
-    <title>Internrecruiting: Cloud Engineer Co-op</title>
-    <link href="https://job-boards.greenhouse.io/internrecruiting/jobs/8310712"/>
-    <updated>2026-10-29T23:17:15Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Cloud Platform · Wakefield, MA (Hybrid) · SQL, AWS, Azure, Terraform · status: closed</summary>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158620079</id>
+    <title>Bosch: IT Systems Engineering Intern (19 hours per week)</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000158620079"/>
+    <updated>2026-10-30T05:56:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Roseville, CA, United States · $24–$27/hr · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gaig:/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826</id>
+    <title>Great American Insurance Company: DevOps Developer Intern - Summer 2027</title>
+    <link href="https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826"/>
+    <updated>2026-10-30T05:56:31Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Cincinnati, OH (USA) · Python, Java, Kotlin · H-1B track record: ~35 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10593054</id>
@@ -22,6 +30,14 @@
     <updated>2026-10-29T23:17:15Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Austin, Texas, USA · AWS · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:internrecruiting:8310712</id>
+    <title>Internrecruiting: Cloud Engineer Co-op</title>
+    <link href="https://job-boards.greenhouse.io/internrecruiting/jobs/8310712"/>
+    <updated>2026-10-29T23:17:15Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Cloud Platform · Wakefield, MA (Hybrid) · SQL, AWS, Azure, Terraform · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hcsc:/job/IL---Chicago/Early-Careers---Cybersecurity-Operations-Intern_R0059508</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-21T00:24:02Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Wisconsin - Remote · C#, JavaScript, React, Angular, .NET</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:illumio:09d4895b-6de4-4d22-bbc3-aa45f2b24260</id>
-    <title>Illumio: Security Research, Intern 🛂</title>
-    <link href="https://jobs.ashbyhq.com/illumio/09d4895b-6de4-4d22-bbc3-aa45f2b24260"/>
-    <updated>2026-10-20T21:51:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Sunnyvale, California - HQ · $37 per hour · Python, SQL, PyTorch, scikit-learn, Pandas · sponsorship: no-sponsorship · H-1B track record: ~25 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:illumio:8708e622-900e-458a-96b3-ae339329a56d</id>
-    <title>Illumio: Engineering Intern, Product Security 🛂</title>
-    <link href="https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d"/>
-    <updated>2026-10-20T21:51:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · AppSec / Product Sec · Sunnyvale, California - HQ · $37 per hour · Python, C++, Ruby · sponsorship: no-sponsorship · H-1B track record: ~25 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
