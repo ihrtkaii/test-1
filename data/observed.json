@@ -748,9 +748,10 @@
     "Fall 2026": {
      "first_posted": "2026-09-02",
      "role_ids": [
-      "workday:cmu:/job/Pittsburgh-PA/AI-Security-Research-Intern---Sept-2026---May-2027-_2025068-2"
+      "workday:cmu:/job/Pittsburgh-PA/AI-Security-Research-Intern---Sept-2026---May-2027-_2025068-2",
+      "workday:cmu:/job/Pittsburgh-PA/Cyber-Range-Development-Intern_2025291-1"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1043,6 +1044,18 @@
     }
    }
   },
+  "garda capital partners": {
+   "name": "Garda Capital Partners",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-30",
+     "role_ids": [
+      "greenhouse:gardacp:6239821004"
+     ],
+     "count": 1
+    }
+   }
+  },
   "gartner": {
    "name": "Gartner",
    "cycles": {
@@ -1052,6 +1065,19 @@
       "workday:gartner:/job/Stamford-CT/Summer-2027-IT-Intern--May-2028-Graduates-_113095"
      ],
      "count": 1
+    }
+   }
+  },
+  "gcm grosvenor": {
+   "name": "GCM Grosvenor",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-30",
+     "role_ids": [
+      "greenhouse:gcmgrosvenor:8035929003",
+      "greenhouse:gcmgrosvenor:8035967003"
+     ],
+     "count": 2
     }
    }
   },
@@ -1707,6 +1733,18 @@
     }
    }
   },
+  "molina healthcare": {
+   "name": "Molina Healthcare",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-30",
+     "role_ids": [
+      "oracle:hckd.fa.us2.oraclecloud.com:2040172"
+     ],
+     "count": 1
+    }
+   }
+  },
   "momentive": {
    "name": "Momentive",
    "cycles": {
@@ -2150,6 +2188,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineer---Spring-Summer-Co-op-2027----Onsite-_01871506",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineering-Intern-2027--Onsite-_01865648",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op---Systems-Engineering--Onsite-_01868438",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-Intern--Summer-2027-----Tac-Comm---Onsite_01886283",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--Summer-2027----Onsite_01869961",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern-2027--Onsite-_01867044",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871278",
@@ -2159,7 +2198,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Engineering-Intern--Summer-2027----Onsite_01871091"
      ],
-     "count": 32
+     "count": 33
     }
    }
   },
@@ -2399,9 +2438,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-11",
      "role_ids": [
-      "workday:ttc:/job/Bloomington-MN/Electrical-Systems-Engineering-Intern---The-Toro-Company_JR17164"
+      "workday:ttc:/job/Bloomington-MN/Electrical-Systems-Engineering-Intern---The-Toro-Company_JR17164",
+      "workday:ttc:/job/Bloomington-MN/Information-Technology-Unified-Communications-Intern---The-Toro-Company_JR17713"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2687,5 +2727,5 @@
    }
   }
  },
- "updated_at": "2026-10-30T13:03:17Z"
+ "updated_at": "2026-10-30T20:14:10Z"
 }

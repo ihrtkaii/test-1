@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-30T13:03:18Z",
- "data_as_of": "2026-10-30T13:03:18Z",
- "rendered_at": "2026-10-30T13:03:18Z",
+ "generated_at": "2026-10-30T20:14:10Z",
+ "data_as_of": "2026-10-30T20:14:10Z",
+ "rendered_at": "2026-10-30T20:14:10Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/test-1",
  "companies": [
@@ -2875,6 +2875,63 @@
    }
   },
   {
+   "company": "Garda Capital Partners",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-30",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/gardacp/jobs/6239821004",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-30"
+   }
+  },
+  {
+   "company": "GCM Grosvenor",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-30",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8035929003",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-30"
+   }
+  },
+  {
+   "company": "Molina Healthcare",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-30",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040172",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-30"
+   }
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -3406,5 +3463,5 @@
    }
   }
  ],
- "count": 179
+ "count": 182
 }

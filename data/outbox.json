@@ -1,6 +1,26 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:ferrovial:/job/Murfreesboro-TN/Webber---Field-Engineer-Intern-II---Infrastructure-Management_JR19990",
+      "oracle:hckd.fa.us2.oraclecloud.com:2040172",
+      "workday:cmu:/job/Pittsburgh-PA/Cyber-Range-Development-Intern_2025291-1",
+      "greenhouse:ensco:5467125008",
+      "greenhouse:gardacp:6239821004",
+      "greenhouse:gcmgrosvenor:8035929003",
+      "greenhouse:gcmgrosvenor:8035967003",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-Intern--Summer-2027-----Tac-Comm---Onsite_01886283",
+      "workday:ttc:/job/Bloomington-MN/Information-Technology-Unified-Communications-Intern---The-Toro-Company_JR17713"
+    ],
+    "telegram": [
+      "workday:ferrovial:/job/Murfreesboro-TN/Webber---Field-Engineer-Intern-II---Infrastructure-Management_JR19990",
+      "oracle:hckd.fa.us2.oraclecloud.com:2040172",
+      "workday:cmu:/job/Pittsburgh-PA/Cyber-Range-Development-Intern_2025291-1",
+      "greenhouse:ensco:5467125008",
+      "greenhouse:gardacp:6239821004",
+      "greenhouse:gcmgrosvenor:8035929003",
+      "greenhouse:gcmgrosvenor:8035967003",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-Intern--Summer-2027-----Tac-Comm---Onsite_01886283",
+      "workday:ttc:/job/Bloomington-MN/Information-Technology-Unified-Communications-Intern---The-Toro-Company_JR17713"
+    ]
   }
 }
