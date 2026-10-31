@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-31T09:47:55Z",
- "data_as_of": "2026-10-31T09:47:55Z",
- "rendered_at": "2026-10-31T09:47:55Z",
+ "generated_at": "2026-10-31T15:46:34Z",
+ "data_as_of": "2026-10-31T15:46:34Z",
+ "rendered_at": "2026-10-31T15:46:34Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/test-1",
  "companies": [
@@ -739,25 +739,6 @@
    "days_until": -61,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/awetomaton/jobs/5394046008",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-31"
-   }
-  },
-  {
-   "company": "Duke Energy",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -61,
-   "status": "open",
-   "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2571,25 +2552,6 @@
    }
   },
   {
-   "company": "Arch Capital Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-19",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-19",
-   "days_until": -12,
-   "status": "open",
-   "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Security-Operations-Intern_R26_1016",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-19"
-   }
-  },
-  {
    "company": "Generac",
    "last_cycle_posted": "",
    "posted_on": "2026-10-19",
@@ -2904,7 +2866,7 @@
    "expected": "2026-10-31",
    "days_until": 0,
    "status": "open",
-   "url": "https://jobs.lever.co/tevora/fb3b174b-07ac-410d-9c44-53c70793635c",
+   "url": "https://jobs.lever.co/tevora/4e3b7ae3-cb18-4c76-815c-0014e3c7598c",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3102,6 +3064,25 @@
   },
   {
    "company": "BlueCross BlueShield of Nebraska",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -61,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
+   "company": "Duke Energy",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
    "precision": "day",
@@ -3497,6 +3478,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-16"
+   }
+  },
+  {
+   "company": "Arch Capital Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-19",
+   "days_until": -12,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-19"
    }
   }
  ],
