@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "rippling:omnis-corporation:c534b2ba-a409-4c26-bb92-704e48fccb63",
-      "workday:lifefitness:/job/Rosemont-IL/IT-Intern_JR-025323",
-      "workday:philips:/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Engineer---New-Kensington--PA---Summer-2027_592850"
-    ],
-    "telegram": [
-      "rippling:omnis-corporation:c534b2ba-a409-4c26-bb92-704e48fccb63",
-      "workday:lifefitness:/job/Rosemont-IL/IT-Intern_JR-025323",
-      "workday:philips:/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Engineer---New-Kensington--PA---Summer-2027_592850"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
