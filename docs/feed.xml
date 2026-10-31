@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-10-30T20:14:10Z</updated>
+  <updated>2026-10-31T01:00:45Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
+  <entry>
+    <id>urn:intern-engine:rippling:omnis-corporation:c534b2ba-a409-4c26-bb92-704e48fccb63</id>
+    <title>Omnis: Wireless Systems Intern, MAC and PHY (Spring and Summer 2027)</title>
+    <link href="https://ats.rippling.com/omnis-corporation/jobs/c534b2ba-a409-4c26-bb92-704e48fccb63"/>
+    <updated>2026-10-31T01:00:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · Venice, Los Angeles, CA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:lifefitness:/job/Rosemont-IL/IT-Intern_JR-025323</id>
+    <title>Life Fitness: IT Intern</title>
+    <link href="https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/IT-Intern_JR-025323"/>
+    <updated>2026-10-31T01:00:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · IT Support / Ops · Rosemont, IL · $19–$23/hr · Python, LLMs · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:philips:/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Engineer---New-Kensington--PA---Summer-2027_592850</id>
+    <title>Philips: Intern - Systems Engineer – New Kensington, PA – Summer 2027</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Engineer---New-Kensington--PA---Summer-2027_592850"/>
+    <updated>2026-10-31T01:00:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · New Kensington, Pennsylvania, United States</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:centerforstrategicandinternationalstudiesinc:4462565009</id>
     <title>Center for Strategic and International Studies: Spring Intern, Critical Minerals Security Program</title>
@@ -14,30 +38,6 @@
     <updated>2026-10-30T20:14:10Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · Security (general) · Washington, D.C. · $18.4/hr · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ferrovial:/job/Murfreesboro-TN/Webber---Field-Engineer-Intern-II---Infrastructure-Management_JR19990</id>
-    <title>Ferrovial: Webber - Field Engineer Intern II - Infrastructure Management</title>
-    <link href="https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Murfreesboro-TN/Webber---Field-Engineer-Intern-II---Infrastructure-Management_JR19990"/>
-    <updated>2026-10-30T20:14:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Murfreesboro, TN</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hckd.fa.us2.oraclecloud.com:2040172</id>
-    <title>Molina Healthcare: Cybersecurity Internship (Remote) – Summer 2027 (Undergraduate)</title>
-    <link href="https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040172"/>
-    <updated>2026-10-30T20:14:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · United States · Azure · H-1B track record: ~49 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cmu:/job/Pittsburgh-PA/Cyber-Range-Development-Intern_2025291-1</id>
-    <title>Cmu: Cyber Range Development Intern 🛂</title>
-    <link href="https://cmu.wd115.myworkdayjobs.com/sei/job/Pittsburgh-PA/Cyber-Range-Development-Intern_2025291-1"/>
-    <updated>2026-10-30T20:14:10Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Security (general) · Pittsburgh, PA · Python, Bash, Terraform, Linux · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:ensco:5467125008</id>
@@ -70,6 +70,30 @@
     <updated>2026-10-30T20:14:10Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Other · Chicago, Illinois, United States · Python, C#, JavaScript, LLMs, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hckd.fa.us2.oraclecloud.com:2040172</id>
+    <title>Molina Healthcare: Cybersecurity Internship (Remote) – Summer 2027 (Undergraduate)</title>
+    <link href="https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040172"/>
+    <updated>2026-10-30T20:14:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · United States · Azure · H-1B track record: ~49 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cmu:/job/Pittsburgh-PA/Cyber-Range-Development-Intern_2025291-1</id>
+    <title>Cmu: Cyber Range Development Intern 🛂</title>
+    <link href="https://cmu.wd115.myworkdayjobs.com/sei/job/Pittsburgh-PA/Cyber-Range-Development-Intern_2025291-1"/>
+    <updated>2026-10-30T20:14:10Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Security (general) · Pittsburgh, PA · Python, Bash, Terraform, Linux · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ferrovial:/job/Murfreesboro-TN/Webber---Field-Engineer-Intern-II---Infrastructure-Management_JR19990</id>
+    <title>Ferrovial: Webber - Field Engineer Intern II - Infrastructure Management</title>
+    <link href="https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Murfreesboro-TN/Webber---Field-Engineer-Intern-II---Infrastructure-Management_JR19990"/>
+    <updated>2026-10-30T20:14:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Murfreesboro, TN</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-Intern--Summer-2027-----Tac-Comm---Onsite_01886283</id>
@@ -782,29 +806,5 @@
     <updated>2026-10-22T00:31:18Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security (general) · US, California, Folsom · Python, JavaScript, SQL, LLMs, Linux · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ehpv.fa.em2.oraclecloud.com:27404</id>
-    <title>DP World: Information Security Intern 🛂</title>
-    <link href="https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27404"/>
-    <updated>2026-10-21T21:55:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Charlotte, NC, United States · Linux · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:AECOM2:744000156887619</id>
-    <title>AECOM: Digital Infrastructure / Telecommunications Engineering Intern</title>
-    <link href="https://jobs.smartrecruiters.com/AECOM2/744000156887619"/>
-    <updated>2026-10-21T21:55:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Network / Telecom · Philadelphia, PA, United States (Hybrid)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jabil:/job/St-PetersburgTampa-FL/IT-Audit-Intern_J2468699</id>
-    <title>Jabil: IT Audit Intern</title>
-    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/IT-Audit-Intern_J2468699"/>
-    <updated>2026-10-21T21:55:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · GRC / Risk · St. Petersburg/Tampa, FL · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
