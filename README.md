@@ -6,9 +6,9 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/ihrtkaii/test-1/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/ihrtkaii/test-1/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fihrtkaii.github.io%2Ftest-1%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://ihrtkaii.github.io/test-1/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%203%20hours-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://ihrtkaii.github.io/test-1/feed.xml)
 
-### 671 open roles (510 listed below) · 86 new this week
+### 671 open roles (510 listed below) · 85 new this week
 
-4,983 employers tracked · data as of Oct 31, 2026 at 19:48 UTC
+4,983 employers tracked · data as of Nov 01, 2026 at 00:23 UTC
 
 _500 have a cycle the employer stated · 171 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -188,7 +188,7 @@ These postings never name a cycle, not in the title and not in the posting text,
 |---|---|---|---|---|---|---|
 | Tevora | Cybersecurity Internship Summer2027 - Federal 🆕 | Security (general) | Fairfax, VA | No skills listed | Oct 31, 2026 | [Apply](https://jobs.lever.co/tevora/2ad5ba33-3c2a-4e51-a5ab-e5632adb0e0d) |
 | ENSCO | Information Security Intern 🇺🇸 🆕 | Security (general) | Melbourne, Florida, United States | Python | Oct 30, 2026 | [Apply](https://job-boards.greenhouse.io/ensco/jobs/5467125008) |
-| HCSC | Early Careers - Cybersecurity Operations Intern 🛂 🆕 | Security (general) | IL - Chicago | Python | Oct 29, 2026 | [Apply](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Cybersecurity-Operations-Intern_R0059508) |
+| HCSC | Early Careers - Cybersecurity Operations Intern 🛂 | Security (general) | IL - Chicago | Python | Oct 29, 2026 | [Apply](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Cybersecurity-Operations-Intern_R0059508) |
 | Filevine | Security Specialist, Intern | Security (general) | Salt Lake City, Utah | AWS, GCP, Azure | Oct 27, 2026 | [Apply](https://jobs.lever.co/filevine/47d66dab-ae72-4256-90d3-8d9e82904370) |
 | Boston Properties | Cyber Security Co-Op | Security (general) | Boston, MA, United States | No skills listed | Oct 27, 2026 | [Apply](https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26173) |
 | Sierra Nevada Corporation | Cybersecurity Analyst Intern 🇺🇸 | Security (general) | Sparks, NV | MATLAB | Oct 27, 2026 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Cybersecurity-Analyst-Intern_R0031269) |
@@ -248,10 +248,10 @@ These postings never name a cycle, not in the title and not in the posting text,
 | Garda Capital Partners | Infrastructure Engineer Intern 🆕 | Systems & Cloud Infra | Wayzata, Minnesota, United States | Python, AWS, Azure, Terraform | Oct 30, 2026 | [Apply](https://job-boards.greenhouse.io/gardacp/jobs/6239821004) |
 | RTX | Systems Engineer Intern (Summer 2027)  - Tac Comm - Onsite 🇺🇸 🆕 | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE… | Python, MATLAB | Oct 30, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-Intern--Summer-2027-----Tac-Comm---Onsite_01886283) |
 | Great American Insurance Company ✓ | IT Intern - Summer 2027 🆕 | IT Support / Ops | Cincinnati, OH (USA) | SQL, Snowflake | Oct 30, 2026 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Intern---Summer-2027_R9816-1) |
-| Amazon ✓ | Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast 🆕 | Systems & Cloud Infra | Austin, Texas, USA | AWS | Oct 29, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast) |
+| Amazon ✓ | Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast | Systems & Cloud Infra | Austin, Texas, USA | AWS | Oct 29, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast) |
 | Great American Insurance Company ✓ | DevOps Developer Intern - Summer 2027 🆕 | Systems & Cloud Infra | Cincinnati, OH (USA) | Python, Java, Kotlin | Oct 29, 2026 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826) |
-| Northrop Grumman | 2027 Systems Engineering Intern - Boulder CO 🇺🇸 🆕 | Systems & Cloud Infra | United States-Colorado-Boulder | No skills listed | Oct 29, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Systems-Engineering-Intern---Boulder-CO_R10258456-1) |
-| Sierra Nevada Corporation | Program Finance Systems Analyst Intern (Summer 2027) 🇺🇸 🆕 | Systems & Cloud Infra | Lone Tree, CO | No skills listed | Oct 29, 2026 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Program-Finance-Systems-Analyst-Intern--Summer-2027-_R0031193) |
+| Northrop Grumman | 2027 Systems Engineering Intern - Boulder CO 🇺🇸 | Systems & Cloud Infra | United States-Colorado-Boulder | No skills listed | Oct 29, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Systems-Engineering-Intern---Boulder-CO_R10258456-1) |
+| Sierra Nevada Corporation | Program Finance Systems Analyst Intern (Summer 2027) 🇺🇸 | Systems & Cloud Infra | Lone Tree, CO | No skills listed | Oct 29, 2026 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Program-Finance-Systems-Analyst-Intern--Summer-2027-_R0031193) |
 | The Aerospace Corporation | 2027 Space Communications and Network Systems Undergrad Intern 🇺🇸 | Network / Telecom | El Segundo, CA | No skills listed | Oct 28, 2026 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Space-Communications-and-Network-Systems-Undergrad-Intern_R017064) |
 | Sierra Nevada Corporation | Network Engineer Intern (Summer 2027) 🇺🇸 | Network / Telecom | Hagerstown, MD | MATLAB | Oct 28, 2026 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Network-Engineer-Intern--Summer-2027-_R0031232) |
 | Amazon ✓ | Network Development Engineer Intern, 2027 Summer | Network / Telecom | Seattle, Washington, USA | Python, JavaScript, AWS, Linux | Oct 27, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10590368/network-development-engineer-intern-2027-summer) |
@@ -706,7 +706,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,890 of 5,304 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 1003.2s · 657 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,894 of 5,304 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 1164.3s · 661 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
