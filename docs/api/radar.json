@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-01T06:14:40Z",
- "data_as_of": "2026-11-01T06:14:40Z",
- "rendered_at": "2026-11-01T06:14:40Z",
+ "generated_at": "2026-11-01T13:31:50Z",
+ "data_as_of": "2026-11-01T13:31:50Z",
+ "rendered_at": "2026-11-01T13:31:51Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/test-1",
  "companies": [
@@ -226,25 +226,6 @@
    "days_until": -76,
    "status": "open",
    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-17"
-   }
-  },
-  {
-   "company": "American Express",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-17",
-   "days_until": -76,
-   "status": "open",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011893",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2927,6 +2908,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-03"
+   }
+  },
+  {
+   "company": "American Express",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -76,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-17"
    }
   },
   {
