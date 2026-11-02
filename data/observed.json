@@ -970,12 +970,13 @@
     "Summer 2027": {
      "first_posted": "2026-10-01",
      "role_ids": [
+      "workday:rb:/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866",
       "workday:rb:/job/Chicago-IL/Summer-2027-Intern-Cloud-Engineering_R-0000033614",
       "workday:rb:/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1",
       "workday:rb:/job/Chicago-IL/Summer-2027-Intern-Networking-and-Computer-Engineering_R-0000033610",
       "workday:rb:/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -1185,9 +1186,10 @@
      "role_ids": [
       "workday:gaig:/job/Cincinnati-OH-USA/Cloud-Data-Platform-Intern---Summer-2027_R9795",
       "workday:gaig:/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826",
-      "workday:gaig:/job/Cincinnati-OH-USA/IT-Intern---Summer-2027_R9816-1"
+      "workday:gaig:/job/Cincinnati-OH-USA/IT-Intern---Summer-2027_R9816-1",
+      "workday:gaig:/job/Cincinnati-OH-USA/Risk-and-Compliance-Intern---Summer-2027_R9830"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -1351,6 +1353,18 @@
     }
    }
   },
+  "id me": {
+   "name": "ID.me",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-02",
+     "role_ids": [
+      "greenhouse:idmeuniversityrecruiting:8076649003"
+     ],
+     "count": 1
+    }
+   }
+  },
   "illumio": {
    "name": "Illumio",
    "cycles": {
@@ -1435,6 +1449,18 @@
       "workday:jabil:/job/St-PetersburgTampa-FL/IT-Audit-Intern_J2468699"
      ],
      "count": 2
+    }
+   }
+  },
+  "jm family": {
+   "name": "JM Family",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-02",
+     "role_ids": [
+      "workday:jmfamily:/job/Florida---Deerfield-Beach/Offensive-Security-Intern_JR105164"
+     ],
+     "count": 1
     }
    }
   },
@@ -2276,9 +2302,10 @@
       "workday:snc:/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0030750",
       "workday:snc:/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0031166-1",
       "workday:snc:/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0031180",
-      "workday:snc:/job/Plano-TX/Systems-Engineering-Intern--Summer-2027-_R0030752"
+      "workday:snc:/job/Plano-TX/Systems-Engineering-Intern--Summer-2027-_R0030752",
+      "workday:snc:/job/Southern-Pines-NC/DevOps-Engineer-Intern--Summer-2027-_R0031238-1"
      ],
-     "count": 15
+     "count": 16
     },
     "Fall 2026": {
      "first_posted": "2026-09-23",
@@ -2433,6 +2460,18 @@
      "first_posted": "2026-09-01",
      "role_ids": [
       "oracle:ebgj.fa.us2.oraclecloud.com:253297"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "tiaa": {
+   "name": "TIAA",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-02",
+     "role_ids": [
+      "workday:tiaa:/job/New-York-NY---730-Third-Avenue/XMLNAME-2027-Intern--Energy-Infrastructure-Credit_R261000336-1"
      ],
      "count": 1
     }
@@ -2746,5 +2785,5 @@
    }
   }
  },
- "updated_at": "2026-11-02T07:11:22Z"
+ "updated_at": "2026-11-02T19:47:20Z"
 }

@@ -1,6 +1,24 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:bannerhealth:/job/Remote-Arizona/IT-Intern_R4449625",
+      "workday:gaig:/job/Cincinnati-OH-USA/Risk-and-Compliance-Intern---Summer-2027_R9830",
+      "greenhouse:idmeuniversityrecruiting:8076649003",
+      "workday:jmfamily:/job/Florida---Deerfield-Beach/Offensive-Security-Intern_JR105164",
+      "workday:jci:/job/Glendale-Wisconsin-United-States-of-America/HVAC-Control-Systems-Engineering-Intern_WD30282523",
+      "workday:snc:/job/Southern-Pines-NC/DevOps-Engineer-Intern--Summer-2027-_R0031238-1",
+      "workday:rb:/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866",
+      "workday:tiaa:/job/New-York-NY---730-Third-Avenue/XMLNAME-2027-Intern--Energy-Infrastructure-Credit_R261000336-1"
+    ],
+    "telegram": [
+      "workday:bannerhealth:/job/Remote-Arizona/IT-Intern_R4449625",
+      "workday:gaig:/job/Cincinnati-OH-USA/Risk-and-Compliance-Intern---Summer-2027_R9830",
+      "greenhouse:idmeuniversityrecruiting:8076649003",
+      "workday:jmfamily:/job/Florida---Deerfield-Beach/Offensive-Security-Intern_JR105164",
+      "workday:jci:/job/Glendale-Wisconsin-United-States-of-America/HVAC-Control-Systems-Engineering-Intern_WD30282523",
+      "workday:snc:/job/Southern-Pines-NC/DevOps-Engineer-Intern--Summer-2027-_R0031238-1",
+      "workday:rb:/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866",
+      "workday:tiaa:/job/New-York-NY---730-Third-Avenue/XMLNAME-2027-Intern--Energy-Infrastructure-Credit_R261000336-1"
+    ]
   }
 }
