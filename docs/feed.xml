@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-11-03T03:11:09Z</updated>
+  <updated>2026-11-03T11:02:13Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:8042092003</id>
+    <title>Rocket Lab: Ground Systems Engineering Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/8042092003"/>
+    <updated>2026-11-03T03:11:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Middle River, MD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:systemstechnologyresearch:4726405006</id>
+    <title>STR: 5G SA O-RAN Test Bed Co-Op (Engineering Co-Op) 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4726405006"/>
+    <updated>2026-11-03T03:11:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Network / Telecom · Woburn, MA · $25.2–$54/hr · Python, Bash, Linux · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:massgeneralbrigham:/job/Boston-MA/Co-op-Security_RQ4085104</id>
     <title>Mass General Brigham: Co-op Security</title>
@@ -30,22 +46,6 @@
     <updated>2026-11-03T03:11:09Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · Virginia Remote Work, More... · Python, JavaScript, React, AWS, Kubernetes · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:8042092003</id>
-    <title>Rocket Lab: Ground Systems Engineering Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/8042092003"/>
-    <updated>2026-11-03T03:11:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Middle River, MD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:systemstechnologyresearch:4726405006</id>
-    <title>STR: 5G SA O-RAN Test Bed Co-Op (Engineering Co-Op) 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4726405006"/>
-    <updated>2026-11-03T03:11:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Network / Telecom · Woburn, MA · $25.2–$54/hr · Python, Bash, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:valmont:/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223</id>
@@ -667,9 +667,9 @@
     <id>urn:intern-engine:ashby:aurora-operations-inc:058e3b3a-dd13-4736-84a8-b19d5de2c9f5</id>
     <title>Aurora Innovation: Safety &amp; Systems Engineering Intern</title>
     <link href="https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5"/>
-    <updated>2026-10-31T09:47:55Z</updated>
+    <updated>2026-10-27T00:38:47Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Mountain View, CA · $58/hr · Python, C++ · status: closed · H-1B track record: ~163 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Mountain View, CA · $58/hr · Python, C++ · H-1B track record: ~163 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:aurora-operations-inc:da4c8e2e-0571-4503-94d9-234da86f83b0</id>

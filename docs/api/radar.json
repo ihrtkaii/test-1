@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-03T03:11:09Z",
- "data_as_of": "2026-11-03T03:11:09Z",
- "rendered_at": "2026-11-03T03:11:09Z",
+ "generated_at": "2026-11-03T11:02:13Z",
+ "data_as_of": "2026-11-03T11:02:13Z",
+ "rendered_at": "2026-11-03T11:02:13Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/test-1",
  "companies": [
@@ -1868,6 +1868,25 @@
    }
   },
   {
+   "company": "Aurora Innovation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-24",
+   "days_until": -40,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-24"
+   }
+  },
+  {
    "company": "Cerity Partners",
    "last_cycle_posted": "",
    "posted_on": "2026-09-25",
@@ -2220,7 +2239,7 @@
    "expected": "2026-10-07",
    "days_until": -27,
    "status": "open",
-   "url": "https://cmu.wd115.myworkdayjobs.com/sei/job/Pittsburgh-PA/AI-Security-Research-Intern---Summer-2027_2025199-1",
+   "url": "https://cmu.wd115.myworkdayjobs.com/sei/job/Pittsburgh-PA/Malware-Analysis-Intern---Summer-2027_2025185-1",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3478,25 +3497,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-21"
-   }
-  },
-  {
-   "company": "Aurora Innovation",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-24",
-   "days_until": -40,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-24"
    }
   },
   {
