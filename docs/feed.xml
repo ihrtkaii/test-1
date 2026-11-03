@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-11-03T11:02:13Z</updated>
+  <updated>2026-11-03T19:48:00Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26016065</id>
+    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Cybersecurity AI Engineer, Enterprise Technology Services- Phoenix, AZ</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065"/>
+    <updated>2026-11-03T19:48:00Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Phoenix, AZ, United States · Python, Java, JavaScript, SQL, LLMs · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cnoinc:/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419</id>
+    <title>CNO Financial Group: Cyber Security IT Intern - REMOTE</title>
+    <link href="https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419"/>
+    <updated>2026-11-03T19:48:00Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Carmel, IN · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:daikinapplied:/job/Plymouth-MN-55441/Systems-Engineering-and-Modular-Architecture-Intern_R004495</id>
+    <title>Daikin Applied: Systems Engineering and Modular Architecture Intern</title>
+    <link href="https://daikinapplied.wd1.myworkdayjobs.com/Pre-Selected_Candidate_Site/job/Plymouth-MN-55441/Systems-Engineering-and-Modular-Architecture-Intern_R004495"/>
+    <updated>2026-11-03T19:48:00Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Plymouth, MN 55441 · Python, Java, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:knowbe4:8928056002</id>
+    <title>KnowBe4: Security Awareness Content Specialist Summer Internship (Hybrid)</title>
+    <link href="https://job-boards.greenhouse.io/knowbe4/jobs/8928056002"/>
+    <updated>2026-11-03T19:48:00Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Clearwater, Florida</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:twosixtechnologies:6142957004</id>
+    <title>Two Six Technologies: Security Operations Intern</title>
+    <link href="https://job-boards.greenhouse.io/twosixtechnologies/jobs/6142957004"/>
+    <updated>2026-11-03T19:48:00Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · SOC / Detection · Arlington, Virginia</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rocketlab:8042092003</id>
     <title>Rocket Lab: Ground Systems Engineering Intern Summer 2027 🇺🇸</title>
@@ -766,45 +806,5 @@
     <updated>2026-10-30T13:03:17Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Cloud Platform · Atlanta, GA · SQL, AWS, GCP, Azure · status: closed · H-1B track record: ~153 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:motorolasolutions:/job/Allen-TX-TX139/Presales-Systems-Engineer---Summer-2027-Internship_R69875</id>
-    <title>Motorola: Presales Systems Engineer - Summer 2027 Internship 🛂</title>
-    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Presales-Systems-Engineer---Summer-2027-Internship_R69875"/>
-    <updated>2026-10-26T20:44:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Allen, TX (TX139), More... · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:motorolasolutions:/job/Brentwood-TN/Presales-Systems-Engineer---Summer-2027_R70006</id>
-    <title>Motorola: Presales Systems Engineer - Summer 2027 Internship 🛂</title>
-    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Brentwood-TN/Presales-Systems-Engineer---Summer-2027_R70006"/>
-    <updated>2026-10-26T20:44:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Brentwood, TN, More... · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:motorolasolutions:/job/Chicago-IL/COEE-Presales-System-Engineer--2027-Internship-_R68359</id>
-    <title>Motorola: COEE Presales System Engineer (2027 Internship)</title>
-    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/COEE-Presales-System-Engineer--2027-Internship-_R68359"/>
-    <updated>2026-10-26T20:44:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Chicago, IL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:motorolasolutions:/job/Waltham-MA/Presales-Systems-Engineering---Summer-2027-Internship_R69779</id>
-    <title>Motorola: Presales Systems Engineering - Summer 2027 Internship 🛂</title>
-    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Waltham-MA/Presales-Systems-Engineering---Summer-2027-Internship_R69779"/>
-    <updated>2026-10-26T20:44:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Waltham, MA, More... · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aoins:/job/Bedford-NH/Business-Systems-Analyst-Intern_R_14503</id>
-    <title>Auto-Owners Insurance: Business Systems Analyst Intern</title>
-    <link href="https://aoins.wd5.myworkdayjobs.com/concord/job/Bedford-NH/Business-Systems-Analyst-Intern_R_14503"/>
-    <updated>2026-10-24T21:00:27Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Bedford, NH</summary>
   </entry>
 </feed>

@@ -255,9 +255,10 @@
       "oracle:egug.fa.us2.oraclecloud.com:26011914",
       "oracle:egug.fa.us2.oraclecloud.com:26012444",
       "oracle:egug.fa.us2.oraclecloud.com:26012460",
-      "oracle:egug.fa.us2.oraclecloud.com:26012462"
+      "oracle:egug.fa.us2.oraclecloud.com:26012462",
+      "oracle:egug.fa.us2.oraclecloud.com:26016065"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -762,9 +763,10 @@
      "first_posted": "2026-08-03",
      "role_ids": [
       "workday:cnoinc:/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389",
+      "workday:cnoinc:/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419",
       "workday:cnoinc:/job/Carmel-IN/IT-Intern_JR170390"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -832,6 +834,18 @@
       "workday:cox:/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357"
      ],
      "count": 4
+    }
+   }
+  },
+  "daikin applied": {
+   "name": "Daikin Applied",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-03",
+     "role_ids": [
+      "workday:daikinapplied:/job/Plymouth-MN-55441/Systems-Engineering-and-Modular-Architecture-Intern_R004495"
+     ],
+     "count": 1
     }
    }
   },
@@ -1474,6 +1488,18 @@
       "workday:keybank:/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Security--Business---Strategy-Track-Internship--Cleveland_R-41390"
      ],
      "count": 2
+    }
+   }
+  },
+  "knowbe4": {
+   "name": "KnowBe4",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-03",
+     "role_ids": [
+      "greenhouse:knowbe4:8928056002"
+     ],
+     "count": 1
     }
    }
   },
@@ -2787,5 +2813,5 @@
    }
   }
  },
- "updated_at": "2026-11-03T11:02:13Z"
+ "updated_at": "2026-11-03T19:48:00Z"
 }

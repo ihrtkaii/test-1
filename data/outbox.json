@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:egug.fa.us2.oraclecloud.com:26016065",
+      "workday:cnoinc:/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419",
+      "workday:daikinapplied:/job/Plymouth-MN-55441/Systems-Engineering-and-Modular-Architecture-Intern_R004495",
+      "greenhouse:knowbe4:8928056002",
+      "greenhouse:twosixtechnologies:6142957004"
+    ],
+    "telegram": [
+      "oracle:egug.fa.us2.oraclecloud.com:26016065",
+      "workday:cnoinc:/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419",
+      "workday:daikinapplied:/job/Plymouth-MN-55441/Systems-Engineering-and-Modular-Architecture-Intern_R004495",
+      "greenhouse:knowbe4:8928056002",
+      "greenhouse:twosixtechnologies:6142957004"
+    ]
   }
 }
