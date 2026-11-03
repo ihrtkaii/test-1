@@ -1832,9 +1832,10 @@
       "workday:motorolasolutions:/job/Linthicum-MD/Presales-Systems-Engineer---2027-Internship_R68801",
       "workday:motorolasolutions:/job/Linthicum-MD/Presales-Systems-Engineer---2027-Internship_R69140",
       "workday:motorolasolutions:/job/Massachusetts-Remote-Work/Presale-Systems-Engineer---Summer-2027-Internship_R69640",
+      "workday:motorolasolutions:/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250",
       "workday:motorolasolutions:/job/Waltham-MA/Presales-Systems-Engineering---Summer-2027-Internship_R69779"
      ],
-     "count": 11
+     "count": 12
     }
    }
   },
@@ -2154,9 +2155,10 @@
       "greenhouse:rocketlab:7990138003",
       "greenhouse:rocketlab:7990270003",
       "greenhouse:rocketlab:7990272003",
-      "greenhouse:rocketlab:8007202003"
+      "greenhouse:rocketlab:8007202003",
+      "greenhouse:rocketlab:8042092003"
      ],
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -2785,5 +2787,5 @@
    }
   }
  },
- "updated_at": "2026-11-02T19:47:20Z"
+ "updated_at": "2026-11-03T03:11:09Z"
 }

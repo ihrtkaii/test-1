@@ -1,6 +1,20 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:massgeneralbrigham:/job/Boston-MA/Co-op-Security_RQ4085104",
+      "workday:micron:/job/Boise-ID---Main-Site/Intern---System-Engineer--HBM_JR113469",
+      "workday:motorolasolutions:/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250",
+      "greenhouse:rocketlab:8042092003",
+      "greenhouse:systemstechnologyresearch:4726405006",
+      "workday:valmont:/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223"
+    ],
+    "telegram": [
+      "workday:massgeneralbrigham:/job/Boston-MA/Co-op-Security_RQ4085104",
+      "workday:micron:/job/Boise-ID---Main-Site/Intern---System-Engineer--HBM_JR113469",
+      "workday:motorolasolutions:/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250",
+      "greenhouse:rocketlab:8042092003",
+      "greenhouse:systemstechnologyresearch:4726405006",
+      "workday:valmont:/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223"
+    ]
   }
 }
