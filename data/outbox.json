@@ -1,22 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:archgroup:/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135",
-      "smartrecruiters:LLNL:3743990016610446",
-      "smartrecruiters:LLNL:3743990016610436",
-      "smartrecruiters:LLNL:3743990016610426",
-      "smartrecruiters:LLNL:3743990016610216",
-      "smartrecruiters:LLNL:3743990016610186",
-      "smartrecruiters:LLNL:3743990016610101"
-    ],
-    "telegram": [
-      "workday:archgroup:/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135",
-      "smartrecruiters:LLNL:3743990016610446",
-      "smartrecruiters:LLNL:3743990016610436",
-      "smartrecruiters:LLNL:3743990016610426",
-      "smartrecruiters:LLNL:3743990016610216",
-      "smartrecruiters:LLNL:3743990016610186",
-      "smartrecruiters:LLNL:3743990016610101"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
