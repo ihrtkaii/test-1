@@ -316,9 +316,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-19",
      "role_ids": [
+      "workday:archgroup:/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135",
       "workday:archgroup:/job/Greensboro-NC-United-States-of-America/Security-Operations-Intern_R26_1016"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1567,9 +1568,15 @@
       "smartrecruiters:LLNL:3743990016165506",
       "smartrecruiters:LLNL:3743990016165586",
       "smartrecruiters:LLNL:3743990016165636",
-      "smartrecruiters:LLNL:3743990016356816"
+      "smartrecruiters:LLNL:3743990016356816",
+      "smartrecruiters:LLNL:3743990016610101",
+      "smartrecruiters:LLNL:3743990016610186",
+      "smartrecruiters:LLNL:3743990016610216",
+      "smartrecruiters:LLNL:3743990016610426",
+      "smartrecruiters:LLNL:3743990016610436",
+      "smartrecruiters:LLNL:3743990016610446"
      ],
-     "count": 14
+     "count": 20
     }
    }
   },
@@ -2827,5 +2834,5 @@
    }
   }
  },
- "updated_at": "2026-11-04T01:38:13Z"
+ "updated_at": "2026-11-04T11:06:53Z"
 }

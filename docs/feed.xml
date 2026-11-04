@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-11-04T01:38:13Z</updated>
+  <updated>2026-11-04T11:06:53Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:archgroup:/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135</id>
+    <title>Arch Capital Group: Originations Portal IT Intern</title>
+    <link href="https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135"/>
+    <updated>2026-11-04T11:06:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · Greensboro, NC United States of America · Java, JavaScript, SQL, Angular, HTML/CSS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:stratolaunch:5471933008</id>
+    <title>Stratolaunch: IT Intern- Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/stratolaunch/jobs/5471933008"/>
+    <updated>2026-11-04T01:38:13Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · IT Support / Ops · Mojave, California, United States · Python · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:eversource:/job/Manchester-NH/XMLNAME-2027-Telecommunications-Engineering-Intern_R-031906</id>
     <title>Eversource Energy: 2027 Telecommunications Engineering Intern 🛂</title>
@@ -30,14 +46,6 @@
     <updated>2026-11-04T01:38:13Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · IT Support / Ops · Vandalia, OH · MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:stratolaunch:5471933008</id>
-    <title>Stratolaunch: IT Intern- Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/stratolaunch/jobs/5471933008"/>
-    <updated>2026-11-04T01:38:13Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · Mojave, California, United States · Python · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:trimble:/job/US---CO-Westminster/Telecom-Intern_R58202-1</id>
@@ -75,9 +83,9 @@
     <id>urn:intern-engine:workday:cnoinc:/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419</id>
     <title>CNO Financial Group: Cyber Security IT Intern - REMOTE</title>
     <link href="https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419"/>
-    <updated>2026-11-03T19:48:00Z</updated>
+    <updated>2026-11-04T11:06:53Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Carmel, IN · Python</summary>
+    <summary>Summer 2027 · Security (general) · Carmel, IN · Python · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:daikinapplied:/job/Plymouth-MN-55441/Systems-Engineering-and-Modular-Architecture-Intern_R004495</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-26T20:44:49Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Systems &amp; Cloud Infra · US, MA, Boston · Python, C++, Rust, TypeScript, JavaScript · H-1B track record: ~181 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Albuquerque-NM/University---2027-Summer-Games--Systems-Engineer-Intern---Albuquerque--NM_R0252337</id>
-    <title>Booz Allen: University - 2027 Summer Games, Systems Engineer Intern - Albuquerque, NM 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/University---2027-Summer-Games--Systems-Engineer-Intern---Albuquerque--NM_R0252337"/>
-    <updated>2026-10-26T20:44:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Albuquerque, NM · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only</summary>
   </entry>
 </feed>
