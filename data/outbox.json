@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:eversource:/job/Manchester-NH/XMLNAME-2027-Telecommunications-Engineering-Intern_R-031906",
+      "workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2026-Part-Time-Systems-Engineering-Intern---Chandler-AZ_R10259106",
+      "workday:snc:/job/Vandalia-OH/IT-Support-Technician-Intern_R0031330",
+      "greenhouse:stratolaunch:5471933008",
+      "workday:trimble:/job/US---CO-Westminster/Telecom-Intern_R58202-1"
+    ],
+    "telegram": [
+      "workday:eversource:/job/Manchester-NH/XMLNAME-2027-Telecommunications-Engineering-Intern_R-031906",
+      "workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2026-Part-Time-Systems-Engineering-Intern---Chandler-AZ_R10259106",
+      "workday:snc:/job/Vandalia-OH/IT-Support-Technician-Intern_R0031330",
+      "greenhouse:stratolaunch:5471933008",
+      "workday:trimble:/job/US---CO-Westminster/Telecom-Intern_R58202-1"
+    ]
   }
 }

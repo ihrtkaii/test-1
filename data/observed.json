@@ -966,6 +966,18 @@
     }
    }
   },
+  "eversource energy": {
+   "name": "Eversource Energy",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-03",
+     "role_ids": [
+      "workday:eversource:/job/Manchester-NH/XMLNAME-2027-Telecommunications-Engineering-Intern_R-031906"
+     ],
+     "count": 1
+    }
+   }
+  },
   "expedia group": {
    "name": "Expedia Group",
    "cycles": {
@@ -1967,9 +1979,10 @@
     "Fall 2026": {
      "first_posted": "2026-08-31",
      "role_ids": [
+      "workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2026-Part-Time-Systems-Engineering-Intern---Chandler-AZ_R10259106",
       "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2026-Part-Time-Cyber-Security-Engineering-Intern---Aurora-CO_R10248520"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2431,9 +2444,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-29",
      "role_ids": [
-      "greenhouse:stratolaunch:5466978008"
+      "greenhouse:stratolaunch:5466978008",
+      "greenhouse:stratolaunch:5471933008"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2813,5 +2827,5 @@
    }
   }
  },
- "updated_at": "2026-11-03T19:48:00Z"
+ "updated_at": "2026-11-04T01:38:13Z"
 }
