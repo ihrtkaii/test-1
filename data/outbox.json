@@ -1,6 +1,22 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:centene:/job/Remote-MO/ServiceNow-Business-Systems-Analyst-Intern--Undergraduate-Summer-2027-_1667729",
+      "workday:commercebank:/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-Audit-Summer-2027_38456",
+      "workday:ilitch:/job/Detroit-MI/Intern--Cyber-Security_R9669",
+      "workday:ilitch:/job/Detroit-MI/Intern--Cyber-IT_R9672",
+      "workday:ilitch:/job/Detroit-MI/Intern--Department-Cyber-IT_R9670",
+      "smartrecruiters:RRDonnelley:744000159878934",
+      "workday:rb:/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Information-Security-Intern_R-0000033910"
+    ],
+    "telegram": [
+      "workday:centene:/job/Remote-MO/ServiceNow-Business-Systems-Analyst-Intern--Undergraduate-Summer-2027-_1667729",
+      "workday:commercebank:/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-Audit-Summer-2027_38456",
+      "workday:ilitch:/job/Detroit-MI/Intern--Cyber-Security_R9669",
+      "workday:ilitch:/job/Detroit-MI/Intern--Cyber-IT_R9672",
+      "workday:ilitch:/job/Detroit-MI/Intern--Department-Cyber-IT_R9670",
+      "smartrecruiters:RRDonnelley:744000159878934",
+      "workday:rb:/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Information-Security-Intern_R-0000033910"
+    ]
   }
 }

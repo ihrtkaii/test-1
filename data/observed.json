@@ -677,9 +677,10 @@
      "role_ids": [
       "workday:centene:/job/Remote-MO/Cloud-Security-Incident-Response-Analyst-Intern--Undergraduate---Summer-2027-_1667738-1",
       "workday:centene:/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
-      "workday:centene:/job/Remote-MO/IAM-Analyst-Intern--Undergraduate---Summer-2027-_1667747"
+      "workday:centene:/job/Remote-MO/IAM-Analyst-Intern--Undergraduate---Summer-2027-_1667747",
+      "workday:centene:/job/Remote-MO/ServiceNow-Business-Systems-Analyst-Intern--Undergraduate-Summer-2027-_1667729"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -769,6 +770,18 @@
       "workday:cnoinc:/job/Carmel-IN/IT-Intern_JR170390"
      ],
      "count": 3
+    }
+   }
+  },
+  "commerce bank": {
+   "name": "Commerce Bank",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-05",
+     "role_ids": [
+      "workday:commercebank:/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-Audit-Summer-2027_38456"
+     ],
+     "count": 1
     }
    }
   },
@@ -998,13 +1011,14 @@
     "Summer 2027": {
      "first_posted": "2026-10-01",
      "role_ids": [
+      "workday:rb:/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Information-Security-Intern_R-0000033910",
       "workday:rb:/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866",
       "workday:rb:/job/Chicago-IL/Summer-2027-Intern-Cloud-Engineering_R-0000033614",
       "workday:rb:/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1",
       "workday:rb:/job/Chicago-IL/Summer-2027-Intern-Networking-and-Computer-Engineering_R-0000033610",
       "workday:rb:/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -2863,5 +2877,5 @@
    }
   }
  },
- "updated_at": "2026-11-05T11:07:12Z"
+ "updated_at": "2026-11-05T20:12:18Z"
 }

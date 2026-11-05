@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-05T11:07:12Z",
- "data_as_of": "2026-11-05T11:07:12Z",
- "rendered_at": "2026-11-05T11:07:12Z",
+ "generated_at": "2026-11-05T20:12:18Z",
+ "data_as_of": "2026-11-05T20:12:18Z",
+ "rendered_at": "2026-11-05T20:12:18Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/test-1",
  "companies": [
@@ -2894,25 +2894,6 @@
    }
   },
   {
-   "company": "TIAA",
-   "last_cycle_posted": "",
-   "posted_on": "2026-11-02",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-11-02",
-   "days_until": -3,
-   "status": "open",
-   "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY---730-Third-Avenue/XMLNAME-2027-Intern--Energy-Infrastructure-Credit_R261000336-1",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-11-02"
-   }
-  },
-  {
    "company": "Daikin Applied",
    "last_cycle_posted": "",
    "posted_on": "2026-11-03",
@@ -3005,6 +2986,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-11-04"
+   }
+  },
+  {
+   "company": "Commerce Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-05",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-Audit-Summer-2027_38456",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-11-05"
    }
   },
   {
@@ -3650,7 +3650,26 @@
     "cycle": "Summer 2027",
     "observed_on": "2026-10-23"
    }
+  },
+  {
+   "company": "TIAA",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-02",
+   "days_until": -3,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-11-02"
+   }
   }
  ],
- "count": 192
+ "count": 193
 }
