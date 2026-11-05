@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-11-05T01:43:10Z</updated>
+  <updated>2026-11-05T11:07:12Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:caci:/job/Rochester-NY-US/Systems-Engineering-Co-op-Intern---Spring-2027_334157</id>
+    <title>CACI: Systems Engineering Co-op/Intern - Summer 2027</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Systems-Engineering-Co-op-Intern---Spring-2027_334157"/>
+    <updated>2026-11-05T11:07:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Rochester, NY, US · Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:261245</id>
     <title>GM financial: Intern - Cloud Engineer</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-27T18:12:30Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security (general) · Sparks, NV · MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:visa:/job/US---Ashburn-VA/Network-and-Security-Engineering-Intern---2027--Ashburn--VA_REF089778W-2</id>
-    <title>Visa: Network and Security Engineering Intern - 2027, Ashburn, VA 🛂</title>
-    <link href="https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/US---Ashburn-VA/Network-and-Security-Engineering-Intern---2027--Ashburn--VA_REF089778W-2"/>
-    <updated>2026-10-27T18:12:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · US - Ashburn, VA · Python, LLMs, Linux, Git · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

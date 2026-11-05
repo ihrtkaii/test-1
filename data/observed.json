@@ -636,11 +636,12 @@
       "workday:caci:/job/High-Point-NC-US/Network---Cybersecurity-Intern---Summer-2027_333001",
       "workday:caci:/job/High-Point-NC-US/Network---Cybersecurity-Intern---Summer-2027_333034-1",
       "workday:caci:/job/High-Point-NC-US/Network-Engineer-Intern---Summer-2027_332843",
+      "workday:caci:/job/Rochester-NY-US/Systems-Engineering-Co-op-Intern---Spring-2027_334157",
       "workday:caci:/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437",
       "workday:caci:/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046",
       "workday:caci:/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466"
      ],
-     "count": 10
+     "count": 11
     }
    }
   },
@@ -2862,5 +2863,5 @@
    }
   }
  },
- "updated_at": "2026-11-05T01:43:10Z"
+ "updated_at": "2026-11-05T11:07:12Z"
 }
