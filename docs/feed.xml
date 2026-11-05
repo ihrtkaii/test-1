@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-11-04T20:01:37Z</updated>
+  <updated>2026-11-05T01:43:10Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178</id>
-    <title>Northrop Grumman: 2027 DevOps Software Engineering Intern - Roy UT 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178"/>
-    <updated>2026-11-04T20:01:37Z</updated>
+    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:261245</id>
+    <title>GM financial: Intern - Cloud Engineer</title>
+    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261245"/>
+    <updated>2026-11-05T01:43:10Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-Utah-Roy · $23–$29/hr · Kubernetes, Git · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Cloud Platform · Irving, TX, United States · LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177</id>
@@ -22,6 +22,14 @@
     <updated>2026-11-04T20:01:37Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · United States-Utah-Clearfield · $23–$29/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178</id>
+    <title>Northrop Grumman: 2027 DevOps Software Engineering Intern - Roy UT 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178"/>
+    <updated>2026-11-04T20:01:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-Utah-Roy · $23–$29/hr · Kubernetes, Git · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ryder:/job/USA---Coral-Gables-FL-HQ/IT-Internship---Summer-2027_R188357</id>
@@ -627,9 +635,9 @@
     <id>urn:intern-engine:smartrecruiters:Intuitive:744000158334809</id>
     <title>Intuitive Surgical: System Engineer Intern</title>
     <link href="https://jobs.smartrecruiters.com/Intuitive/744000158334809"/>
-    <updated>2026-10-28T20:31:22Z</updated>
+    <updated>2026-11-05T01:43:10Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Blacksburg, VA, United States · MATLAB · H-1B track record: ~14 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Systems &amp; Cloud Infra · Blacksburg, VA, United States · MATLAB · status: closed · H-1B track record: ~14 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:bcbsri:/job/Providence-RI/Intern---Business-Systems-Analyst_JR100477</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-27T18:12:30Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · US - Ashburn, VA · Python, LLMs, Linux, Git · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:visa:/job/US---Denver-CO/Network-and-Security-Engineering-Intern---2027--Highlands-Ranch--CO_REF089779W-1</id>
-    <title>Visa: Network and Security Engineering Intern - 2027, Highlands Ranch, CO 🛂</title>
-    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Network-and-Security-Engineering-Intern---2027--Highlands-Ranch--CO_REF089779W-1"/>
-    <updated>2026-10-27T18:12:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · US - Denver, CO · Python, LLMs, Linux, Git · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:261245",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-Intern---Summer-2027--Onsite-_01864173"
+    ],
+    "telegram": [
+      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:261245",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-Intern---Summer-2027--Onsite-_01864173"
+    ]
   }
 }
