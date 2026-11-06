@@ -920,9 +920,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-13",
      "role_ids": [
-      "workday:draper:/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021"
+      "workday:draper:/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021",
+      "workday:draper:/job/Cambridge-MA/GNC-Systems-Engineering-Intern--Summer-2027-_JR003129"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1094,6 +1095,18 @@
      "first_posted": "2026-09-28",
      "role_ids": [
       "workday:fox:/job/Chicago-Illinois-USA/Summer-2027-FOX-Sports---Big-Ten-Network---Internship-Program---Chicago--IL_R50033970"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "galaxy": {
+   "name": "Galaxy",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-06",
+     "role_ids": [
+      "greenhouse:galaxydigitalservices:6250002004"
      ],
      "count": 1
     }
@@ -2894,5 +2907,5 @@
    }
   }
  },
- "updated_at": "2026-11-06T11:00:41Z"
+ "updated_at": "2026-11-06T19:35:10Z"
 }

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-06T11:00:41Z",
- "data_as_of": "2026-11-06T11:00:41Z",
- "rendered_at": "2026-11-06T11:00:41Z",
+ "generated_at": "2026-11-06T19:35:10Z",
+ "data_as_of": "2026-11-06T19:35:10Z",
+ "rendered_at": "2026-11-06T19:35:10Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/test-1",
  "companies": [
@@ -3027,6 +3027,25 @@
    }
   },
   {
+   "company": "Galaxy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-06",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250002004",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-11-06"
+   }
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -3690,5 +3709,5 @@
    }
   }
  ],
- "count": 194
+ "count": 195
 }

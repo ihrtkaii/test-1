@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-11-06T11:00:41Z</updated>
+  <updated>2026-11-06T19:35:10Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:draper:/job/Cambridge-MA/GNC-Systems-Engineering-Intern--Summer-2027-_JR003129</id>
+    <title>Draper: GNC Systems Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/GNC-Systems-Engineering-Intern--Summer-2027-_JR003129"/>
+    <updated>2026-11-06T19:35:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Cambridge, MA · Python, Java, C++, MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:galaxydigitalservices:6250002004</id>
+    <title>Galaxy: 2027 Digital Infrastructure Intern - NYC</title>
+    <link href="https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250002004"/>
+    <updated>2026-11-06T19:35:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · New York · $55/hr · Python, Rust, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:trimble:/job/US---CO-Westminster/IS-Help-Desk-Intern_R58179</id>
+    <title>Trimble: IS Help Desk Intern</title>
+    <link href="https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/IS-Help-Desk-Intern_R58179"/>
+    <updated>2026-11-06T19:35:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · IT Support / Ops · US - CO, Westminster · Python, Bash, Linux · H-1B track record: ~72 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:godirect:/job/New-York-NY/Summer-Intern---Renewable-Energy-Infrastructure-Debt_JR0033386</id>
+    <title>Voya Financial: Summer Intern – Renewable Energy Infrastructure Debt</title>
+    <link href="https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/New-York-NY/Summer-Intern---Renewable-Energy-Infrastructure-Debt_JR0033386"/>
+    <updated>2026-11-06T19:35:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · New York, NY · $23/hr</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:associatedbank:/job/US-WI-Remote/XMLNAME-2027-Corporate-Intern---IT-Audit---Year-Round-_JR106776-1</id>
     <title>Associated Bank: 2027 Corporate Intern - IT Audit  (Year-Round)</title>
@@ -774,37 +806,5 @@
     <updated>2026-10-28T13:02:20Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Systems &amp; Cloud Infra · Golden, CO · $25–$26/hr · AWS, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:avav:/job/Albuquerque-NM/Systems-Engineering-Intern---Space-Technologies_9250</id>
-    <title>Avav: Systems Engineering Intern - Space Technologies 🇺🇸</title>
-    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Albuquerque-NM/Systems-Engineering-Intern---Space-Technologies_9250"/>
-    <updated>2026-10-28T05:47:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Albuquerque, NM · Python · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10590368</id>
-    <title>Amazon: Network Development Engineer Intern, 2027 Summer</title>
-    <link href="https://www.amazon.jobs/en/jobs/10590368/network-development-engineer-intern-2027-summer"/>
-    <updated>2026-10-27T22:25:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Seattle, Washington, USA · Python, JavaScript, AWS, Linux · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:filevine:47d66dab-ae72-4256-90d3-8d9e82904370</id>
-    <title>Filevine: Security Specialist, Intern</title>
-    <link href="https://jobs.lever.co/filevine/47d66dab-ae72-4256-90d3-8d9e82904370"/>
-    <updated>2026-10-27T22:25:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Salt Lake City, Utah · AWS, GCP, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:protective:0e76f3a3-6d77-4bca-88d8-f37092a94dc1</id>
-    <title>Protective Life: 2027 Internal IT Audit Summer Internship Program</title>
-    <link href="https://jobs.lever.co/protective/0e76f3a3-6d77-4bca-88d8-f37092a94dc1"/>
-    <updated>2026-10-27T22:25:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · GRC / Risk · Birmingham, AL · 21 USD/hr</summary>
   </entry>
 </feed>
