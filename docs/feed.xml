@@ -5,15 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-11-06T01:48:48Z</updated>
+  <updated>2026-11-06T11:00:41Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14019</id>
-    <title>Western Alliance: Summer 2027 Internship - Dallas, TX - Platform Engineering</title>
-    <link href="https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14019"/>
-    <updated>2026-11-06T01:48:48Z</updated>
+    <id>urn:intern-engine:workday:associatedbank:/job/US-WI-Remote/XMLNAME-2027-Corporate-Intern---IT-Audit---Year-Round-_JR106776-1</id>
+    <title>Associated Bank: 2027 Corporate Intern - IT Audit  (Year-Round)</title>
+    <link href="https://associatedbank.wd1.myworkdayjobs.com/external_careers/job/US-WI-Remote/XMLNAME-2027-Corporate-Intern---IT-Audit---Year-Round-_JR106776-1"/>
+    <updated>2026-11-06T11:00:41Z</updated>
     <category term="Summer 2027"/>
-    <summary>4 openings · Summer 2027 · Systems &amp; Cloud Infra · Dallas, TX</summary>
+    <summary>Summer 2027 · GRC / Risk · US WI Remote · $17–$26.71/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024</id>
+    <title>Booz Allen: University, AI RAN Telecommunications Engineer Intern</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024"/>
+    <updated>2026-11-06T11:00:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Network / Telecom · McLean, VA · $108k/yr · Python, C++, MATLAB</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:westernalliancebank:/job/Columbus-OH/Summer-2027-Internship---Columbus--OH---Platform-Engineering_R14024</id>
@@ -22,6 +30,14 @@
     <updated>2026-11-06T01:48:48Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Columbus, OH</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14019</id>
+    <title>Western Alliance: Summer 2027 Internship - Dallas, TX - Platform Engineering</title>
+    <link href="https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14019"/>
+    <updated>2026-11-06T01:48:48Z</updated>
+    <category term="Summer 2027"/>
+    <summary>4 openings · Summer 2027 · Systems &amp; Cloud Infra · Dallas, TX</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:RRDonnelley:744000159878934</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-27T22:25:52Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · GRC / Risk · Birmingham, AL · 21 USD/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008448</id>
-    <title>Stantec: Civil Engineering Intern - Infrastructure (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008448"/>
-    <updated>2026-10-27T22:25:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Naples, FL, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gaig:/job/Cincinnati-OH-USA/Cloud-Data-Platform-Intern---Summer-2027_R9795</id>
-    <title>Great American Insurance Company: Cloud Data Platform Intern - Summer 2027</title>
-    <link href="https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Cloud-Data-Platform-Intern---Summer-2027_R9795"/>
-    <updated>2026-10-27T22:25:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Cloud Platform · Cincinnati, OH (USA) · Python, SQL, Git, Snowflake · H-1B track record: ~35 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

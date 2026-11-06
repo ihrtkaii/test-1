@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-06T01:48:48Z",
- "data_as_of": "2026-11-06T01:48:48Z",
- "rendered_at": "2026-11-06T01:48:49Z",
+ "generated_at": "2026-11-06T11:00:41Z",
+ "data_as_of": "2026-11-06T11:00:41Z",
+ "rendered_at": "2026-11-06T11:00:41Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/test-1",
  "companies": [
@@ -1507,25 +1507,6 @@
    }
   },
   {
-   "company": "CAI",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-15",
-   "days_until": -52,
-   "status": "open",
-   "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/California/Cybersecurity-Analyst-Intern_R8488",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-15"
-   }
-  },
-  {
    "company": "NVIDIA",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
@@ -1726,7 +1707,7 @@
    "expected": "2026-09-21",
    "days_until": -46,
    "status": "open",
-   "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14019",
+   "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Columbus-OH/Summer-2027-Internship---Columbus--OH---Platform-Engineering_R14024",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3008,6 +2989,25 @@
    }
   },
   {
+   "company": "Associated Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-05",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://associatedbank.wd1.myworkdayjobs.com/external_careers/job/US-WI-Remote/XMLNAME-2027-Corporate-Intern---IT-Audit---Year-Round-_JR106776-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-11-05"
+   }
+  },
+  {
    "company": "Commerce Bank",
    "last_cycle_posted": "",
    "posted_on": "2026-11-05",
@@ -3481,6 +3481,25 @@
    }
   },
   {
+   "company": "CAI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": -52,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-15"
+   }
+  },
+  {
    "company": "Robinhood",
    "last_cycle_posted": "",
    "posted_on": "2026-09-16",
@@ -3671,5 +3690,5 @@
    }
   }
  ],
- "count": 193
+ "count": 194
 }

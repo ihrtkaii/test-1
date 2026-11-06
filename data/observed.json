@@ -351,6 +351,18 @@
     }
    }
   },
+  "associated bank": {
+   "name": "Associated Bank",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-05",
+     "role_ids": [
+      "workday:associatedbank:/job/US-WI-Remote/XMLNAME-2027-Corporate-Intern---IT-Audit---Year-Round-_JR106776-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "assured guaranty": {
    "name": "Assured Guaranty",
    "cycles": {
@@ -2882,5 +2894,5 @@
    }
   }
  },
- "updated_at": "2026-11-06T01:48:48Z"
+ "updated_at": "2026-11-06T11:00:41Z"
 }
