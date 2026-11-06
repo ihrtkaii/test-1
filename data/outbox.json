@@ -1,18 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14019",
-      "workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14023",
-      "workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14021",
-      "workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14020",
-      "workday:westernalliancebank:/job/Columbus-OH/Summer-2027-Internship---Columbus--OH---Platform-Engineering_R14024"
-    ],
-    "telegram": [
-      "workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14019",
-      "workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14023",
-      "workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14021",
-      "workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14020",
-      "workday:westernalliancebank:/job/Columbus-OH/Summer-2027-Internship---Columbus--OH---Platform-Engineering_R14024"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
