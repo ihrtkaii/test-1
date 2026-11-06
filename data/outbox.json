@@ -1,16 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:draper:/job/Cambridge-MA/GNC-Systems-Engineering-Intern--Summer-2027-_JR003129",
-      "greenhouse:galaxydigitalservices:6250002004",
-      "workday:trimble:/job/US---CO-Westminster/IS-Help-Desk-Intern_R58179",
-      "workday:godirect:/job/New-York-NY/Summer-Intern---Renewable-Energy-Infrastructure-Debt_JR0033386"
-    ],
-    "telegram": [
-      "workday:draper:/job/Cambridge-MA/GNC-Systems-Engineering-Intern--Summer-2027-_JR003129",
-      "greenhouse:galaxydigitalservices:6250002004",
-      "workday:trimble:/job/US---CO-Westminster/IS-Help-Desk-Intern_R58179",
-      "workday:godirect:/job/New-York-NY/Summer-Intern---Renewable-Energy-Infrastructure-Debt_JR0033386"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
