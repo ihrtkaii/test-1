@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/ihrtkaii/test-1/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/ihrtkaii/test-1/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fihrtkaii.github.io%2Ftest-1%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://ihrtkaii.github.io/test-1/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%203%20hours-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://ihrtkaii.github.io/test-1/feed.xml)
 
-### 687 open roles (504 listed below) · 64 new this week
+### 685 open roles (503 listed below) · 55 new this week
 
-5,016 employers tracked · data as of Nov 07, 2026 at 01:10 UTC
+5,016 employers tracked · data as of Nov 07, 2026 at 10:14 UTC
 
-_517 have a cycle the employer stated · 170 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_516 have a cycle the employer stated · 169 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://ihrtkaii.github.io/test-1/)** · **[📡 RSS](https://ihrtkaii.github.io/test-1/feed.xml)** · **[⚙️ JSON API](https://ihrtkaii.github.io/test-1/api/jobs.json)**
 
@@ -75,7 +75,6 @@ This tracks security and networking internships specifically, because the major 
 |---|---|---|---|---|---|---|
 | Crowdstrike ✓ | Professional Services Pathfinder Intern - Red Team - Summer 2027 🆕 | AppSec / Product Sec | USA - Arlington, VA | No skills listed | Nov 06, 2026 | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Professional-Services-Pathfinder-Intern---Red-Team---Summer-2027_R30780) |
 | Associated Bank 🆁 | 2027 Corporate Intern - IT Audit  (Year-Round) 🆕 | GRC / Risk | US WI Remote | No skills listed | Nov 05, 2026 | [Apply](https://associatedbank.wd1.myworkdayjobs.com/external_careers/job/US-WI-Remote/XMLNAME-2027-Corporate-Intern---IT-Audit---Year-Round-_JR106776-1) |
-| Commerce Bank | Intern - IT Audit (Summer 2027) 🛂 🆕 | GRC / Risk | MO - Kansas City Downtown/Plaza - Kansa… | No skills listed | Nov 05, 2026 | [Apply](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-Audit-Summer-2027_38456) |
 | The Federal Reserve System | 2027 Summer Internship Program - Information Security Intern 🛂 🆕 | Security (general) | Atlanta, GA | Python, Linux | Nov 05, 2026 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Information-Security-Intern_R-0000033910) |
 | Northrop Grumman | 2027 Cybersecurity Software Engineering Intern - Roy UT 🇺🇸 | Security (general) | United States-Utah-Clearfield | No skills listed | Nov 04, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177) |
 | Saab | Co-Op, Information Security (Spring - Summer 2027) 🇺🇸 | Security (general) | East Syracuse, NY (Collamer) | Linux | Nov 04, 2026 | [Apply](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--Information-Security--Spring---Summer-2027-_R-03409-1) |
@@ -145,7 +144,7 @@ This tracks security and networking internships specifically, because the major 
 | GM financial | Intern - Cybersecurity 🛂 | Security (general) | Irving, TX, United States | No skills listed | Sep 28, 2026 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260805) |
 | GM financial | Intern - Cybersecurity | Security (general) | Arlington, TX, United States | No skills listed | Sep 28, 2026 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260836) |
 | General Dynamics Information Technology ✓ | GDIT Summer Internship Program – Summer 2027 Cybersecurity Associate Internship 🇺🇸 | Security (general) | USA LA Bossier City | No skills listed | Sep 23, 2026 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2) |
-| Marvell | Security Verification/Validation Engineer Intern, BS - Summer 2027 | Security (general) | Chandler, AZ | Linux, Verilog | Sep 23, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1) |
+| Marvell | Security Verification/Validation Engineer Intern, BS - Summer 2027 | Security (general) | Chandler, AZ | Linux, Verilog | Sep 23, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148) |
 | Bracco | Product Security Engineering Intern | AppSec / Product Sec | USA, Eden Prairie, Minnesota, 55344 | Python, C++, C#, .NET | Sep 22, 2026 | [Apply](https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Product-Security-Engineering-Intern_JR100318) |
 | Centene 🆁 | Cybersecurity Summer 2027 Intern (Undergraduate) | Security (general) | Remote-MO | No skills listed | Sep 18, 2026 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514) |
 | Netsmart | Security Analyst Future (Summer 2027 Internship) | Security (general) | Overland Park, KS | SQL, AWS, Azure | Sep 18, 2026 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Security-Analyst-Future--Summer-2027-Internship-_R015669) |
@@ -169,6 +168,7 @@ This tracks security and networking internships specifically, because the major 
 | Sierra Nevada Corporation | Systems Security Engineering Intern (Summer 2027) 🇺🇸 | Security (general) | Hagerstown, MD | MATLAB | Sep 03, 2026 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Systems-Security-Engineering-Intern--Summer-2027-_R0030783) |
 | IAT Insurance Group | Cyber Security Internship 🛂 | Security (general) | Raleigh NC | No skills listed | Sep 01, 2026 | [Apply](https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Cyber-Security-Internship_JR100410) |
 | Armanino ✓ | Summer 2027 IT Audit Intern (Denver) | GRC / Risk | Denver, Colorado | No skills listed | Sep 01, 2026 | [Apply](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Denver-Colorado/Summer-2027-IT-Audit-Intern_JR104282) |
+| Booz Allen | University - 2027 Summer Games Cyber Security Intern - Annapolis Junction, MD 🇺🇸 | Security (general) | Annapolis Junction, MD | Linux | Sep 01, 2026 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414) |
 
 ### Fall 2026  (4 employer-stated)
 
@@ -251,7 +251,7 @@ These postings never name a cycle, not in the title and not in the posting text,
 | Western Alliance | Summer 2027 Internship - Dallas, TX - Platform Engineering 🆕 _(4 openings)_ | Systems & Cloud Infra | Dallas, TX | No skills listed | Nov 05, 2026 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14019) [#2](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14020) [#3](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14021) [#4](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14023) |
 | Centene 🆁 | ServiceNow Business Systems Analyst Intern (Undergraduate Summer 2027) 🆕 | Systems & Cloud Infra | Remote-MO | No skills listed | Nov 05, 2026 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/ServiceNow-Business-Systems-Analyst-Intern--Undergraduate-Summer-2027-_1667729) |
 | CACI | Systems Engineering Co-op/Intern - Summer 2027 🆕 | Systems & Cloud Infra | Rochester, NY, US | Linux | Nov 04, 2026 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Systems-Engineering-Co-op-Intern---Spring-2027_334157) |
-| GM financial | Intern - Cloud Engineer 🆕 | Cloud Platform | Irving, TX, United States | LLMs | Nov 04, 2026 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261245) |
+| GM financial | Intern - Cloud Engineer | Cloud Platform | Irving, TX, United States | LLMs | Nov 04, 2026 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261245) |
 | Northrop Grumman | 2027 DevOps Software Engineering Intern - Roy UT 🇺🇸 | Systems & Cloud Infra | United States-Utah-Roy | Kubernetes, Git | Nov 04, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178) |
 | Zebra Technologies ✓ | 2027 Summer Internship (US) - Systems Engineer 🛂 | Systems & Cloud Infra | Germantown, Maryland | Python, C++, SQL, LLMs | Nov 04, 2026 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Germantown-Maryland/XMLNAME-2027-Summer-Internship--US----Systems-Engineer_JR103659) |
 | Lawrence Livermore National Laboratory (LLNL) | Cybersecurity Graduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 🇺🇸 | Security (general) | Livermore, CA, United States | Python, Java, C++, MATLAB | Nov 04, 2026 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016610101) |
@@ -363,7 +363,7 @@ These postings never name a cycle, not in the title and not in the posting text,
 | CACI | Software/Network Engineering Intern - Summer 2027 | Network / Telecom | Florham Park, NJ, US | Python, C++, JavaScript, Linux | Sep 30, 2026 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895) |
 | RF-SMART | Service Delivery Intern (IT Helpdesk) - Summer 2027 🛂 | IT Support / Ops | Jacksonville, Florida, United States | No skills listed | Sep 29, 2026 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5425409008) |
 | Stantec | Structural Engineering Intern/Co-op – Infrastructure (Summer 2027) | Systems & Cloud Infra | New Haven +5 more | No skills listed | Sep 29, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008077) |
-| Marvell | AI-Native Development Platform Engineer Intern, MS - Summer 2027 | Systems & Cloud Infra | Santa Clara, CA | Python, Java, C#, TypeScript | Sep 29, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1) |
+| Marvell | AI-Native Development Platform Engineer Intern, MS - Summer 2027 | Systems & Cloud Infra | Santa Clara, CA | Python, Java, C#, TypeScript | Sep 29, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848) |
 | RTX | Display Systems Engineering Co-Op (Summer/Fall 2027) - Onsite | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd… | Python, C++ | Sep 29, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-Op--Summer-Fall-2027----Onsite_01868917) |
 | RTX | Display Systems Engineering Co-op (Spring/Summer 2027) - Onsite | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd… | Python, C++ | Sep 29, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-op--Spring-Summer-2027----Onsite_01870090) |
 | RTX | Systems Engineer - Spring/Summer Co-op 2027 - (Onsite) | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE… | No skills listed | Sep 29, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineer---Spring-Summer-Co-op-2027----Onsite-_01871506) |
@@ -466,7 +466,7 @@ These postings never name a cycle, not in the title and not in the posting text,
 | Hitachi Energy | Intern - Data Center Optimization | Systems & Cloud Infra | Santa Clara, California, United States | Python, PyTorch, TensorFlow, scikit-learn | Aug 18, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Intern---Data-Center-Optimization_R0142174) |
 | Motorola | R&D Intern - Wireless Systems Engineer - 2026 🇺🇸 | Network / Telecom | Los Angeles, CA | MATLAB | Mar 30, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376) |
 
-### Recently posted — cycle not stated  (108 roles)
+### Recently posted — cycle not stated  (107 roles)
 
 These postings never name a cycle, not in the title and not in the posting text, so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -521,9 +521,7 @@ These postings never name a cycle, not in the title and not in the posting text,
 | Hewlett Packard Enterprise ✓ | HPC/AI System Admin HW/SW Service Engineer Intern | Systems & Cloud Infra | All, Tennessee, United States of America | HTML/CSS, Linux | Oct 12, 2026 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Tennessee-United-States-of-America/HPC-AI-System-Admin-HW-SW-Service-Engineer-Intern_1213404) |
 | Eight Sleep 🆁 | Security & IT Intern 🛂 | Security (general) | Remote - US | Python, Git | Oct 09, 2026 | [Apply](https://jobs.ashbyhq.com/eightsleep/0ae8cdbe-8100-4f59-b702-16d836ab5550) |
 | Arcesium ✓ | Infrastructure Engineer Intern | Systems & Cloud Infra | New York | Python, Java, LLMs, AWS | Oct 09, 2026 | [Apply](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007) |
-| Hewlett Packard Enterprise ✓ | Wireless Networking Intern | Network / Telecom | San Jose +2 more | Python, SQL, Bash, PyTorch | Oct 08, 2026 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Networking-Intern_1214969) |
 | Gordon Food Service ✓ | Software Engineer Intern (Transportation Routing ) | Network / Telecom | Wyoming, Michigan | LLMs | Oct 08, 2026 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374) |
-| Delta Dental | Internship- Government Programs Network | Network / Telecom | Okemos, MI | No skills listed | Oct 08, 2026 | [Apply](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Government-Programs-Network_JR101489-1) |
 | Tenstorrent | AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (USA) | Cloud Platform | Austin +5 more | Python, Bash, Kubernetes, Linux | Oct 07, 2026 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007) |
 | RTX | Avionics Test Engineering -Systems Engineer Intern (Onsite) 🇺🇸 | Systems & Cloud Infra | US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd… | MATLAB | Oct 03, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518) |
 | Tranetechnologies | Systems Engineer Intern | Systems & Cloud Infra | St Paul, Minnesota | No skills listed | Sep 30, 2026 | [Apply](https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/St-Paul-Minnesota/Systems-Engineer-Intern_JR-16745) |
@@ -560,6 +558,7 @@ These postings never name a cycle, not in the title and not in the posting text,
 | Genuine Parts Company ✓ | Cloud Developer Intern | Cloud Platform | Birmingham, AL, USA | Java, GCP, Linux, Git | Sep 01, 2026 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133) |
 | Genuine Parts Company ✓ | Cloud SRE Intern | Cloud Platform | Birmingham, AL, USA | GCP | Sep 01, 2026 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134) |
 | Genuine Parts Company ✓ | Platform Engineering Intern | Systems & Cloud Infra | Birmingham, AL, USA | GCP | Sep 01, 2026 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Platform-Engineering-Intern_R26_0000029141) |
+| Niagara Bottling ✓ | IT Intern | IT Support / Ops | Corp-Main - Diamond Bar, CA | No skills listed | Sep 01, 2026 | [Apply](https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Corp-Main---Diamond-Bar-CA/IT-Intern_R56349) |
 | Micron Technology ✓ | Intern - AI Systems and Infrastructure Engineering | Systems & Cloud Infra | Austin, TX | Python, C++, PyTorch, LLMs | Aug 31, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Austin-TX/Intern---AI-Systems-and-Infrastructure-Engineering_JR109990) |
 | Reply | Social Network Intern | Network / Telecom | Chicago, Illinois | LLMs | Aug 27, 2026 | [Apply](https://jobs.lever.co/reply/7bb0afb0-cea1-4e7a-b51e-1c529f37d843) |
 | Erickson Senior Living | Intern – IT Support | IT Support / Ops | Catonsville, MD | No skills listed | Aug 27, 2026 | [Apply](https://erickson.wd108.myworkdayjobs.com/external/job/Catonsville-MD/Intern---IT-Support_R0103105-1) |
@@ -641,6 +640,7 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Commerce Bank | Intern - IT Audit (Summer 2027) | Summer 2027 | 2026-11-07 | gone from feed |
 | Protective Life | 2027 Internal IT Audit Summer Internship Program | Summer 2027 | 2026-11-07 | gone from feed |
 | University of Virginia | Network Engineering Intern (Student Wage) | Fall 2026 | 2026-11-07 | gone from feed |
 | Visa | Network and Security Engineering Intern - 2027, Ashburn, VA | Summer 2027 | 2026-11-07 | gone from feed |
@@ -680,7 +680,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Aurora Innovation | Data & ML Platform Engineering Intern | Summer 2027 | 2026-10-29 | gone from feed |
 | S&C Electric Company | Jr Systems Administrator Co-Op | Fall 2026 | 2026-10-29 | gone from feed |
 | MEMX | Information Security Intern, Summer 2027 (Hybrid, NYC) | Summer 2027 | 2026-10-28 | gone from feed |
-| Armanino | Summer 2027 - IT Audit Intern (Austin) | Summer 2027 | 2026-10-28 | gone from feed |
 
 </details>
 
@@ -699,7 +698,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,830 of 5,339 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1127.8s · 626 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,908 of 5,339 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 1006.8s · 656 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 

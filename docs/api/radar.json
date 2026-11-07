@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-07T01:10:53Z",
- "data_as_of": "2026-11-07T01:10:53Z",
- "rendered_at": "2026-11-07T01:10:53Z",
+ "generated_at": "2026-11-07T10:14:38Z",
+ "data_as_of": "2026-11-07T10:14:38Z",
+ "rendered_at": "2026-11-07T10:14:38Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/test-1",
  "companies": [
@@ -1821,7 +1821,7 @@
    "expected": "2026-09-23",
    "days_until": -45,
    "status": "open",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1",
+   "url": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3008,25 +3008,6 @@
    }
   },
   {
-   "company": "Commerce Bank",
-   "last_cycle_posted": "",
-   "posted_on": "2026-11-05",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-11-05",
-   "days_until": -2,
-   "status": "open",
-   "url": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-Audit-Summer-2027_38456",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-11-05"
-   }
-  },
-  {
    "company": "Crowdstrike",
    "last_cycle_posted": "",
    "posted_on": "2026-11-06",
@@ -3725,6 +3706,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-11-02"
+   }
+  },
+  {
+   "company": "Commerce Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-05",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-11-05"
    }
   }
  ],

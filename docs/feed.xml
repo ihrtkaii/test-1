@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-11-07T01:10:53Z</updated>
+  <updated>2026-11-07T10:14:38Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:crowdstrike:/job/USA---Arlington-VA/Professional-Services-Pathfinder-Intern---Red-Team---Summer-2027_R30780</id>
-    <title>Crowdstrike: Professional Services Pathfinder Intern - Red Team - Summer 2027</title>
-    <link href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Professional-Services-Pathfinder-Intern---Red-Team---Summer-2027_R30780"/>
-    <updated>2026-11-07T01:10:53Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · AppSec / Product Sec · USA - Arlington, VA · H-1B track record: ~99 approvals (FY2022–2023)</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:vardaspace:8198267003</id>
     <title>Varda Space: Site Reliability Internship - Summer 2027 🇺🇸</title>
@@ -22,6 +14,14 @@
     <updated>2026-11-07T01:10:53Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · El Segundo, California, United States · Python, AWS, GCP, Azure, Kubernetes · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:crowdstrike:/job/USA---Arlington-VA/Professional-Services-Pathfinder-Intern---Red-Team---Summer-2027_R30780</id>
+    <title>Crowdstrike: Professional Services Pathfinder Intern - Red Team - Summer 2027</title>
+    <link href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Professional-Services-Pathfinder-Intern---Red-Team---Summer-2027_R30780"/>
+    <updated>2026-11-07T01:10:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · AppSec / Product Sec · USA - Arlington, VA · H-1B track record: ~99 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:galaxydigitalservices:6250002004</id>
@@ -107,9 +107,9 @@
     <id>urn:intern-engine:workday:commercebank:/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-Audit-Summer-2027_38456</id>
     <title>Commerce Bank: Intern - IT Audit (Summer 2027) 🛂</title>
     <link href="https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-Audit-Summer-2027_38456"/>
-    <updated>2026-11-05T20:12:17Z</updated>
+    <updated>2026-11-07T10:14:38Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · GRC / Risk · MO - Kansas City Downtown/Plaza - Kansas City - KC Downtown Trust Building (922 Walnut) (64106) · $20/hr · sponsorship: no-sponsorship</summary>
+    <summary>Summer 2027 · GRC / Risk · MO - Kansas City Downtown/Plaza - Kansas City - KC Downtown Trust Building (922 Walnut) (64106) · $20/hr · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ilitch:/job/Detroit-MI/Intern--Cyber-IT_R9672</id>
