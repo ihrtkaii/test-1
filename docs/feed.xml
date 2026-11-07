@@ -5,15 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-11-06T19:35:10Z</updated>
+  <updated>2026-11-07T01:10:53Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:draper:/job/Cambridge-MA/GNC-Systems-Engineering-Intern--Summer-2027-_JR003129</id>
-    <title>Draper: GNC Systems Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/GNC-Systems-Engineering-Intern--Summer-2027-_JR003129"/>
-    <updated>2026-11-06T19:35:10Z</updated>
+    <id>urn:intern-engine:workday:crowdstrike:/job/USA---Arlington-VA/Professional-Services-Pathfinder-Intern---Red-Team---Summer-2027_R30780</id>
+    <title>Crowdstrike: Professional Services Pathfinder Intern - Red Team - Summer 2027</title>
+    <link href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Professional-Services-Pathfinder-Intern---Red-Team---Summer-2027_R30780"/>
+    <updated>2026-11-07T01:10:53Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Cambridge, MA · Python, Java, C++, MATLAB · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · AppSec / Product Sec · USA - Arlington, VA · H-1B track record: ~99 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:vardaspace:8198267003</id>
+    <title>Varda Space: Site Reliability Internship - Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/vardaspace/jobs/8198267003"/>
+    <updated>2026-11-07T01:10:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · El Segundo, California, United States · Python, AWS, GCP, Azure, Kubernetes · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:galaxydigitalservices:6250002004</id>
@@ -24,12 +32,12 @@
     <summary>Summer 2027 · Systems &amp; Cloud Infra · New York · $55/hr · Python, Rust, SQL</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:trimble:/job/US---CO-Westminster/IS-Help-Desk-Intern_R58179</id>
-    <title>Trimble: IS Help Desk Intern</title>
-    <link href="https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/IS-Help-Desk-Intern_R58179"/>
+    <id>urn:intern-engine:workday:draper:/job/Cambridge-MA/GNC-Systems-Engineering-Intern--Summer-2027-_JR003129</id>
+    <title>Draper: GNC Systems Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/GNC-Systems-Engineering-Intern--Summer-2027-_JR003129"/>
     <updated>2026-11-06T19:35:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · IT Support / Ops · US - CO, Westminster · Python, Bash, Linux · H-1B track record: ~72 approvals (FY2022–2023)</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Cambridge, MA · Python, Java, C++, MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:godirect:/job/New-York-NY/Summer-Intern---Renewable-Energy-Infrastructure-Debt_JR0033386</id>
@@ -38,6 +46,14 @@
     <updated>2026-11-06T19:35:10Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Systems &amp; Cloud Infra · New York, NY · $23/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:trimble:/job/US---CO-Westminster/IS-Help-Desk-Intern_R58179</id>
+    <title>Trimble: IS Help Desk Intern</title>
+    <link href="https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/IS-Help-Desk-Intern_R58179"/>
+    <updated>2026-11-06T19:35:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · IT Support / Ops · US - CO, Westminster · Python, Bash, Linux · H-1B track record: ~72 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:associatedbank:/job/US-WI-Remote/XMLNAME-2027-Corporate-Intern---IT-Audit---Year-Round-_JR106776-1</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-28T20:31:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Systems &amp; Cloud Infra · Framingham, MA · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:snc:/job/Hagerstown-MD/Network-Engineer-Intern--Summer-2027-_R0031232</id>
-    <title>Sierra Nevada Corporation: Network Engineer Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Network-Engineer-Intern--Summer-2027-_R0031232"/>
-    <updated>2026-10-28T20:31:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Hagerstown, MD · MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1</id>
-    <title>Allegion: Summer Intern - Software Systems Engineering</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1"/>
-    <updated>2026-10-28T13:02:20Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Golden, CO · $25–$26/hr · AWS, Azure</summary>
   </entry>
 </feed>

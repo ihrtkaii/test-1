@@ -864,6 +864,18 @@
     }
    }
   },
+  "crowdstrike": {
+   "name": "Crowdstrike",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-06",
+     "role_ids": [
+      "workday:crowdstrike:/job/USA---Arlington-VA/Professional-Services-Pathfinder-Intern---Red-Team---Summer-2027_R30780"
+     ],
+     "count": 1
+    }
+   }
+  },
   "daikin applied": {
    "name": "Daikin Applied",
    "cycles": {
@@ -2710,9 +2722,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-01",
      "role_ids": [
-      "greenhouse:vardaspace:8005821003"
+      "greenhouse:vardaspace:8005821003",
+      "greenhouse:vardaspace:8198267003"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2907,5 +2920,5 @@
    }
   }
  },
- "updated_at": "2026-11-06T19:35:10Z"
+ "updated_at": "2026-11-07T01:10:53Z"
 }
