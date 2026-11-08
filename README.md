@@ -8,7 +8,7 @@
 
 ### 681 open roles (501 listed below) · 55 new this week
 
-5,030 employers tracked · data as of Nov 08, 2026 at 13:34 UTC
+5,031 employers tracked · data as of Nov 08, 2026 at 19:51 UTC
 
 _514 have a cycle the employer stated · 167 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -34,7 +34,7 @@ Every link comes straight from the employer's own job board, so it points to a l
 | 🛂 **Visa intel, computed** | 🇺🇸 / 🛂 flags detected automatically from every job description, plus ✓ for employers with a real H-1B track record (USCIS data, FY2022-23: a history, not a promise). The big lists crowdsource this by hand; here it's code. Most postings say nothing either way, and those show as unknown rather than guessed. |
 | 📆 **A real date on nearly every role** | Taken from the job portal itself wherever the portal states one, so newest-first actually means newest. The exact coverage figure is printed at the bottom of this page every run. |
 | 🧰 **Skill tags + pay, extracted** | Every posting's text is scanned for the stack it wants (Python, C++, PyTorch, …) and the pay it states, searchable on the [dashboard](https://ihrtkaii.github.io/test-1/), and included in the CSV and API. |
-| ⚙️ **An engine, not a spreadsheet** | 5,353 job-board endpoints (5,030 distinct employers; some run more than one board) polled every 3 hours across 12 ATS platforms. Full source and tests in this repo. |
+| ⚙️ **An engine, not a spreadsheet** | 5,354 job-board endpoints (5,031 distinct employers; some run more than one board) polled every 3 hours across 12 ATS platforms. Full source and tests in this repo. |
 
 ## Scope
 
@@ -245,8 +245,8 @@ These postings never name a cycle, not in the title and not in the posting text,
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Varda Space | Site Reliability Internship - Summer 2027 🇺🇸 🆕 | Systems & Cloud Infra | El Segundo, California, United States | Python, AWS, GCP, Azure | Nov 06, 2026 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8198267003) |
-| Galaxy | 2027 Digital Infrastructure Intern - NYC 🆕 | Systems & Cloud Infra | New York | Python, Rust, SQL | Nov 06, 2026 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250002004) |
-| Draper | GNC Systems Engineering Intern (Summer 2027) 🇺🇸 🆕 | Systems & Cloud Infra | Cambridge, MA | Python, Java, C++, MATLAB | Nov 06, 2026 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/GNC-Systems-Engineering-Intern--Summer-2027-_JR003129) |
+| Galaxy | 2027 Digital Infrastructure Intern - NYC | Systems & Cloud Infra | New York | Python, Rust, SQL | Nov 06, 2026 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250002004) |
+| Draper | GNC Systems Engineering Intern (Summer 2027) 🇺🇸 | Systems & Cloud Infra | Cambridge, MA | Python, Java, C++, MATLAB | Nov 06, 2026 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/GNC-Systems-Engineering-Intern--Summer-2027-_JR003129) |
 | Western Alliance | Summer 2027 Internship - Columbus, OH - Platform Engineering | Systems & Cloud Infra | Columbus, OH | No skills listed | Nov 05, 2026 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Columbus-OH/Summer-2027-Internship---Columbus--OH---Platform-Engineering_R14024) |
 | Western Alliance | Summer 2027 Internship - Dallas, TX - Platform Engineering _(4 openings)_ | Systems & Cloud Infra | Dallas, TX | No skills listed | Nov 05, 2026 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14019) [#2](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14020) [#3](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14021) [#4](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14023) |
 | Centene 🆁 | ServiceNow Business Systems Analyst Intern (Undergraduate Summer 2027) | Systems & Cloud Infra | Remote-MO | No skills listed | Nov 05, 2026 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/ServiceNow-Business-Systems-Analyst-Intern--Undergraduate-Summer-2027-_1667729) |
@@ -472,8 +472,8 @@ These postings never name a cycle, not in the title and not in the posting text,
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Voya Financial | Summer Intern – Renewable Energy Infrastructure Debt 🆕 | Systems & Cloud Infra | New York, NY | No skills listed | Nov 06, 2026 | [Apply](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/New-York-NY/Summer-Intern---Renewable-Energy-Infrastructure-Debt_JR0033386) |
-| Trimble ✓ | IS Help Desk Intern 🆕 | IT Support / Ops | US - CO, Westminster | Python, Bash, Linux | Nov 06, 2026 | [Apply](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/IS-Help-Desk-Intern_R58179) |
+| Voya Financial | Summer Intern – Renewable Energy Infrastructure Debt | Systems & Cloud Infra | New York, NY | No skills listed | Nov 06, 2026 | [Apply](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/New-York-NY/Summer-Intern---Renewable-Energy-Infrastructure-Debt_JR0033386) |
+| Trimble ✓ | IS Help Desk Intern | IT Support / Ops | US - CO, Westminster | Python, Bash, Linux | Nov 06, 2026 | [Apply](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/IS-Help-Desk-Intern_R58179) |
 | RR Donnelley | IT Support Engineer Summer Intern | IT Support / Ops | Wheeling, WV, United States | No skills listed | Nov 05, 2026 | [Apply](https://jobs.smartrecruiters.com/RRDonnelley/744000159878934) |
 | Booz Allen | University, AI RAN Telecommunications Engineer Intern | Network / Telecom | McLean, VA | Python, C++, MATLAB | Nov 04, 2026 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024) |
 | Sierra Nevada Corporation | IT Support Technician Intern 🇺🇸 | IT Support / Ops | Vandalia, OH | MATLAB | Nov 03, 2026 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Vandalia-OH/IT-Support-Technician-Intern_R0031330) |
@@ -696,7 +696,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,764 of 5,353 registered boards returned successfully across 12 ATS platforms (96% of boards attempted, 89% of the full registry) · completed in 1173.6s · 588 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,924 of 5,354 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 886.8s · 660 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
