@@ -1,6 +1,28 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260787",
+      "ashby:skydio:33f1f123-8cec-4e6a-b125-e8831603a62a",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008822",
+      "workday:assurant:/job/Georgia-Virtual/IT-Intern_R-116011",
+      "workday:astrazeneca:/job/US--Tarzana--CA/Network-Planning---Data-Analytics-Intern_R-263845",
+      "workday:caci:/job/Sterling-VA-US/Cyber-Security-Intern---Summer-2027_334812",
+      "workday:freseniusmedicalcare:/job/Lawrence-MA-USA/V-V-Systems-Engineer-Co-op_R0277323",
+      "workday:hypertherm:/job/Kent-WA/Graduate-Intern---Software-Security_R4136",
+      "greenhouse:lilasciences:4477308009",
+      "greenhouse:lilasciences:4472540009"
+    ],
+    "telegram": [
+      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260787",
+      "ashby:skydio:33f1f123-8cec-4e6a-b125-e8831603a62a",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008822",
+      "workday:assurant:/job/Georgia-Virtual/IT-Intern_R-116011",
+      "workday:astrazeneca:/job/US--Tarzana--CA/Network-Planning---Data-Analytics-Intern_R-263845",
+      "workday:caci:/job/Sterling-VA-US/Cyber-Security-Intern---Summer-2027_334812",
+      "workday:freseniusmedicalcare:/job/Lawrence-MA-USA/V-V-Systems-Engineer-Co-op_R0277323",
+      "workday:hypertherm:/job/Kent-WA/Graduate-Intern---Software-Security_R4136",
+      "greenhouse:lilasciences:4477308009",
+      "greenhouse:lilasciences:4472540009"
+    ]
   }
 }

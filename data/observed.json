@@ -375,6 +375,18 @@
     }
    }
   },
+  "astrazeneca": {
+   "name": "AstraZeneca",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-09",
+     "role_ids": [
+      "workday:astrazeneca:/job/US--Tarzana--CA/Network-Planning---Data-Analytics-Intern_R-263845"
+     ],
+     "count": 1
+    }
+   }
+  },
   "atc": {
    "name": "ATC",
    "cycles": {
@@ -651,9 +663,10 @@
       "workday:caci:/job/Rochester-NY-US/Systems-Engineering-Co-op-Intern---Spring-2027_334157",
       "workday:caci:/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437",
       "workday:caci:/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046",
+      "workday:caci:/job/Sterling-VA-US/Cyber-Security-Intern---Summer-2027_334812",
       "workday:caci:/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466"
      ],
-     "count": 11
+     "count": 12
     }
    }
   },
@@ -2443,9 +2456,10 @@
      "first_posted": "2026-10-20",
      "role_ids": [
       "ashby:skydio:1ac972b1-8094-4765-8869-63e1c4d50dea",
+      "ashby:skydio:33f1f123-8cec-4e6a-b125-e8831603a62a",
       "ashby:skydio:ec82eb16-a5b4-46e7-827a-326b33d7d2cb"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2499,9 +2513,10 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008210",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008240",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008446",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008448"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008448",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008822"
      ],
-     "count": 21
+     "count": 22
     },
     "Fall 2026": {
      "first_posted": "2026-09-02",
@@ -2920,5 +2935,5 @@
    }
   }
  },
- "updated_at": "2026-11-09T11:40:07Z"
+ "updated_at": "2026-11-09T22:34:52Z"
 }
