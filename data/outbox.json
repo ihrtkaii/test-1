@@ -1,20 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "ashby:aurora-operations-inc:058e3b3a-dd13-4736-84a8-b19d5de2c9f5",
-      "workday:tsys:/job/COLUMBUS-GEORGIA/CyberSecurity-Intern_R0077068",
-      "workday:globalfoundries:/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604045",
-      "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Fab-Systems-Setup---Routing-Intern--Summer-2027-_JR-2604640",
-      "greenhouse:minitab:8200356003",
-      "workday:sec:/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-Network-Intelligence-and-Automation-Intern_R121959"
-    ],
-    "telegram": [
-      "ashby:aurora-operations-inc:058e3b3a-dd13-4736-84a8-b19d5de2c9f5",
-      "workday:tsys:/job/COLUMBUS-GEORGIA/CyberSecurity-Intern_R0077068",
-      "workday:globalfoundries:/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604045",
-      "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Fab-Systems-Setup---Routing-Intern--Summer-2027-_JR-2604640",
-      "greenhouse:minitab:8200356003",
-      "workday:sec:/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-Network-Intelligence-and-Automation-Intern_R121959"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
