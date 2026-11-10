@@ -1235,9 +1235,11 @@
       "workday:globalfoundries:/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459",
       "workday:globalfoundries:/job/USA---Texas---Austin/End-Markets-Intern--Communications-Infrastructure-and-Datacenter--Summer-2027-_JR-2604224",
       "workday:globalfoundries:/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051",
-      "workday:globalfoundries:/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604044"
+      "workday:globalfoundries:/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604044",
+      "workday:globalfoundries:/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604045",
+      "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Fab-Systems-Setup---Routing-Intern--Summer-2027-_JR-2604640"
      ],
-     "count": 4
+     "count": 6
     }
    }
   },
@@ -1855,6 +1857,18 @@
      "first_posted": "2026-09-29",
      "role_ids": [
       "greenhouse:mill:4735328005"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "minitab": {
+   "name": "Minitab",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-10",
+     "role_ids": [
+      "greenhouse:minitab:8200356003"
      ],
      "count": 1
     }
@@ -2939,5 +2953,5 @@
    }
   }
  },
- "updated_at": "2026-11-10T17:18:41Z"
+ "updated_at": "2026-11-10T23:31:44Z"
 }

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-10T17:18:41Z",
- "data_as_of": "2026-11-10T17:18:41Z",
- "rendered_at": "2026-11-10T17:18:41Z",
+ "generated_at": "2026-11-10T23:31:44Z",
+ "data_as_of": "2026-11-10T23:31:44Z",
+ "rendered_at": "2026-11-10T23:31:45Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/test-1",
  "companies": [
@@ -1887,6 +1887,25 @@
    }
   },
   {
+   "company": "Aurora Innovation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-24",
+   "days_until": -47,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-24"
+   }
+  },
+  {
    "company": "Cerity Partners",
    "last_cycle_posted": "",
    "posted_on": "2026-09-25",
@@ -3008,6 +3027,25 @@
    }
   },
   {
+   "company": "Minitab",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/minitab/jobs/8200356003",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-11-10"
+   }
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -3576,25 +3614,6 @@
    }
   },
   {
-   "company": "Aurora Innovation",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-24",
-   "days_until": -47,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-24"
-   }
-  },
-  {
    "company": "Upbound Group",
    "last_cycle_posted": "",
    "posted_on": "2026-09-28",
@@ -3747,5 +3766,5 @@
    }
   }
  ],
- "count": 197
+ "count": 198
 }
