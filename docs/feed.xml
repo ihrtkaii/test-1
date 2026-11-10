@@ -5,15 +5,55 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-11-09T22:34:52Z</updated>
+  <updated>2026-11-10T07:26:56Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
   <entry>
-    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260787</id>
-    <title>GM financial: Intern - IT Audit 🛂</title>
-    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260787"/>
-    <updated>2026-11-09T22:34:52Z</updated>
+    <id>urn:intern-engine:ashby:illumio:2bcba5c3-c6e7-407c-92b2-73027594789e</id>
+    <title>Illumio: Engineering Intern, SRE 🛂</title>
+    <link href="https://jobs.ashbyhq.com/illumio/2bcba5c3-c6e7-407c-92b2-73027594789e"/>
+    <updated>2026-11-10T07:26:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Sunnyvale, California - HQ · $37 per hour · Python, C++, AWS, Azure, Kubernetes · sponsorship: no-sponsorship · H-1B track record: ~25 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:regent:2b47c43c-79ad-499f-8570-61f9107ff32c</id>
+    <title>REGENT: Systems Engineering Intern (Summer)</title>
+    <link href="https://jobs.ashbyhq.com/REGENT/2b47c43c-79ad-499f-8570-61f9107ff32c"/>
+    <updated>2026-11-10T07:26:56Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · GRC / Risk · Arlington, TX, United States · sponsorship: no-sponsorship</summary>
+    <summary>Not stated · Systems &amp; Cloud Infra · North Kingstown, Rhode Island, USA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:regent:9370adbc-f344-4aeb-a99d-65acaac87894</id>
+    <title>REGENT: Systems Engineering Intern - Safety Analysis (Summer)</title>
+    <link href="https://jobs.ashbyhq.com/REGENT/9370adbc-f344-4aeb-a99d-65acaac87894"/>
+    <updated>2026-11-10T07:26:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · North Kingstown, Rhode Island, USA · Python, MATLAB</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/San-Jose-California-United-States-of-America/Wireless-Hardware-Engineering-Intern_1218701</id>
+    <title>Hewlett Packard Enterprise: Wireless Hardware Engineering Intern</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Hardware-Engineering-Intern_1218701"/>
+    <updated>2026-11-10T07:26:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Network / Telecom · San Jose, California, United States of America · Python, MATLAB, HTML/CSS · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Systems-Engineering-Intern--Summer-2027---SAOC--Cedar-Rapids--IA--Onsite-_01886221</id>
+    <title>RTX: Systems Engineering Intern (Summer 2027), SAOC, Cedar Rapids, IA (Onsite) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Systems-Engineering-Intern--Summer-2027---SAOC--Cedar-Rapids--IA--Onsite-_01886221"/>
+    <updated>2026-11-10T07:26:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-143 ~ 855 35Th St NE ~ BLDG 143 · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Grad-Intern_R017106</id>
+    <title>The Aerospace Corporation: 2027 Defensive Cyber Operations Grad Intern 🇺🇸</title>
+    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Grad-Intern_R017106"/>
+    <updated>2026-11-10T07:26:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · El Segundo, CA · Python, Rust, Kubernetes, Docker · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:skydio:33f1f123-8cec-4e6a-b125-e8831603a62a</id>
@@ -22,6 +62,30 @@
     <updated>2026-11-09T22:34:52Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · San Mateo, California, United States · $47/hr · Python, C++, Linux · H-1B track record: ~26 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:lilasciences:4472540009</id>
+    <title>Lila Sciences: Co-op, Software, Applied AI Platform Engineer</title>
+    <link href="https://job-boards.greenhouse.io/lilasciences/jobs/4472540009"/>
+    <updated>2026-11-09T22:34:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · San Francisco, CA USA · Python, TypeScript, SQL, LLMs, Next.js</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:lilasciences:4477308009</id>
+    <title>Lila Sciences: Co-Op, IT/OT Security Analyst</title>
+    <link href="https://job-boards.greenhouse.io/lilasciences/jobs/4477308009"/>
+    <updated>2026-11-09T22:34:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Cambridge, MA USA · Python, AWS, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260787</id>
+    <title>GM financial: Intern - IT Audit 🛂</title>
+    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260787"/>
+    <updated>2026-11-09T22:34:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · GRC / Risk · Arlington, TX, United States · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008822</id>
@@ -70,22 +134,6 @@
     <updated>2026-11-09T22:34:52Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security (general) · Kent, WA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:lilasciences:4477308009</id>
-    <title>Lila Sciences: Co-Op, IT/OT Security Analyst</title>
-    <link href="https://job-boards.greenhouse.io/lilasciences/jobs/4477308009"/>
-    <updated>2026-11-09T22:34:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Cambridge, MA USA · Python, AWS, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:lilasciences:4472540009</id>
-    <title>Lila Sciences: Co-op, Software, Applied AI Platform Engineer</title>
-    <link href="https://job-boards.greenhouse.io/lilasciences/jobs/4472540009"/>
-    <updated>2026-11-09T22:34:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · San Francisco, CA USA · Python, TypeScript, SQL, LLMs, Next.js</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:vardaspace:8198267003</id>
@@ -627,9 +675,9 @@
     <id>urn:intern-engine:greenhouse:ensco:5467125008</id>
     <title>ENSCO: Information Security Intern 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/ensco/jobs/5467125008"/>
-    <updated>2026-10-30T20:14:10Z</updated>
+    <updated>2026-11-10T07:26:56Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Melbourne, Florida, United States · Python · sponsorship: citizens-only</summary>
+    <summary>Not stated · Security (general) · Melbourne, Florida, United States · Python · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:gardacp:6239821004</id>
@@ -758,53 +806,5 @@
     <updated>2026-10-29T23:17:15Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Lone Tree, CO · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:base-power:8397f115-7806-4911-a12b-6231852c3443</id>
-    <title>Base Power: Power Systems Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/base-power/8397f115-7806-4911-a12b-6231852c3443"/>
-    <updated>2026-10-29T18:46:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Austin, TX · Python, Pandas</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:centerforstrategicandinternationalstudiesinc:4437922009</id>
-    <title>Center for Strategic and International Studies: Intern - Energy Security and Climate Change Program</title>
-    <link href="https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4437922009"/>
-    <updated>2026-10-29T18:46:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Washington, D.C. · $18.4/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:nyisocoops:5236035007</id>
-    <title>New York ISO: Co-Op – IT – Technical Security</title>
-    <link href="https://job-boards.greenhouse.io/nyisocoops/jobs/5236035007"/>
-    <updated>2026-10-29T18:46:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Rensselaer, New York, United States · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:nyisocoops:5236045007</id>
-    <title>New York ISO: Co-Op – IT – Windows Systems Administration</title>
-    <link href="https://job-boards.greenhouse.io/nyisocoops/jobs/5236045007"/>
-    <updated>2026-10-29T18:46:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Rensselaer, New York, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:quberesearchandtechnologies:8777760002</id>
-    <title>Qube Research &amp; Technologies: 2027 Internship – Security Engineer</title>
-    <link href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002"/>
-    <updated>2026-10-29T18:46:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · London, Paris, New York · Python, Bash, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:stratolaunch:5466978008</id>
-    <title>Stratolaunch: Security Intern- Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/stratolaunch/jobs/5466978008"/>
-    <updated>2026-10-29T18:46:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Mojave, California, United States · sponsorship: citizens-only</summary>
   </entry>
 </feed>

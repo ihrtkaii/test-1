@@ -123,13 +123,14 @@
     "Summer 2027": {
      "first_posted": "2026-09-14",
      "role_ids": [
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Grad-Intern_R017106",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Network-Systems-Grad-Intern_R016836",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Graduate-Intern_R016527",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Undergraduate-Intern_R016530",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Space-Communications-and-Network-Systems-Undergrad-Intern_R017064"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -1465,9 +1466,10 @@
      "first_posted": "2026-10-20",
      "role_ids": [
       "ashby:illumio:09d4895b-6de4-4d22-bbc3-aa45f2b24260",
+      "ashby:illumio:2bcba5c3-c6e7-407c-92b2-73027594789e",
       "ashby:illumio:8708e622-900e-458a-96b3-ae339329a56d"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2334,6 +2336,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-Intern--Summer-2027-----Tac-Comm---Onsite_01886283",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--Summer-2027----Onsite_01869961",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern-2027--Onsite-_01867044",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Systems-Engineering-Intern--Summer-2027---SAOC--Cedar-Rapids--IA--Onsite-_01886221",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871278",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871442",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871444",
@@ -2341,7 +2344,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Engineering-Intern--Summer-2027----Onsite_01871091"
      ],
-     "count": 33
+     "count": 34
     }
    }
   },
@@ -2935,5 +2938,5 @@
    }
   }
  },
- "updated_at": "2026-11-09T22:34:52Z"
+ "updated_at": "2026-11-10T07:26:56Z"
 }
