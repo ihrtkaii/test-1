@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-10T07:26:56Z",
- "data_as_of": "2026-11-10T07:26:56Z",
- "rendered_at": "2026-11-10T07:26:56Z",
+ "generated_at": "2026-11-10T17:18:41Z",
+ "data_as_of": "2026-11-10T17:18:41Z",
+ "rendered_at": "2026-11-10T17:18:41Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/test-1",
  "companies": [
@@ -1479,7 +1479,7 @@
    "expected": "2026-09-14",
    "days_until": -57,
    "status": "open",
-   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011",
+   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Grad-Intern_R017106",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2647,25 +2647,6 @@
    }
   },
   {
-   "company": "ADT",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-26",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-26",
-   "days_until": -15,
-   "status": "open",
-   "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022588",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-26"
-   }
-  },
-  {
    "company": "Great American Insurance Company",
    "last_cycle_posted": "",
    "posted_on": "2026-10-27",
@@ -3706,6 +3687,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-23"
+   }
+  },
+  {
+   "company": "ADT",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-26",
+   "days_until": -15,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-26"
    }
   },
   {

@@ -2918,9 +2918,10 @@
     "Summer 2027": {
      "first_posted": "2026-11-04",
      "role_ids": [
-      "workday:zebra:/job/Germantown-Maryland/XMLNAME-2027-Summer-Internship--US----Systems-Engineer_JR103659"
+      "workday:zebra:/job/Germantown-Maryland/XMLNAME-2027-Summer-Internship--US----Systems-Engineer_JR103659",
+      "workday:zebra:/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Security_JR103608"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2938,5 +2939,5 @@
    }
   }
  },
- "updated_at": "2026-11-10T07:26:56Z"
+ "updated_at": "2026-11-10T17:18:41Z"
 }
