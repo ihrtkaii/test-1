@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-11-11T06:20:05Z</updated>
+  <updated>2026-11-11T14:28:18Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
   <entry>
     <id>urn:intern-engine:ashby:regent:dfdbb28f-f289-45b9-a2e5-158d81b93524</id>
@@ -163,9 +163,9 @@
     <id>urn:intern-engine:workday:assurant:/job/Georgia-Virtual/IT-Intern_R-116011</id>
     <title>Assurant: IT Intern</title>
     <link href="https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Georgia-Virtual/IT-Intern_R-116011"/>
-    <updated>2026-11-09T22:34:52Z</updated>
+    <updated>2026-11-11T14:28:18Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · IT Support / Ops · Georgia Virtual · Java, C#, JavaScript, HTML/CSS, Linux</summary>
+    <summary>Not stated · IT Support / Ops · Georgia Virtual · Java, C#, JavaScript, HTML/CSS, Linux · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:astrazeneca:/job/US--Tarzana--CA/Network-Planning---Data-Analytics-Intern_R-263845</id>
@@ -507,9 +507,9 @@
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26016065</id>
     <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Cybersecurity AI Engineer, Enterprise Technology Services- Phoenix, AZ</title>
     <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065"/>
-    <updated>2026-11-03T19:48:00Z</updated>
+    <updated>2026-11-11T14:28:18Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Phoenix, AZ, United States · Python, Java, JavaScript, SQL, LLMs · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Security (general) · Phoenix, AZ, United States · Python, Java, JavaScript, SQL, LLMs · status: closed · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cnoinc:/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419</id>
