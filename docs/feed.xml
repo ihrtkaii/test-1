@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-11-11T14:28:18Z</updated>
+  <updated>2026-11-11T22:11:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:arcesiumllc:5257251007</id>
+    <title>Arcesium: Technology Operations Intern</title>
+    <link href="https://job-boards.greenhouse.io/arcesiumllc/jobs/5257251007"/>
+    <updated>2026-11-11T22:11:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Other · New York · Java, TypeScript, SQL, Kotlin, LLMs · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:regent:dfdbb28f-f289-45b9-a2e5-158d81b93524</id>
     <title>REGENT: Cybersecurity &amp; IT Operations Intern (Summer)</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-30T20:14:10Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · Python, MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ttc:/job/Bloomington-MN/Information-Technology-Unified-Communications-Intern---The-Toro-Company_JR17713</id>
-    <title>The Toro Company: Information Technology Unified Communications Intern - The Toro Company 🛂</title>
-    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Information-Technology-Unified-Communications-Intern---The-Toro-Company_JR17713"/>
-    <updated>2026-10-30T20:14:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Other · Bloomington, MN · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

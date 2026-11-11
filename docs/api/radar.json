@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-11T14:28:18Z",
- "data_as_of": "2026-11-11T14:28:18Z",
- "rendered_at": "2026-11-11T14:28:18Z",
+ "generated_at": "2026-11-11T22:11:51Z",
+ "data_as_of": "2026-11-11T22:11:51Z",
+ "rendered_at": "2026-11-11T22:11:52Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/test-1",
  "companies": [
@@ -358,7 +358,7 @@
    "expected": "2026-08-24",
    "days_until": -79,
    "status": "open",
-   "url": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Cybersecurity-Intern---Summer-2027_REQ742",
+   "url": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Indianapolis-IN/IT-Support-Intern---Summer-2027_REQ638-1",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -454,6 +454,25 @@
    "days_until": -78,
    "status": "open",
    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-25"
+   }
+  },
+  {
+   "company": "Grant Thornton",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -78,
+   "status": "open",
+   "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115637",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3155,25 +3174,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-24"
-   }
-  },
-  {
-   "company": "Grant Thornton",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-25",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-25",
-   "days_until": -78,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-25"
    }
   },
   {
