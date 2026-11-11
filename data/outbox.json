@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:ehzq.fa.us2.oraclecloud.com:115637",
-      "greenhouse:arcesiumllc:5257251007"
-    ],
-    "telegram": [
-      "oracle:ehzq.fa.us2.oraclecloud.com:115637",
-      "greenhouse:arcesiumllc:5257251007"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
