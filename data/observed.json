@@ -243,6 +243,18 @@
     }
    }
   },
+  "american electric power": {
+   "name": "American Electric Power",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-12",
+     "role_ids": [
+      "workday:aep:/job/Columbus-OH/Cybersecurity-Intern---Summer-2027_R21158"
+     ],
+     "count": 1
+    }
+   }
+  },
   "american express": {
    "name": "American Express",
    "cycles": {
@@ -1986,9 +1998,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-23",
      "role_ids": [
-      "greenhouse:muonspace:5247733007"
+      "greenhouse:muonspace:5247733007",
+      "greenhouse:muonspace:5294028007"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2066,6 +2079,7 @@
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Systems-Engineering-Intern---Annapolis-MD_R10254656",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Systems-Engineer-Intern---Baltimore-MD_R10255010",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Systems-Engineer-Intern---Baltimore-MD_R10251094",
+      "workday:ngc:/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Systems-Engineering-Intern---Graduate-Level---Plymouth-MN_R10260431",
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
       "workday:ngc:/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern---Systems-Engineering_R10248653",
       "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037",
@@ -2079,7 +2093,7 @@
       "workday:ngc:/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Engineer-Intern---Chantilly-VA_R10255633",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423"
      ],
-     "count": 38
+     "count": 39
     },
     "Fall 2026": {
      "first_posted": "2026-08-31",
@@ -2455,6 +2469,18 @@
     }
    }
   },
+  "shield ai": {
+   "name": "Shield AI",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-12",
+     "role_ids": [
+      "lever:shieldai:1bcb2094-e52d-4af9-9eee-2bcd655536ca"
+     ],
+     "count": 1
+    }
+   }
+  },
   "sierra nevada": {
    "name": "Sierra Nevada Corporation",
    "cycles": {
@@ -2579,9 +2605,10 @@
      "first_posted": "2026-10-29",
      "role_ids": [
       "greenhouse:stratolaunch:5466978008",
-      "greenhouse:stratolaunch:5471933008"
+      "greenhouse:stratolaunch:5471933008",
+      "greenhouse:stratolaunch:5480612008"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2980,5 +3007,5 @@
    }
   }
  },
- "updated_at": "2026-11-12T17:50:05Z"
+ "updated_at": "2026-11-12T23:51:01Z"
 }

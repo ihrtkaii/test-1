@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-12T17:50:05Z",
- "data_as_of": "2026-11-12T17:50:05Z",
- "rendered_at": "2026-11-12T17:50:06Z",
+ "generated_at": "2026-11-12T23:51:01Z",
+ "data_as_of": "2026-11-12T23:51:01Z",
+ "rendered_at": "2026-11-12T23:51:01Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/ihrtkaii/test-1",
  "companies": [
@@ -2989,6 +2989,25 @@
    }
   },
   {
+   "company": "American Electric Power",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-12",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-12",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Cybersecurity-Intern---Summer-2027_R21158",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-11-12"
+   }
+  },
+  {
    "company": "PTC",
    "last_cycle_posted": "",
    "posted_on": "2026-11-12",
@@ -3000,6 +3019,25 @@
    "days_until": 0,
    "status": "open",
    "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Onshape-Site-Reliability-Engineering-Intern--Summer-2027-_JR112926",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-11-12"
+   }
+  },
+  {
+   "company": "Shield AI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-12",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-12",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.lever.co/shieldai/1bcb2094-e52d-4af9-9eee-2bcd655536ca",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3804,5 +3842,5 @@
    }
   }
  ],
- "count": 200
+ "count": 202
 }

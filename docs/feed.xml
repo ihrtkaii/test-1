@@ -5,8 +5,72 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-11-12T17:50:05Z</updated>
+  <updated>2026-11-12T23:51:01Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:shieldai:1bcb2094-e52d-4af9-9eee-2bcd655536ca</id>
+    <title>Shield AI: 2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)</title>
+    <link href="https://jobs.lever.co/shieldai/1bcb2094-e52d-4af9-9eee-2bcd655536ca"/>
+    <updated>2026-11-12T23:51:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · San Diego, California · 38–55 USD/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aep:/job/Columbus-OH/Cybersecurity-Intern---Summer-2027_R21158</id>
+    <title>American Electric Power: Cybersecurity Intern - Summer 2027 🛂</title>
+    <link href="https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Cybersecurity-Intern---Summer-2027_R21158"/>
+    <updated>2026-11-12T23:51:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Columbus, OH · Python, Java, JavaScript, SQL · sponsorship: no-sponsorship · H-1B track record: ~34 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:massgeneralbrigham:/job/Boston-MA/Security-Co-op_RQ4086284</id>
+    <title>Mass General Brigham: Security Co-op</title>
+    <link href="https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Security-Co-op_RQ4086284"/>
+    <updated>2026-11-12T23:51:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Boston-MA · H-1B track record: ~80 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:muonspace:5294028007</id>
+    <title>Muon Space: Security Engineering Intern (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/muonspace/jobs/5294028007"/>
+    <updated>2026-11-12T23:51:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Mountain View, CA · $40/hr · Python, Bash, AWS, GCP, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Alabama-Huntsville/SkillBridge-Internship-Program-is-seeking-our-exceptional-enlisted-military-talent-to-join-us-as-a-Systems-Engineer---2_R10260427</id>
+    <title>Northrop Grumman: SkillBridge Internship Program is seeking our exceptional enlisted-military talent to join us as a Systems Engineer - 2 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/SkillBridge-Internship-Program-is-seeking-our-exceptional-enlisted-military-talent-to-join-us-as-a-Systems-Engineer---2_R10260427"/>
+    <updated>2026-11-12T23:51:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · United States-Alabama-Huntsville · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Systems-Engineering-Intern---Graduate-Level---Plymouth-MN_R10260431</id>
+    <title>Northrop Grumman: 2027 Systems Engineering Intern - Graduate Level - Plymouth MN 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Systems-Engineering-Intern---Graduate-Level---Plymouth-MN_R10260431"/>
+    <updated>2026-11-12T23:51:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-Minnesota-Plymouth · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161385779</id>
+    <title>ServiceNow: Product Security Intern</title>
+    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161385779"/>
+    <updated>2026-11-12T23:51:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · AppSec / Product Sec · San Diego, CALIFORNIA, United States · $62.89/hr · Java, JavaScript · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:stratolaunch:5480612008</id>
+    <title>Stratolaunch: Business Intelligence &amp; Systems Analyst Intern 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008"/>
+    <updated>2026-11-12T23:51:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Mojave, California, United States · SQL, Tableau · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:galaxydigitalservices:6256234004</id>
     <title>Galaxy: 2027 Data Center Growth &amp; Development Intern - NYC</title>
@@ -742,69 +806,5 @@
     <updated>2026-11-02T19:47:20Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Southern Pines, NC · Python, Java, C++, C#, Azure · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tiaa:/job/New-York-NY---730-Third-Avenue/XMLNAME-2027-Intern--Energy-Infrastructure-Credit_R261000336-1</id>
-    <title>TIAA: 2027 Intern, Energy Infrastructure Credit</title>
-    <link href="https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY---730-Third-Avenue/XMLNAME-2027-Intern--Energy-Infrastructure-Credit_R261000336-1"/>
-    <updated>2026-11-05T20:12:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · New York, NY - 730 Third Avenue · $22/hr · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:tevora:2ad5ba33-3c2a-4e51-a5ab-e5632adb0e0d</id>
-    <title>Tevora: Cybersecurity Internship Summer2027 - Federal</title>
-    <link href="https://jobs.lever.co/tevora/2ad5ba33-3c2a-4e51-a5ab-e5632adb0e0d"/>
-    <updated>2026-10-31T09:47:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Fairfax, VA · 27 USD/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:tevora:4e3b7ae3-cb18-4c76-815c-0014e3c7598c</id>
-    <title>Tevora: Cybersecurity Internship Summer 2027 - Systems and Organizations Controls (SOC)</title>
-    <link href="https://jobs.lever.co/tevora/4e3b7ae3-cb18-4c76-815c-0014e3c7598c"/>
-    <updated>2026-10-31T09:47:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · SOC / Detection · Irvine, CA · 27 USD/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:tevora:5acd8859-ba7f-4996-9503-13a231376758</id>
-    <title>Tevora: Cybersecurity Internship Summer 2027 - Threat</title>
-    <link href="https://jobs.lever.co/tevora/5acd8859-ba7f-4996-9503-13a231376758"/>
-    <updated>2026-10-31T09:47:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · SOC / Detection · Irvine, CA · 27 USD/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:tevora:648630ae-0dce-4b80-af2b-911c2c8f159c</id>
-    <title>Tevora: Cybersecurity Internship Summer 2027 - International Organization for Standardization (ISO)</title>
-    <link href="https://jobs.lever.co/tevora/648630ae-0dce-4b80-af2b-911c2c8f159c"/>
-    <updated>2026-10-31T09:47:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Irvine, CA · 27 USD/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:tevora:7b1010a9-9379-459a-89f8-222af2fe7721</id>
-    <title>Tevora: Cybersecurity Internship Summer 2027 - Payments</title>
-    <link href="https://jobs.lever.co/tevora/7b1010a9-9379-459a-89f8-222af2fe7721"/>
-    <updated>2026-10-31T09:47:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Fairfax, VA · 27 USD/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:tevora:a18eeda5-4b39-4e8f-b3b3-e4d80e3601b0</id>
-    <title>Tevora: Cybersecurity Internship Summer 2027 - Healthcare</title>
-    <link href="https://jobs.lever.co/tevora/a18eeda5-4b39-4e8f-b3b3-e4d80e3601b0"/>
-    <updated>2026-10-31T09:47:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Irvine, CA · 27 USD/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:tevora:facb1a9a-67b3-42ca-90f1-65d934d9b68d</id>
-    <title>Tevora: Cybersecurity Internship Summer 2027 - Solutions</title>
-    <link href="https://jobs.lever.co/tevora/facb1a9a-67b3-42ca-90f1-65d934d9b68d"/>
-    <updated>2026-10-31T09:47:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Irvine, CA · 27 USD/hr</summary>
   </entry>
 </feed>
