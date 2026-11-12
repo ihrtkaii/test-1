@@ -5,8 +5,72 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-11-12T07:19:24Z</updated>
+  <updated>2026-11-12T17:50:05Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:galaxydigitalservices:6256234004</id>
+    <title>Galaxy: 2027 Data Center Growth &amp; Development Intern - NYC</title>
+    <link href="https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6256234004"/>
+    <updated>2026-11-12T17:50:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · New York · $55/hr · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:martinmarietta:/job/Raleigh-NC/Intern--IS-Infrastructure_JR023723</id>
+    <title>Martin Marietta: Intern, IS Infrastructure (Summer 2027)</title>
+    <link href="https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--IS-Infrastructure_JR023723"/>
+    <updated>2026-11-12T17:50:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Raleigh, NC</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Chicago-IL/North-America--NA--Systems-Engineering-Operations-Internship----2027_R70657</id>
+    <title>Motorola: North America (NA) Systems Engineering Operations Internship  - 2027</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/North-America--NA--Systems-Engineering-Operations-Internship----2027_R70657"/>
+    <updated>2026-11-12T17:50:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Chicago, IL, More... · Python, C++, Pandas, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ptc:/job/Boston-MA-USA/Onshape-Site-Reliability-Engineering-Intern--Summer-2027-_JR112926</id>
+    <title>PTC: Onshape Site Reliability Engineering Intern (Summer 2027)</title>
+    <link href="https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Onshape-Site-Reliability-Engineering-Intern--Summer-2027-_JR112926"/>
+    <updated>2026-11-12T17:50:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Boston, MA, USA · Java, Linux, MongoDB · H-1B track record: ~80 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161204235</id>
+    <title>ServiceNow: Assoc Information Security Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161204235"/>
+    <updated>2026-11-12T07:19:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · San Diego, CALIFORNIA, United States · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161209600</id>
+    <title>ServiceNow: Assoc AI Engineering (Cloud Security Automation) Intern</title>
+    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161209600"/>
+    <updated>2026-11-12T07:19:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Cloud &amp; Infra Sec · Santa Clara, CALIFORNIA, United States · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161209810</id>
+    <title>ServiceNow: Assoc Security Engineering &amp; Automation Intern</title>
+    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161209810"/>
+    <updated>2026-11-12T07:19:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Santa Clara, CALIFORNIA, United States · $50.12/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161210069</id>
+    <title>ServiceNow: Assoc Detection Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161210069"/>
+    <updated>2026-11-12T07:19:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · SOC / Detection · Kirkland, Washington, United States · $50.12/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:austalusa:/job/Mobile-AL/Cybersecurity-Intern_R0012221</id>
     <title>Austal USA: Cybersecurity Intern</title>
@@ -32,14 +96,6 @@
     <summary>Not stated · Systems &amp; Cloud Infra · Midland (MI, USA) · sponsorship: no-sponsorship · H-1B track record: ~61 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:hubinternational:/job/Chicago-IL/Security-Architect-Intern_R0039475</id>
-    <title>HUB International: Security Architect Intern</title>
-    <link href="https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Chicago-IL/Security-Architect-Intern_R0039475"/>
-    <updated>2026-11-12T07:19:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Chicago, IL · AWS, Azure</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--2027---Tac-Comm--Onsite-_01888309</id>
     <title>RTX: Systems Engineering Intern (2027)- Tac Comm (Onsite) 🇺🇸</title>
     <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--2027---Tac-Comm--Onsite-_01888309"/>
@@ -48,36 +104,12 @@
     <summary>Summer 2027 · Systems &amp; Cloud Infra · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · Python, MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161210069</id>
-    <title>ServiceNow: Assoc Detection Engineering Intern</title>
-    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161210069"/>
+    <id>urn:intern-engine:workday:hubinternational:/job/Chicago-IL/Security-Architect-Intern_R0039475</id>
+    <title>HUB International: Security Architect Intern</title>
+    <link href="https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Chicago-IL/Security-Architect-Intern_R0039475"/>
     <updated>2026-11-12T07:19:24Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · SOC / Detection · Kirkland, Washington, United States · $50.12/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161209810</id>
-    <title>ServiceNow: Assoc Security Engineering &amp; Automation Intern</title>
-    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161209810"/>
-    <updated>2026-11-12T07:19:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Santa Clara, CALIFORNIA, United States · $50.12/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161209600</id>
-    <title>ServiceNow: Assoc AI Engineering (Cloud Security Automation) Intern</title>
-    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161209600"/>
-    <updated>2026-11-12T07:19:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Cloud &amp; Infra Sec · Santa Clara, CALIFORNIA, United States · H-1B track record: ~849 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161204235</id>
-    <title>ServiceNow: Assoc Information Security Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161204235"/>
-    <updated>2026-11-12T07:19:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · San Diego, CALIFORNIA, United States · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Security (general) · Chicago, IL · AWS, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:arcesiumllc:5257251007</id>
@@ -691,9 +723,9 @@
     <id>urn:intern-engine:workday:jmfamily:/job/Florida---Deerfield-Beach/Offensive-Security-Intern_JR105164</id>
     <title>JM Family: Offensive Security Intern</title>
     <link href="https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Offensive-Security-Intern_JR105164"/>
-    <updated>2026-11-02T19:47:20Z</updated>
+    <updated>2026-11-12T17:50:05Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · AppSec / Product Sec · Florida - Deerfield Beach</summary>
+    <summary>Summer 2027 · AppSec / Product Sec · Florida - Deerfield Beach · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:rb:/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866</id>
@@ -774,37 +806,5 @@
     <updated>2026-10-31T09:47:55Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security (general) · Irvine, CA · 27 USD/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:tevora:fb3b174b-07ac-410d-9c44-53c70793635c</id>
-    <title>Tevora: Cybersecurity Internship Summer 2027 - Enterprise Risk Management</title>
-    <link href="https://jobs.lever.co/tevora/fb3b174b-07ac-410d-9c44-53c70793635c"/>
-    <updated>2026-10-31T09:47:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Irvine, CA · 27 USD/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:rippling:omnis-corporation:c534b2ba-a409-4c26-bb92-704e48fccb63</id>
-    <title>Omnis: Wireless Systems Intern, MAC and PHY (Spring and Summer 2027)</title>
-    <link href="https://ats.rippling.com/omnis-corporation/jobs/c534b2ba-a409-4c26-bb92-704e48fccb63"/>
-    <updated>2026-10-31T01:00:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · Venice, Los Angeles, CA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:lifefitness:/job/Rosemont-IL/IT-Intern_JR-025323</id>
-    <title>Life Fitness: IT Intern</title>
-    <link href="https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/IT-Intern_JR-025323"/>
-    <updated>2026-10-31T01:00:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · IT Support / Ops · Rosemont, IL · $19–$23/hr · Python, LLMs · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:philips:/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Engineer---New-Kensington--PA---Summer-2027_592850</id>
-    <title>Philips: Intern - Systems Engineer – New Kensington, PA – Summer 2027</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Engineer---New-Kensington--PA---Summer-2027_592850"/>
-    <updated>2026-10-31T01:00:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · New Kensington, Pennsylvania, United States</summary>
   </entry>
 </feed>
