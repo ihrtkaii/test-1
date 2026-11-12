@@ -1,24 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "lever:shieldai:1bcb2094-e52d-4af9-9eee-2bcd655536ca",
-      "workday:aep:/job/Columbus-OH/Cybersecurity-Intern---Summer-2027_R21158",
-      "workday:massgeneralbrigham:/job/Boston-MA/Security-Co-op_RQ4086284",
-      "greenhouse:muonspace:5294028007",
-      "workday:ngc:/job/United-States-Alabama-Huntsville/SkillBridge-Internship-Program-is-seeking-our-exceptional-enlisted-military-talent-to-join-us-as-a-Systems-Engineer---2_R10260427",
-      "workday:ngc:/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Systems-Engineering-Intern---Graduate-Level---Plymouth-MN_R10260431",
-      "smartrecruiters:ServiceNow:744000161385779",
-      "greenhouse:stratolaunch:5480612008"
-    ],
-    "telegram": [
-      "lever:shieldai:1bcb2094-e52d-4af9-9eee-2bcd655536ca",
-      "workday:aep:/job/Columbus-OH/Cybersecurity-Intern---Summer-2027_R21158",
-      "workday:massgeneralbrigham:/job/Boston-MA/Security-Co-op_RQ4086284",
-      "greenhouse:muonspace:5294028007",
-      "workday:ngc:/job/United-States-Alabama-Huntsville/SkillBridge-Internship-Program-is-seeking-our-exceptional-enlisted-military-talent-to-join-us-as-a-Systems-Engineer---2_R10260427",
-      "workday:ngc:/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Systems-Engineering-Intern---Graduate-Level---Plymouth-MN_R10260431",
-      "smartrecruiters:ServiceNow:744000161385779",
-      "greenhouse:stratolaunch:5480612008"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
