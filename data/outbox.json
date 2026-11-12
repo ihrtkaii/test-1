@@ -1,16 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "greenhouse:galaxydigitalservices:6256234004",
-      "workday:martinmarietta:/job/Raleigh-NC/Intern--IS-Infrastructure_JR023723",
-      "workday:motorolasolutions:/job/Chicago-IL/North-America--NA--Systems-Engineering-Operations-Internship----2027_R70657",
-      "workday:ptc:/job/Boston-MA-USA/Onshape-Site-Reliability-Engineering-Intern--Summer-2027-_JR112926"
-    ],
-    "telegram": [
-      "greenhouse:galaxydigitalservices:6256234004",
-      "workday:martinmarietta:/job/Raleigh-NC/Intern--IS-Infrastructure_JR023723",
-      "workday:motorolasolutions:/job/Chicago-IL/North-America--NA--Systems-Engineering-Operations-Internship----2027_R70657",
-      "workday:ptc:/job/Boston-MA-USA/Onshape-Site-Reliability-Engineering-Intern--Summer-2027-_JR112926"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
