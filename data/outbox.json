@@ -1,16 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "amazon:amazon:10557133",
-      "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:354d464d-ca91-4ce3-bd3f-d811b13755be",
-      "ashby:shield:354d464d-ca91-4ce3-bd3f-d811b13755be",
-      "workday:assurant:/job/Georgia-Virtual/IT-Intern_R-116011"
-    ],
-    "telegram": [
-      "amazon:amazon:10557133",
-      "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:354d464d-ca91-4ce3-bd3f-d811b13755be",
-      "ashby:shield:354d464d-ca91-4ce3-bd3f-d811b13755be",
-      "workday:assurant:/job/Georgia-Virtual/IT-Intern_R-116011"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
