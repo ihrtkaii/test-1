@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-13T06:47:25Z",
- "data_as_of": "2026-11-13T06:47:25Z",
- "rendered_at": "2026-11-13T06:47:25Z",
+ "generated_at": "2026-11-13T15:14:28Z",
+ "data_as_of": "2026-11-13T15:14:28Z",
+ "rendered_at": "2026-11-13T15:14:28Z",
  "source": "https://github.com/ihrtkaii/test-1",
  "h1b_window": "FY2022–2023",
- "count": 716,
+ "count": 714,
  "jobs": [
   {
    "id": "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:354d464d-ca91-4ce3-bd3f-d811b13755be",
@@ -5631,27 +5631,6 @@
    "h1b_approvals": null,
    "program": "Internship",
    "remote": true
-  },
-  {
-   "id": "workday:cubic:/job/San-Diego-California/Systems-Engineering-Execution-Intern_REQ_50178",
-   "company": "Cubic",
-   "title": "Systems Engineering Execution Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Systems & Cloud Infra",
-   "location": "San Diego, California",
-   "url": "https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers/job/San-Diego-California/Systems-Engineering-Execution-Intern_REQ_50178",
-   "posted_at": "2026-10-14T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-14T21:52:41Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
   },
   {
    "id": "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
@@ -11424,32 +11403,6 @@
    ],
    "source": "greenhouse",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:asteraearlycareer2027:4731591005",
-   "company": "Astera Labs",
-   "title": "Firmware Engineer Intern (DevSecOps)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Other",
-   "location": "San Jose, CA",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731591005",
-   "posted_at": "2026-09-08T00:46:32-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-06T20:29:41Z",
-   "sponsorship": "unknown",
-   "salary": "$35/hr",
-   "skills": [
-    "Python",
-    "C++",
-    "Linux",
-    "Git"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 29,
    "program": "Internship",
    "remote": false
   },
