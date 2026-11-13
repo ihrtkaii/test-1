@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-11-13T15:14:28Z</updated>
+  <updated>2026-11-13T21:43:00Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161550869</id>
+    <title>ServiceNow: Information Security Analyst Intern</title>
+    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161550869"/>
+    <updated>2026-11-13T21:43:00Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · San Diego, CALIFORNIA, United States · $45.79/hr · Python, Bash, Linux · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161548528</id>
+    <title>ServiceNow: Security Engineering &amp; Automation Intern</title>
+    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161548528"/>
+    <updated>2026-11-13T21:43:00Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Kirkland, Washington, United States · $58.96/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161548289</id>
+    <title>ServiceNow: AI Security Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161548289"/>
+    <updated>2026-11-13T21:43:00Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · San Diego, California, United States · $62.89/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Southern-Pines-NC/Systems-Engineer-Intern_R0031224-1</id>
+    <title>Sierra Nevada Corporation: Systems Engineer Intern 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Systems-Engineer-Intern_R0031224-1"/>
+    <updated>2026-11-13T21:43:00Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Southern Pines, NC · MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:trace3:8274792</id>
+    <title>Trace3: Security Intern</title>
+    <link href="https://job-boards.greenhouse.io/trace3/jobs/8274792"/>
+    <updated>2026-11-13T21:43:00Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Irvine, CA, United States · Python, LLMs, AWS, GCP, Azure</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:shieldai:1bcb2094-e52d-4af9-9eee-2bcd655536ca</id>
     <title>Shield AI: 2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)</title>
@@ -179,9 +219,9 @@
     <id>urn:intern-engine:greenhouse:arcesiumllc:5257251007</id>
     <title>Arcesium: Technology Operations Intern</title>
     <link href="https://job-boards.greenhouse.io/arcesiumllc/jobs/5257251007"/>
-    <updated>2026-11-11T22:11:51Z</updated>
+    <updated>2026-11-13T21:43:00Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Other · New York · Java, TypeScript, SQL, Kotlin, LLMs · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Other · New York · Java, TypeScript, SQL, Kotlin, LLMs · status: closed · H-1B track record: ~11 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:regent:dfdbb28f-f289-45b9-a2e5-158d81b93524</id>
@@ -203,9 +243,9 @@
     <id>urn:intern-engine:workday:paloaltonetworks:/job/Office---USA---TX/Intern---Systems-Engineer_JR-024642</id>
     <title>Paloaltonetworks: Intern - Systems Engineer 🛂</title>
     <link href="https://paloaltonetworks.wd5.myworkdayjobs.com/hidden-private-pawn-temp-gateway-147258369/job/Office---USA---TX/Intern---Systems-Engineer_JR-024642"/>
-    <updated>2026-11-12T07:19:24Z</updated>
+    <updated>2026-11-11T06:20:05Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Office - USA - TX · sponsorship: no-sponsorship · status: closed</summary>
+    <summary>Not stated · Systems &amp; Cloud Infra · Office - USA - TX · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:minitab:8200356003</id>
@@ -766,45 +806,5 @@
     <updated>2026-11-02T19:47:20Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · IT Support / Ops · Remote Arizona · $17.5/hr · H-1B track record: ~20 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gaig:/job/Cincinnati-OH-USA/Risk-and-Compliance-Intern---Summer-2027_R9830</id>
-    <title>Great American Insurance Company: Risk and Compliance Intern - Summer 2027</title>
-    <link href="https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Risk-and-Compliance-Intern---Summer-2027_R9830"/>
-    <updated>2026-11-02T19:47:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · GRC / Risk · Cincinnati, OH (USA) · Tableau · H-1B track record: ~35 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jci:/job/Glendale-Wisconsin-United-States-of-America/HVAC-Control-Systems-Engineering-Intern_WD30282523</id>
-    <title>Johnson Controls: HVAC Control Systems Engineering Intern</title>
-    <link href="https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/HVAC-Control-Systems-Engineering-Intern_WD30282523"/>
-    <updated>2026-11-02T19:47:20Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Glendale-Wisconsin-United States of America · $22–$25.5/hr · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jmfamily:/job/Florida---Deerfield-Beach/Offensive-Security-Intern_JR105164</id>
-    <title>JM Family: Offensive Security Intern</title>
-    <link href="https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Offensive-Security-Intern_JR105164"/>
-    <updated>2026-11-12T17:50:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · AppSec / Product Sec · Florida - Deerfield Beach · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:rb:/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866</id>
-    <title>The Federal Reserve System: 2027 Summer Internship Program - Supervision &amp; Regulation (Cybersecurity) 🇺🇸</title>
-    <link href="https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866"/>
-    <updated>2026-11-02T19:47:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Atlanta, GA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:snc:/job/Southern-Pines-NC/DevOps-Engineer-Intern--Summer-2027-_R0031238-1</id>
-    <title>Sierra Nevada Corporation: DevOps Engineer Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/DevOps-Engineer-Intern--Summer-2027-_R0031238-1"/>
-    <updated>2026-11-02T19:47:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Southern Pines, NC · Python, Java, C++, C#, Azure · sponsorship: citizens-only</summary>
   </entry>
 </feed>

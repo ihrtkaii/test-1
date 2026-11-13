@@ -1,6 +1,20 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:paloaltonetworks:/job/Office---USA---TX/Intern---Systems-Engineer_JR-024642",
+      "smartrecruiters:ServiceNow:744000161550869",
+      "smartrecruiters:ServiceNow:744000161548528",
+      "smartrecruiters:ServiceNow:744000161548289",
+      "workday:snc:/job/Southern-Pines-NC/Systems-Engineer-Intern_R0031224-1",
+      "greenhouse:trace3:8274792"
+    ],
+    "telegram": [
+      "workday:paloaltonetworks:/job/Office---USA---TX/Intern---Systems-Engineer_JR-024642",
+      "smartrecruiters:ServiceNow:744000161550869",
+      "smartrecruiters:ServiceNow:744000161548528",
+      "smartrecruiters:ServiceNow:744000161548289",
+      "workday:snc:/job/Southern-Pines-NC/Systems-Engineer-Intern_R0031224-1",
+      "greenhouse:trace3:8274792"
+    ]
   }
 }
