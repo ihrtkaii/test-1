@@ -5,15 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-11-12T23:51:01Z</updated>
+  <updated>2026-11-13T06:47:25Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:muonspace:5294028007</id>
+    <title>Muon Space: Security Engineering Intern (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/muonspace/jobs/5294028007"/>
+    <updated>2026-11-12T23:51:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security (general) · Mountain View, CA · $40/hr · Python, Bash, AWS, GCP, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:stratolaunch:5480612008</id>
+    <title>Stratolaunch: Business Intelligence &amp; Systems Analyst Intern 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008"/>
+    <updated>2026-11-12T23:51:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Mojave, California, United States · SQL, Tableau · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:shieldai:1bcb2094-e52d-4af9-9eee-2bcd655536ca</id>
     <title>Shield AI: 2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)</title>
     <link href="https://jobs.lever.co/shieldai/1bcb2094-e52d-4af9-9eee-2bcd655536ca"/>
     <updated>2026-11-12T23:51:01Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · San Diego, California · 38–55 USD/hr</summary>
+    <summary>3 openings · Summer 2027 · Systems &amp; Cloud Infra · San Diego, California · 38–55 USD/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161385779</id>
+    <title>ServiceNow: Product Security Intern</title>
+    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161385779"/>
+    <updated>2026-11-12T23:51:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · AppSec / Product Sec · San Diego, CALIFORNIA, United States · $62.89/hr · Java, JavaScript · H-1B track record: ~849 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:aep:/job/Columbus-OH/Cybersecurity-Intern---Summer-2027_R21158</id>
@@ -32,14 +56,6 @@
     <summary>Not stated · Security (general) · Boston-MA · H-1B track record: ~80 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:muonspace:5294028007</id>
-    <title>Muon Space: Security Engineering Intern (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/muonspace/jobs/5294028007"/>
-    <updated>2026-11-12T23:51:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Mountain View, CA · $40/hr · Python, Bash, AWS, GCP, Azure</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Alabama-Huntsville/SkillBridge-Internship-Program-is-seeking-our-exceptional-enlisted-military-talent-to-join-us-as-a-Systems-Engineer---2_R10260427</id>
     <title>Northrop Grumman: SkillBridge Internship Program is seeking our exceptional enlisted-military talent to join us as a Systems Engineer - 2 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/SkillBridge-Internship-Program-is-seeking-our-exceptional-enlisted-military-talent-to-join-us-as-a-Systems-Engineer---2_R10260427"/>
@@ -54,22 +70,6 @@
     <updated>2026-11-12T23:51:01Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · United States-Minnesota-Plymouth · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161385779</id>
-    <title>ServiceNow: Product Security Intern</title>
-    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161385779"/>
-    <updated>2026-11-12T23:51:01Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · AppSec / Product Sec · San Diego, CALIFORNIA, United States · $62.89/hr · Java, JavaScript · H-1B track record: ~849 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:stratolaunch:5480612008</id>
-    <title>Stratolaunch: Business Intelligence &amp; Systems Analyst Intern 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008"/>
-    <updated>2026-11-12T23:51:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Mojave, California, United States · SQL, Tableau · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:galaxydigitalservices:6256234004</id>
@@ -339,9 +339,9 @@
     <id>urn:intern-engine:workday:assurant:/job/Georgia-Virtual/IT-Intern_R-116011</id>
     <title>Assurant: IT Intern</title>
     <link href="https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Georgia-Virtual/IT-Intern_R-116011"/>
-    <updated>2026-11-11T14:28:18Z</updated>
+    <updated>2026-11-09T22:34:52Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · IT Support / Ops · Georgia Virtual · Java, C#, JavaScript, HTML/CSS, Linux · status: closed</summary>
+    <summary>Not stated · IT Support / Ops · Georgia Virtual · Java, C#, JavaScript, HTML/CSS, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:astrazeneca:/job/US--Tarzana--CA/Network-Planning---Data-Analytics-Intern_R-263845</id>
