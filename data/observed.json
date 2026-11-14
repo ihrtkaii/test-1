@@ -224,9 +224,11 @@
       "amazon:amazon:10585774",
       "amazon:amazon:10585775",
       "amazon:amazon:10590368",
-      "amazon:amazon:10593054"
+      "amazon:amazon:10593054",
+      "amazon:amazon:10605132",
+      "amazon:amazon:10605141"
      ],
-     "count": 6
+     "count": 8
     }
    }
   },
@@ -1899,6 +1901,18 @@
     }
    }
   },
+  "mizuho securities usa": {
+   "name": "Mizuho Securities USA",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-13",
+     "role_ids": [
+      "workday:mizuho:/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2027-Corporate-Credit-Structuring-Intern-in-Technology--Media--and-Telecom_R7553"
+     ],
+     "count": 1
+    }
+   }
+  },
   "mks instruments": {
    "name": "MKS Instruments",
    "cycles": {
@@ -3009,5 +3023,5 @@
    }
   }
  },
- "updated_at": "2026-11-13T21:43:00Z"
+ "updated_at": "2026-11-14T18:15:00Z"
 }

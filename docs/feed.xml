@@ -5,39 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-11-13T21:43:00Z</updated>
+  <updated>2026-11-14T18:15:00Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161550869</id>
-    <title>ServiceNow: Information Security Analyst Intern</title>
-    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161550869"/>
-    <updated>2026-11-13T21:43:00Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · San Diego, CALIFORNIA, United States · $45.79/hr · Python, Bash, Linux · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:amazon:amazon:10605141</id>
+    <title>Amazon: Data Center Infrastructure Engineer Intern, Summer 2027 - East</title>
+    <link href="https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east"/>
+    <updated>2026-11-14T18:15:00Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Herndon, Virginia, USA · AWS · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161548528</id>
-    <title>ServiceNow: Security Engineering &amp; Automation Intern</title>
-    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161548528"/>
-    <updated>2026-11-13T21:43:00Z</updated>
+    <id>urn:intern-engine:amazon:amazon:10605132</id>
+    <title>Amazon: Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast</title>
+    <link href="https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast"/>
+    <updated>2026-11-14T18:15:00Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Umatilla, Oregon, USA · AWS · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mizuho:/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2027-Corporate-Credit-Structuring-Intern-in-Technology--Media--and-Telecom_R7553</id>
+    <title>Mizuho Securities USA: 2027 Corporate Credit Structuring Intern in Technology, Media, and Telecom 🛂</title>
+    <link href="https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2027-Corporate-Credit-Structuring-Intern-in-Technology--Media--and-Telecom_R7553"/>
+    <updated>2026-11-14T18:15:00Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · New York, NY (1271 AOA/6th Ave) · $35/hr · sponsorship: no-sponsorship · H-1B track record: ~25 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161592679</id>
+    <title>ServiceNow: Security Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161592679"/>
+    <updated>2026-11-14T18:15:00Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security (general) · Kirkland, Washington, United States · $58.96/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161548289</id>
-    <title>ServiceNow: AI Security Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161548289"/>
-    <updated>2026-11-13T21:43:00Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · San Diego, California, United States · $62.89/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:snc:/job/Southern-Pines-NC/Systems-Engineer-Intern_R0031224-1</id>
-    <title>Sierra Nevada Corporation: Systems Engineer Intern 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Systems-Engineer-Intern_R0031224-1"/>
-    <updated>2026-11-13T21:43:00Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Southern Pines, NC · MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:trace3:8274792</id>
@@ -48,12 +48,44 @@
     <summary>Not stated · Security (general) · Irvine, CA, United States · Python, LLMs, AWS, GCP, Azure</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:shieldai:1bcb2094-e52d-4af9-9eee-2bcd655536ca</id>
+    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161548289</id>
+    <title>ServiceNow: AI Security Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161548289"/>
+    <updated>2026-11-13T21:43:00Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · San Diego, California, United States · $62.89/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161548528</id>
+    <title>ServiceNow: Security Engineering &amp; Automation Intern</title>
+    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161548528"/>
+    <updated>2026-11-13T21:43:00Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · Kirkland, Washington, United States · $58.96/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161550869</id>
+    <title>ServiceNow: Information Security Analyst Intern</title>
+    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161550869"/>
+    <updated>2026-11-13T21:43:00Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security (general) · San Diego, CALIFORNIA, United States · $45.79/hr · Python, Bash, Linux · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Southern-Pines-NC/Systems-Engineer-Intern_R0031224-1</id>
+    <title>Sierra Nevada Corporation: Systems Engineer Intern 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Systems-Engineer-Intern_R0031224-1"/>
+    <updated>2026-11-13T21:43:00Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Systems &amp; Cloud Infra · Southern Pines, NC · MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:354d464d-ca91-4ce3-bd3f-d811b13755be</id>
     <title>Shield AI: 2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)</title>
-    <link href="https://jobs.lever.co/shieldai/1bcb2094-e52d-4af9-9eee-2bcd655536ca"/>
-    <updated>2026-11-12T23:51:01Z</updated>
+    <link href="https://jobs.ashbyhq.com/shield/354d464d-ca91-4ce3-bd3f-d811b13755be"/>
+    <updated>2026-11-13T06:47:25Z</updated>
     <category term="Summer 2027"/>
-    <summary>3 openings · Summer 2027 · Systems &amp; Cloud Infra · San Diego, California · 38–55 USD/hr</summary>
+    <summary>2 openings · Summer 2027 · Systems &amp; Cloud Infra · San Diego, CA, US</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:muonspace:5294028007</id>
@@ -70,6 +102,14 @@
     <updated>2026-11-12T23:51:01Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Mojave, California, United States · SQL, Tableau · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:shieldai:1bcb2094-e52d-4af9-9eee-2bcd655536ca</id>
+    <title>Shield AI: 2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)</title>
+    <link href="https://jobs.lever.co/shieldai/1bcb2094-e52d-4af9-9eee-2bcd655536ca"/>
+    <updated>2026-11-14T18:15:00Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · San Diego, California · 38–55 USD/hr · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161385779</id>
@@ -491,9 +531,17 @@
     <id>urn:intern-engine:workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14019</id>
     <title>Western Alliance: Summer 2027 Internship - Dallas, TX - Platform Engineering</title>
     <link href="https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14019"/>
+    <updated>2026-11-14T18:15:00Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Dallas, TX · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14020</id>
+    <title>Western Alliance: Summer 2027 Internship - Dallas, TX - Platform Engineering</title>
+    <link href="https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14020"/>
     <updated>2026-11-06T01:48:48Z</updated>
     <category term="Summer 2027"/>
-    <summary>4 openings · Summer 2027 · Systems &amp; Cloud Infra · Dallas, TX</summary>
+    <summary>3 openings · Summer 2027 · Systems &amp; Cloud Infra · Dallas, TX</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:RRDonnelley:744000159878934</id>
@@ -659,9 +707,9 @@
     <id>urn:intern-engine:workday:archgroup:/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135</id>
     <title>Arch Capital Group: Originations Portal IT Intern</title>
     <link href="https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135"/>
-    <updated>2026-11-04T11:06:53Z</updated>
+    <updated>2026-11-14T18:15:00Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · IT Support / Ops · Greensboro, NC United States of America · Java, JavaScript, SQL, Angular, HTML/CSS</summary>
+    <summary>Summer 2027 · IT Support / Ops · Greensboro, NC United States of America · Java, JavaScript, SQL, Angular, HTML/CSS · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:stratolaunch:5471933008</id>
@@ -758,53 +806,5 @@
     <updated>2026-11-03T03:11:09Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Network / Telecom · Woburn, MA · $25.2–$54/hr · Python, Bash, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:massgeneralbrigham:/job/Boston-MA/Co-op-Security_RQ4085104</id>
-    <title>Mass General Brigham: Co-op Security</title>
-    <link href="https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Co-op-Security_RQ4085104"/>
-    <updated>2026-11-03T03:11:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security (general) · Boston-MA · H-1B track record: ~80 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---System-Engineer--HBM_JR113469</id>
-    <title>Micron Technology: Intern - System Engineer, HBM</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---System-Engineer--HBM_JR113469"/>
-    <updated>2026-11-03T03:11:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Boise, ID - Main Site · Python, C++, LLMs, Linux, Verilog · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:motorolasolutions:/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250</id>
-    <title>Motorola: Software Engineer Cybersecurity Services - 2027 Summer Internship 🇺🇸</title>
-    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250"/>
-    <updated>2026-11-03T03:11:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security (general) · Virginia Remote Work, More... · Python, JavaScript, React, AWS, Kubernetes · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:valmont:/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223</id>
-    <title>Valmont: Embedded Systems Engineering Intern</title>
-    <link href="https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223"/>
-    <updated>2026-11-03T03:11:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Systems &amp; Cloud Infra · Valley NE · C++, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:idmeuniversityrecruiting:8076649003</id>
-    <title>ID.me: Summer Intern 2027 - Product Security Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8076649003"/>
-    <updated>2026-11-02T19:47:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · AppSec / Product Sec · Mountain View, CA · Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bannerhealth:/job/Remote-Arizona/IT-Intern_R4449625</id>
-    <title>Banner Health: IT Intern</title>
-    <link href="https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/IT-Intern_R4449625"/>
-    <updated>2026-11-02T19:47:20Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · IT Support / Ops · Remote Arizona · $17.5/hr · H-1B track record: ~20 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
