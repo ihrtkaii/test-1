@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-11-14T18:15:00Z</updated>
+  <updated>2026-11-14T22:38:04Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10605141</id>
-    <title>Amazon: Data Center Infrastructure Engineer Intern, Summer 2027 - East</title>
-    <link href="https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east"/>
-    <updated>2026-11-14T18:15:00Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Systems &amp; Cloud Infra · Herndon, Virginia, USA · AWS · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10605132</id>
     <title>Amazon: Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast</title>
@@ -24,12 +16,12 @@
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Umatilla, Oregon, USA · AWS · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:mizuho:/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2027-Corporate-Credit-Structuring-Intern-in-Technology--Media--and-Telecom_R7553</id>
-    <title>Mizuho Securities USA: 2027 Corporate Credit Structuring Intern in Technology, Media, and Telecom 🛂</title>
-    <link href="https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2027-Corporate-Credit-Structuring-Intern-in-Technology--Media--and-Telecom_R7553"/>
+    <id>urn:intern-engine:amazon:amazon:10605141</id>
+    <title>Amazon: Data Center Infrastructure Engineer Intern, Summer 2027 - East</title>
+    <link href="https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east"/>
     <updated>2026-11-14T18:15:00Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Network / Telecom · New York, NY (1271 AOA/6th Ave) · $35/hr · sponsorship: no-sponsorship · H-1B track record: ~25 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · Herndon, Virginia, USA · AWS · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161592679</id>
@@ -38,6 +30,14 @@
     <updated>2026-11-14T18:15:00Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security (general) · Kirkland, Washington, United States · $58.96/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mizuho:/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2027-Corporate-Credit-Structuring-Intern-in-Technology--Media--and-Telecom_R7553</id>
+    <title>Mizuho Securities USA: 2027 Corporate Credit Structuring Intern in Technology, Media, and Telecom 🛂</title>
+    <link href="https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2027-Corporate-Credit-Structuring-Intern-in-Technology--Media--and-Telecom_R7553"/>
+    <updated>2026-11-14T18:15:00Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Network / Telecom · New York, NY (1271 AOA/6th Ave) · $35/hr · sponsorship: no-sponsorship · H-1B track record: ~25 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:trace3:8274792</id>
