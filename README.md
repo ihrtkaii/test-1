@@ -8,7 +8,7 @@
 
 ### 713 open roles (522 listed below) · 56 new this week
 
-5,105 employers tracked · data as of Nov 15, 2026 at 06:36 UTC
+5,105 employers tracked · data as of Nov 15, 2026 at 14:34 UTC
 
 _526 have a cycle the employer stated · 187 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -260,7 +260,7 @@ These postings never name a cycle, not in the title and not in the posting text,
 | Amazon ✓ | Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast 🆕 | Systems & Cloud Infra | Umatilla, Oregon, USA | AWS | Nov 14, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast) |
 | Amazon ✓ | Data Center Infrastructure Engineer Intern, Summer 2027 - East 🆕 | Systems & Cloud Infra | Herndon, Virginia, USA | AWS | Nov 14, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east) |
 | Mizuho Securities USA ✓ | 2027 Corporate Credit Structuring Intern in Technology, Media, and Telecom 🛂 🆕 | Network / Telecom | New York, NY (1271 AOA/6th Ave) | No skills listed | Nov 13, 2026 | [Apply](https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2027-Corporate-Credit-Structuring-Intern-in-Technology--Media--and-Telecom_R7553) |
-| Shield AI | 2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541) 🆕 _(2 openings)_ | Systems & Cloud Infra | San Diego, CA, US | No skills listed | Nov 12, 2026 | [Apply](https://jobs.ashbyhq.com/shield/354d464d-ca91-4ce3-bd3f-d811b13755be) [#2](https://jobs.ashbyhq.com/shield/354d464d-ca91-4ce3-bd3f-d811b13755be) |
+| Shield AI | 2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541) _(2 openings)_ | Systems & Cloud Infra | San Diego, CA, US | No skills listed | Nov 12, 2026 | [Apply](https://jobs.ashbyhq.com/shield/354d464d-ca91-4ce3-bd3f-d811b13755be) [#2](https://jobs.ashbyhq.com/shield/354d464d-ca91-4ce3-bd3f-d811b13755be) |
 | Stratolaunch | Business Intelligence & Systems Analyst Intern 2027 🇺🇸 | Systems & Cloud Infra | Mojave, California, United States | SQL, Tableau | Nov 12, 2026 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008) |
 | Northrop Grumman | 2027 Systems Engineering Intern - Graduate Level - Plymouth MN 🇺🇸 | Systems & Cloud Infra | United States-Minnesota-Plymouth | No skills listed | Nov 12, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Systems-Engineering-Intern---Graduate-Level---Plymouth-MN_R10260431) |
 | Galaxy | 2027 Data Center Growth & Development Intern - NYC | Systems & Cloud Infra | New York | Python, SQL | Nov 12, 2026 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6256234004) |
@@ -720,7 +720,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,623 of 5,439 registered boards returned successfully across 12 ATS platforms (92% of boards attempted, 85% of the full registry) · completed in 1117.7s · 518 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,980 of 5,439 registered boards returned successfully across 12 ATS platforms (95% of boards attempted, 91% of the full registry) · completed in 1024.3s · 659 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
