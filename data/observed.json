@@ -2288,6 +2288,18 @@
     }
    }
   },
+  "raft": {
+   "name": "Raft",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-05",
+     "role_ids": [
+      "greenhouse:raft:6239819004"
+     ],
+     "count": 1
+    }
+   }
+  },
   "rf smart": {
    "name": "RF-SMART",
    "cycles": {
@@ -3023,5 +3035,5 @@
    }
   }
  },
- "updated_at": "2026-11-15T14:34:00Z"
+ "updated_at": "2026-11-15T20:36:36Z"
 }

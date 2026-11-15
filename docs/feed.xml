@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://ihrtkaii.github.io/test-1/feed.xml" rel="self"/>
   <link href="https://github.com/ihrtkaii/test-1"/>
-  <updated>2026-11-15T14:34:00Z</updated>
+  <updated>2026-11-15T20:36:36Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/ihrtkaii/test-1</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:raft:6239819004</id>
+    <title>Raft: DevOps Engineering Intern - Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/raft/jobs/6239819004"/>
+    <updated>2026-11-15T20:36:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Systems &amp; Cloud Infra · McLean, Virginia · $20–$24/hr · Python, Bash, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10605132</id>
     <title>Amazon: Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast</title>
@@ -798,13 +806,5 @@
     <updated>2026-11-03T03:11:09Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Systems &amp; Cloud Infra · Middle River, MD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:systemstechnologyresearch:4726405006</id>
-    <title>STR: 5G SA O-RAN Test Bed Co-Op (Engineering Co-Op) 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4726405006"/>
-    <updated>2026-11-03T03:11:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Network / Telecom · Woburn, MA · $25.2–$54/hr · Python, Bash, Linux · sponsorship: citizens-only</summary>
   </entry>
 </feed>
